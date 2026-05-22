@@ -1,0 +1,15 @@
+default: |
+  이 이미지는 네이버 스마트스토어 상품 상세페이지의 스크린샷입니다.
+  이미지에서 다음 항목을 추출하여 JSON으로 반환하세요.
+  항목이 없으면 null로 표시하세요.
+
+  추출 항목:
+  - features: 상품 주요 특징 (list[str])
+  - ingredients: 성분/원재료 (list[str] 또는 null)
+  - effects: 효능/효과 (list[str] 또는 null)
+  - specs: 규격/용량 등 스펙 (dict[str, str])
+  - usage: 사용법/섭취법 (str 또는 null)
+  - storage: 보관법 (str 또는 null)
+  - caution: 주의사항 (str 또는 null)
+
+  JSON만 반환하고 다른 텍스트는 포함하지 마세요.

@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m src.main \"https://brand.naver.com/drblank/products/4960823242\")",
+      "Bash(python test_fetch.py \"https://brand.naver.com/drblank/products/4960823242\")",
+      "Bash(python debug_brand.py)",
+      "Bash(python -c ' *)",
+      "Read(//c/vsws/ai-iol-bloger/naver-store-extractor/output/7515598524/**)",
+      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\vsws\\\\ai-bloger\\\\blog-writing\\\\drafts\\\\7515598524\")",
+      "Read(//c/Users/Guest1/Downloads/**)",
+      "WebFetch(domain:brand.naver.com)",
+      "Bash(python login_once.py)",
+      "Bash(python -m src.main \"https://brand.naver.com/wholeberry/products/9580347612\")",
+      "Bash(python fetch_9580347612.py)"
+    ],
+    "additionalDirectories": [
+      "c:\\vsws\\ai-bloger\\naver-store-extractor"
+    ]
+  }
+}
