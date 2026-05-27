@@ -4,7 +4,11 @@ import sys
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-wb = openpyxl.load_workbook(r'C:\Users\Guest1\Downloads\연관키워드 20260515 0840.xlsx')
+if len(sys.argv) < 2:
+    print("사용법: python read_keywords.py <엑셀파일경로>")
+    sys.exit(1)
+
+wb = openpyxl.load_workbook(sys.argv[1])
 ws = wb.active
 rows = list(ws.iter_rows(values_only=True))
 

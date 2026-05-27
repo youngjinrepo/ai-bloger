@@ -68,6 +68,10 @@ async def fetch_product_page(url: str, output_dir: Path) -> dict:
         html = await page.content()
         await browser.close()
 
+    # content body 디버그 저장
+    if content_body:
+        (output_dir / "content_raw.json").write_bytes(content_body)
+
     # 상세이미지 URL 추출
     img_urls = _parse_detail_images(content_body)
     print(f"  [fetch] 상세이미지 {len(img_urls)}개")
@@ -94,8 +98,13 @@ def _parse_detail_images(body: bytes | None) -> list[str]:
     if not render_html:
         return []
 
-    # HTML-escaped JSON 안에 묻혀 있어 regex로 직접 추출
-    raw_urls = re.findall(r'https://shop-phinf\.pstatic\.net[^"\'<>\s\\]+', render_html)
+    raw_urls: list[str] = []
+
+    # 분기 1: src="..." 속성 추출 — shopping-phinf (신형 CDN, 상품 상세 에디터 방식)
+    raw_urls += re.findall(r'src="(https://shopping-phinf\.pstatic\.net[^"<>\s]+)"', render_html)
+
+    # 분기 2: bare URL 추출 — shop-phinf (구형 CDN, HTML entity 포함 케이스)
+    raw_urls += re.findall(r'https://shop-phinf\.pstatic\.net[^"\'<>\s\\]+', render_html)
 
     seen: set[str] = set()
     result: list[str] = []
@@ -128,6 +137,8 @@ async def _download_and_chunk(img_urls: list[str], output_dir: Path) -> list[Pat
             try:
                 r = await client.get(url)
                 img = Image.open(io.BytesIO(r.content)).convert("RGBA").convert("RGB")
+                if img.width <= 2 or img.height <= 2:
+                    continue  # 트래킹 픽셀 제외
                 images.append(img)
                 print(f"  [fetch] 이미지 {i+1}/{len(img_urls)}: {img.width}x{img.height}px")
             except Exception as e:

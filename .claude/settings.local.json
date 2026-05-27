@@ -11,7 +11,13 @@
       "WebFetch(domain:brand.naver.com)",
       "Bash(python login_once.py)",
       "Bash(python -m src.main \"https://brand.naver.com/wholeberry/products/9580347612\")",
-      "Bash(python fetch_9580347612.py)"
+      "Bash(python fetch_9580347612.py)",
+      "WebSearch",
+      "WebFetch(domain:smartstore.naver.com)",
+      "WebFetch(domain:www.mothersall.com)",
+      "WebFetch(domain:www.11st.co.kr)",
+      "Bash(python read_keywords.py \"C:\\\\Users\\\\Guest1\\\\Downloads\\\\연관키워드 20260527 1233.xlsx\")",
+      "Bash(python debug_smartstore.py)"
     ],
     "additionalDirectories": [
       "c:\\vsws\\ai-bloger\\naver-store-extractor"
