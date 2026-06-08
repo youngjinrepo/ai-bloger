@@ -17,7 +17,9 @@
       "WebFetch(domain:www.mothersall.com)",
       "WebFetch(domain:www.11st.co.kr)",
       "Bash(python read_keywords.py \"C:\\\\Users\\\\Guest1\\\\Downloads\\\\연관키워드 20260527 1233.xlsx\")",
-      "Bash(python debug_smartstore.py)"
+      "Bash(python debug_smartstore.py)",
+      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\vsws\\\\ai-bloger\\\\naver-store-extractor\\\\output\\\\12137164796\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\vsws\\\\ai-bloger\\\\blog-writing\\\\drafts\")"
     ],
     "additionalDirectories": [
       "c:\\vsws\\ai-bloger\\naver-store-extractor"
