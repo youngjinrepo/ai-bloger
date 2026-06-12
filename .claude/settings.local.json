@@ -19,7 +19,18 @@
       "Bash(python read_keywords.py \"C:\\\\Users\\\\Guest1\\\\Downloads\\\\연관키워드 20260527 1233.xlsx\")",
       "Bash(python debug_smartstore.py)",
       "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\vsws\\\\ai-bloger\\\\naver-store-extractor\\\\output\\\\12137164796\")",
-      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\vsws\\\\ai-bloger\\\\blog-writing\\\\drafts\")"
+      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\vsws\\\\ai-bloger\\\\blog-writing\\\\drafts\")",
+      "Bash(python debug_smartstore.py \"https://brand.naver.com/gossinefarm/products/6325287093\" \"6325287093\")",
+      "Bash(python get_product_imgs.py 6325287093)",
+      "Bash(python process_new_product.py 6325287093)",
+      "Bash(chcp 65001)",
+      "Bash(sort -k6)",
+      "Bash(python debug_smartstore.py \"https://smartstore.naver.com/sunandsea1/products/10265850987\" 10265850987)",
+      "Bash(python /tmp/check_url.py)",
+      "Bash(which python *)",
+      "Bash(python --version)",
+      "Bash(python3 --version)",
+      "Bash(python _count.py)"
     ],
     "additionalDirectories": [
       "c:\\vsws\\ai-bloger\\naver-store-extractor"

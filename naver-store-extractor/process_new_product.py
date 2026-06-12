@@ -4,6 +4,7 @@ import json
 import re
 import io
 import random
+import sys
 from pathlib import Path
 
 import httpx
@@ -11,8 +12,9 @@ from PIL import Image
 
 from src.fetcher import USER_AGENTS
 
-RAW_JSON = Path("output/7515598524_raw.json")
-OUT_DIR = Path("output/7515598524")
+PRODUCT_ID = sys.argv[1] if len(sys.argv) > 1 else "7515598524"
+RAW_JSON = Path(f"output/{PRODUCT_ID}/{PRODUCT_ID}_raw.json")
+OUT_DIR = Path(f"output/{PRODUCT_ID}")
 CHUNK_HEIGHT = 4000
 
 
