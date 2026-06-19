@@ -12,10 +12,56 @@ SESSION_PATH = BASE_DIR / "cookies" / "session.json"
 CHUNK_HEIGHT = 4000
 
 USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
 ]
+
+# 봇 탐지 우회 init script — 모든 페이지 컨텍스트에 주입
+STEALTH_SCRIPT = """
+// webdriver 플래그 제거
+Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+
+// Chrome 런타임 객체 주입
+window.chrome = { runtime: {}, loadTimes: function(){}, csi: function(){}, app: {} };
+
+// 언어 설정
+Object.defineProperty(navigator, 'languages', { get: () => ['ko-KR', 'ko', 'en-US', 'en'] });
+
+// 플러그인 목록 (빈 배열 → 봇 신호, fake 플러그인 추가)
+Object.defineProperty(navigator, 'plugins', {
+    get: () => {
+        const arr = [
+            { name: 'Chrome PDF Plugin', filename: 'internal-pdf-viewer', description: 'Portable Document Format' },
+            { name: 'Chrome PDF Viewer', filename: 'mhjfbmdgcfjbbpaeojofohoefgiehjai', description: '' },
+            { name: 'Native Client', filename: 'internal-nacl-plugin', description: '' },
+        ];
+        arr.__proto__ = PluginArray.prototype;
+        return arr;
+    }
+});
+
+// permissions.query 재정의 (headless 탐지 우회)
+const origQuery = window.navigator.permissions.query;
+window.navigator.permissions.query = (params) => (
+    params.name === 'notifications'
+        ? Promise.resolve({ state: Notification.permission })
+        : origQuery(params)
+);
+
+// 하드웨어 설정
+Object.defineProperty(navigator, 'hardwareConcurrency', { get: () => 8 });
+Object.defineProperty(navigator, 'deviceMemory', { get: () => 8 });
+
+// WebGL 벤더/렌더러 스푸핑
+const getParam = WebGLRenderingContext.prototype.getParameter;
+WebGLRenderingContext.prototype.getParameter = function(p) {
+    if (p === 37445) return 'Intel Inc.';
+    if (p === 37446) return 'Intel Iris OpenGL Engine';
+    return getParam.call(this, p);
+};
+"""
 
 
 async def fetch_product_page(url: str, output_dir: Path) -> dict:
@@ -37,9 +83,7 @@ async def fetch_product_page(url: str, output_dir: Path) -> dict:
             timezone_id="Asia/Seoul",
             storage_state=str(SESSION_PATH),
         )
-        await context.add_init_script(
-            "Object.defineProperty(navigator, 'webdriver', { get: () => undefined });"
-        )
+        await context.add_init_script(STEALTH_SCRIPT)
         page = await context.new_page()
 
         # content API 응답 body 캡처
@@ -54,9 +98,14 @@ async def fetch_product_page(url: str, output_dir: Path) -> dict:
 
         page.on("response", on_response)
 
+        # naver.com 경유 후 상품 페이지 이동 (레퍼러 자연스럽게)
+        print(f"  [fetch] naver.com 경유 중...")
+        await page.goto("https://www.naver.com", wait_until="domcontentloaded", timeout=20000)
+        await asyncio.sleep(random.uniform(1.0, 2.5))
+
         print(f"  [fetch] 페이지 로드 중: {url}")
         await page.goto(url, wait_until="networkidle", timeout=40000)
-        await asyncio.sleep(1)  # async response handlers 완료 대기
+        await asyncio.sleep(random.uniform(1.5, 3.0))  # async response handlers 완료 대기
 
         if await _is_login_page(page):
             await browser.close()

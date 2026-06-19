@@ -31,7 +31,7 @@ async def main():
         # 로그인 완료 감지: login URL에서 벗어나면 완료
         await page.wait_for_url(
             lambda url: "nidlogin" not in url and "naver.com" in url,
-            timeout=180000,
+            timeout=600000,
         )
 
         print("로그인 감지됨. 세션 저장 중...")

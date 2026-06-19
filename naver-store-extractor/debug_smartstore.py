@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from src.fetcher import USER_AGENTS, SESSION_PATH
+from src.fetcher import USER_AGENTS, SESSION_PATH, STEALTH_SCRIPT
 from playwright.async_api import async_playwright
 
 if len(sys.argv) >= 3:
@@ -28,8 +28,10 @@ async def main():
             user_agent=random.choice(USER_AGENTS),
             viewport={"width": 1280, "height": 900},
             locale="ko-KR",
+            timezone_id="Asia/Seoul",
             storage_state=str(SESSION_PATH),
         )
+        await ctx.add_init_script(STEALTH_SCRIPT)
         page = await ctx.new_page()
 
         async def on_resp(resp):
@@ -47,9 +49,15 @@ async def main():
                     pass
 
         page.on("response", on_resp)
+
+        # naver.com 먼저 경유 (Referer 자연화)
+        print("naver.com 경유 중...")
+        await page.goto("https://www.naver.com", wait_until="domcontentloaded", timeout=20000)
+        await asyncio.sleep(random.uniform(1.5, 3.0))
+
         print(f"페이지 로드: {URL}")
         await page.goto(URL, wait_until="networkidle", timeout=40000)
-        await asyncio.sleep(3)
+        await asyncio.sleep(random.uniform(2.0, 4.0))
 
         title = await page.title()
         print(f"\n페이지 제목: {title}")

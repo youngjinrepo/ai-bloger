@@ -30,7 +30,14 @@
       "Bash(which python *)",
       "Bash(python --version)",
       "Bash(python3 --version)",
-      "Bash(python _count.py)"
+      "Bash(python _count.py)",
+      "Bash(python debug_shopping_search.py \"암꽃게\" amgge)",
+      "Bash(python debug_shopping_search.py \"암꽃게\" amgge2)",
+      "Bash(python debug_autocomplete.py \"암꽃게\" \"절단꽃게\" \"꽃게 금어기\" \"꽃게장\" \"알배기 꽃게\")",
+      "Bash(cd \"/c/vsws/ai-bloger/blog-writing/drafts/11432461678\" && wc -m A_kimjuyeon.md)",
+      "Read(//c/c/vsws/ai-bloger/blog-writing/drafts/11432461678/**)",
+      "Bash(python -m src.main \"https://smartstore.naver.com/nakjichon/products/4789165513\")",
+      "Bash(python3 -c ' *)"
     ],
     "additionalDirectories": [
       "c:\\vsws\\ai-bloger\\naver-store-extractor"
