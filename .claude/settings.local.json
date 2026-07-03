@@ -37,10 +37,21 @@
       "Bash(cd \"/c/vsws/ai-bloger/blog-writing/drafts/11432461678\" && wc -m A_kimjuyeon.md)",
       "Read(//c/c/vsws/ai-bloger/blog-writing/drafts/11432461678/**)",
       "Bash(python -m src.main \"https://smartstore.naver.com/nakjichon/products/4789165513\")",
-      "Bash(python3 -c ' *)"
+      "Bash(python3 -c ' *)",
+      "Bash(mkdir -p \"c:/vsws/ai-bloger/blog-writing/drafts/4748456621\")",
+      "PowerShell(cd c:\\\\vsws\\\\ai-bloger\\\\naver-store-extractor; $json = Get-Content \"output\\\\3856254936\\\\cap_37952.json\" -Encoding UTF8 -Raw | ConvertFrom-Json; Write-Host \"상품명: $\\($json.name\\)\"; Write-Host \"가격: $\\($json.salePrice\\)\"; Write-Host \"스토어: $\\($json.channel.channelName\\)\"; Write-Host \"재고: $\\($json.stockQuantity\\)\"; Write-Host \"productNo: $\\($json.productNo\\)\"; $json.productImages | ForEach-Object { Write-Host \"이미지: $\\($_.url\\)\" })",
+      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\vsws\\\\ai-bloger\\\\output\\\\3856254936\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"c:\\\\vsws\\\\ai-bloger\\\\blog-writing\\\\drafts\\\\3856254936\")",
+      "PowerShell(cd c:\\\\vsws\\\\ai-bloger; $text = \\(Get-Content \"blog-writing\\\\drafts\\\\10118953898\\\\D_choedohyeon.md\" -Raw -Encoding UTF8\\); $text[-200..-1] -join '' | Write-Host)",
+      "Bash(python naver-store-extractor/fetch_gjgj.py)",
+      "Bash(python naver-store-extractor/debug_smartstore.py \"https://brand.naver.com/koreasusan1/products/8772335977\" \"8772335977\")",
+      "Bash(python naver-store-extractor/debug_autocomplete.py \"체리\" \"체리 보관법\" \"미국체리\" \"칠레체리\" \"생체리\" \"체리 효능\")",
+      "Bash(python naver-store-extractor/debug_smartstore.py \"https://smartstore.naver.com/vineko/products/2138827992\" \"2138827992\")",
+      "Bash(python naver-store-extractor/login_once.py)"
     ],
     "additionalDirectories": [
-      "c:\\vsws\\ai-bloger\\naver-store-extractor"
+      "c:\\vsws\\ai-bloger\\naver-store-extractor",
+      "c:\\vsws\\ai-bloger\\blog-writing\\drafts"
     ]
   }
 }

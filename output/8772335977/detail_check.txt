@@ -1,0 +1,7 @@
+productImages count: 10
+representImage: {"order": 1, "url": "https://shop-phinf.pstatic.net/20251126_127/1764139417903mbSpk_JPEG/36739282021498148_1870332560.jpg", "width": 1000, "height": 1000, "imageType": "REPRESENTATIVE"}
+detailAttributes: {"무게": "500g", "숙기": "중생종", "보관방법": "냉장보관", "수확시기": "연중생산"}
+viewAttributes: {"상품상태": "신상품", "상품번호": "8772335977", "제조사": "산지이음", "브랜드": "대한민국농수산", "모델명": "체리", "이벤트": "알람받기 동의 쿠폰할인", "원산지": "(미국/칠레 등) 시기별 가장좋은 체리 재배지역"}
+additionalAttributes: {"영수증발급": "신용카드전표, 현금영수증발급", "A/S 안내": ["********", "********"]}
+mobileDiscountRatio: 38
+deliveryText: "제주 및 도서산간 배송가능"

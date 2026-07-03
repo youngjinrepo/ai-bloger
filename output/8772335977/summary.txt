@@ -1,0 +1,14 @@
+name: 고당도 프리미엄 생 체리 왕체리 과일
+salePrice: 25900
+discountedSalePrice: 15900
+reviewAmount: {"totalReviewCount": 95, "score1ReviewCount": 0, "score2ReviewCount": 0, "score3ReviewCount": 5, "score4ReviewCount": 11, "score5ReviewCount": 79, "averageReviewScore": 4.78, "productSatisfactionPercent": 0, "premiumReviewHighlyRecommendationCount": 0, "premiumReviewRecommendationCount": 0, "premiumReviewNormalCount": 0, "premiumReviewNotRecommendationCount": 0, "generalReviewSatisfactionCount": 0, "generalReviewNormalCount": 0, "generalReviewDisSatisfactionCount": 0, "premiumReviewCount": 0}
+category: {"categoryId": "50002185", "categoryName": "체리", "category1Id": "50000006", "category2Id": "50000160", "category3Id": "50000960", "category4Id": "50002185", "category1Name": "식품", "category2Name": "농산물", "category3Name": "과일", "category4Name": "체리", "wholeCategoryId": "50000006>50000160>50000960>50002185", "wholeCategoryName": "식품>농산물>과일>체리", "categoryLevel": 4, "lastLevel": true, "sortOrder": 20, "validCategory": true, "receiptIssue": true, "exceptionalCategoryTypes": ["REGULAR_SUBSCRIPTION", "ORIGINAREA_PRODUCTS", "FREE_RETURN_INSURANCE", "GROUP_PRODUCT_MAX", "UNIT_PRICE", "REVIEW_UNEXPOSE", "MANUFACTURE_DEFINE_NO", "GREEN_PRODUCTS"], "pointAccumulationYn": false}
+originAreaInfo: {"originAreaType": "DIRECT_INPUT", "content": "(미국/칠레 등) 시기별 가장좋은 체리 재배지역", "originAreaCode": "04", "wholeOriginAreaName": "직접입력", "plural": false}
+naverShoppingSearchInfo: {"manufacturerName": "산지이음", "brandName": "대한민국농수산", "brandId": 1069496, "modelName": "체리"}
+productDeliveryInfo: {"deliveryFeeType": "FREE", "deliveryMethodTypes": ["DELIVERY"], "baseFee": 0, "differentialFeeByArea": "제주 및 도서산간 배송가능", "installationFee": false, "deliveryAttributeType": "NORMAL", "todayDelivery": false, "deliveryCompany": {"id": "HYUNDAI", "name": "롯데택배"}}
+options: [{"id": 10480532794, "optionType": "COMBINATION", "groupName": "🍒프리미엄 고당도 체리🍒"}]
+seoInfo: {"sellerTags": [{"code": "518708", "text": "신선과일"}, {"code": "828348", "text": "건강한과일"}, {"code": "13039", "text": "수입과일"}, {"code": "312355", "text": "수입과일선물"}, {"code": "235378", "text": "상큼한과일"}, {"code": "15504", "text": "싱싱한"}, {"code": "217867", "text": "과일선물세트"}, {"code": "11810", "text": "제철과일"}, {"code": "12238", "text": "수입산"}, {"code": "73654", "text": "명절선물세트"}]}
+sellerTags: [{"code": "518708", "text": "신선과일"}, {"code": "828348", "text": "건강한과일"}, {"code": "13039", "text": "수입과일"}, {"code": "312355", "text": "수입과일선물"}, {"code": "235378", "text": "상큼한과일"}, {"code": "15504", "text": "싱싱한"}, {"code": "217867", "text": "과일선물세트"}, {"code": "11810", "text": "제철과일"}, {"code": "12238", "text": "수입산"}, {"code": "73654", "text": "명절선물세트"}]
+certification: false
+unitCapacity: {"unitPriceYn": true, "unitCapacity": 100, "indicationUnit": "g", "totalCapacityValue": 500}
+afterServiceInfo: {"afterServiceTelephoneNumber": "********", "afterServiceGuideContent": "********"}
