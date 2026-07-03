@@ -1,0 +1,98 @@
+combinationOptions:
+[
+  {
+    "groupName": "선택종류",
+    "options": [
+      {
+        "id": 6563870461,
+        "optionName1": "와인식초",
+        "stockQuantity": 6325,
+        "price": 0,
+        "regOrder": 0,
+        "registerDate": "2017-08-31T07:29:49.966+00:00",
+        "todayDispatch": true
+      },
+      {
+        "id": 6563870462,
+        "optionName1": "귤식초",
+        "stockQuantity": 9880,
+        "price": 0,
+        "regOrder": 1,
+        "registerDate": "2017-08-31T07:29:49.966+00:00",
+        "todayDispatch": true
+      },
+      {
+        "id": 7672852903,
+        "optionName1": "자색고구마식초",
+        "stockQuantity": 9956,
+        "price": 0,
+        "regOrder": 2,
+        "registerDate": "2018-02-07T06:47:16.174+00:00",
+        "todayDispatch": true
+      },
+      {
+        "id": 14035740209,
+        "optionName1": "양파와인식초",
+        "stockQuantity": 9876,
+        "price": 3000,
+        "regOrder": 3,
+        "registerDate": "2020-03-02T17:01:02.026+00:00",
+        "todayDispatch": true
+      }
+    ],
+    "checkedName": null,
+    "checkedIds": null,
+    "price": 0,
+    "isLastDepth": true
+  }
+]
+
+supplements:
+[
+  {
+    "groupName": "선택종류",
+    "options": [
+      {
+        "id": 1121967604,
+        "groupName": "선택종류",
+        "name": "비닐쇼핑백",
+        "stockQuantity": 4747,
+        "price": 100,
+        "productStatusType": "SALE"
+      }
+    ],
+    "checkedName": null,
+    "checkedId": null,
+    "price": 0
+  }
+]
+
+benefitsView:
+{
+  "discountedSalePrice": 24000,
+  "mobileDiscountedSalePrice": 24000,
+  "dispDiscountedSalePrice": 24000,
+  "sellerImmediateDiscountAmount": 3500,
+  "mobileSellerImmediateDiscountAmount": 3500,
+  "managerImmediateDiscountAmount": 0,
+  "mobileManagerImmediateDiscountAmount": 0,
+  "specialDiscountAmount": {},
+  "discountedRatio": 12,
+  "mobileDiscountedRatio": 12,
+  "dispDiscountedRatio": 12,
+  "sellerPurchasePoint": 0,
+  "mobileSellerPurchasePoint": 0,
+  "sellerCustomerManagementPoint": 0,
+  "mobileSellerCustomerManagementPoint": 0,
+  "managerPurchasePoint": 240,
+  "mobileManagerPurchasePoint": 240,
+  "managerPurchaseExtraPoint": 0,
+  "mobileManagerPurchaseExtraPoint": 0,
+  "managerPaymoneyAccumulatePoint": 360,
+  "mobileManagerPaymoneyAccumulatePoint": 360,
+  "managerBankbookAccumulatePoint": 120,
+  "mobileManagerBankbookAccumulatePoint": 120,
+  "managerArrivalGuaranteePoint": 0,
+  "mobileManagerArrivalGuaranteePoint": 0,
+  "managerMembershipArrivalGuaranteePoint": 0,
+  "mobileManage

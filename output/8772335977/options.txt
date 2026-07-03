@@ -1,0 +1,59 @@
+combinationOptions: [
+  {
+    "groupName": "🍒프리미엄 고당도 체리🍒",
+    "options": [
+      {
+        "id": 49863530228,
+        "optionName1": "체리 (중10-10.5R) 500g",
+        "stockQuantity": 999988,
+        "price": 0,
+        "regOrder": 0,
+        "registerDate": "2025-06-30T01:32:22.094+00:00"
+      },
+      {
+        "id": 58379141255,
+        "optionName1": "체리 (중10-10.5R) 300g",
+        "stockQuantity": 999999,
+        "price": -4000,
+        "regOrder": 1,
+        "registerDate": "2026-05-15T07:00:41.059+00:00"
+      },
+      {
+        "id": 49863530229,
+        "optionName1": "체리 (중10-10.5R) 1kg",
+        "stockQuantity": 999980,
+        "price": 10100,
+        "regOrder": 2,
+        "registerDate": "2025-06-30T01:32:22.096+00:00"
+      },
+      {
+        "id": 58379141256,
+        "optionName1": "[⭐추천] 체리 (대9-9.5R) 300g",
+        "stockQuantity": 999996,
+        "price": -3000,
+        "regOrder": 3,
+        "registerDate": "2026-05-15T07:00:41.060+00:00"
+      },
+      {
+        "id": 49896346141,
+        "optionName1": "[⭐추천] 체리 (대9-9.5R) 500g",
+        "stockQuantity": 999991,
+        "price": 1600,
+        "regOrder": 4,
+        "registerDate": "2025-07-01T04:36:33.388+00:00"
+      },
+      {
+        "id": 49896346143,
+        "optionName1": "[⭐추천] 체리 (대9-9.5R) 1kg",
+        "stockQuantity": 999986,
+        "price": 12600,
+        "regOrder": 5,
+        "registerDate": "2025-07-01T04:36:33.389+00:00"
+      }
+    ],
+    "checkedName": null,
+    "checkedIds": null,
+    "price": 0,
+    "isLastDepth": true
+  }
+]
