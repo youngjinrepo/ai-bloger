@@ -48,3 +48,7 @@ logs/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# claude
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
