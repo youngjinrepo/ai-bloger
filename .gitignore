@@ -21,8 +21,11 @@ env/
 .env.local
 .env.*.local
 
-# Credentials & sessions
-naver-store-extractor/cookies/
+# Credentials & sessions (루트/하위 어디에 있든 차단)
+cookies/
+**/cookies/
+**/session.json
+*session*.json
 naver-store-extractor/config/selectors.yaml
 
 # Generated output data
