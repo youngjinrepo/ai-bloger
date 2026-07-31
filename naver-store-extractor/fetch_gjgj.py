@@ -9,8 +9,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 from src.fetcher import USER_AGENTS, SESSION_PATH, STEALTH_SCRIPT
 from playwright.async_api import async_playwright
 
-URL = "https://brand.naver.com/koreasusan1/products/8772335977"
-PRODUCT_ID = "8772335977"
+URL = "https://smartstore.naver.com/imnutri/products/11618484526"
+PRODUCT_ID = "11618484526"
 OUT_DIR = Path(f"output/{PRODUCT_ID}")
 
 

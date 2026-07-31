@@ -1,0 +1,11 @@
+name: 수향미 10kg 골드퀸쌀3호 쌀10키로 25년 햅쌀 경기미 농협 안심
+salePrice: 65000
+discounted: 56000
+reviewAmount: {"totalReviewCount": 27, "score1ReviewCount": 1, "score2ReviewCount": 0, "score3ReviewCount": 1, "score4ReviewCount": 2, "score5ReviewCount": 23, "averageReviewScore": 4.7, "productSatisfactionPercent": 0, "premiumReviewHighlyRecommendationCount": 0, "premiumReviewRecommendationCount": 0, "premiumReviewNormalCount": 0, "premiumReviewNotRecommendationCount": 0, "generalReviewSatisfactionCount": 0, "generalReviewNormalCount": 0, "generalReviewDisSatisfactionCount": 0, "premiumReviewCount": 0}
+category: {"categoryId": "50004749", "categoryName": "백미", "category1Id": "50000006", "category2Id": "50000160", "category3Id": "50001052", "category4Id": "50004749", "category1Name": "식품", "category2Name": "농산물", "category3Name": "쌀", "category4Name": "백미", "wholeCategoryId": "50000006>50000160>50001052>50004749", "wholeCategoryName": "식품>농산물>쌀>백미", "categoryLevel": 4, "lastLevel": true, "sortOrder": 1, "validCategory": true, "receiptIssue": true, "exceptionalCategoryTypes": ["MANUFACTURE_DEFINE_NO", "REGULAR_SUBSCRIPTION", "ORIGINAREA_PRODUCTS", "GREEN_PRODUCTS", "REVIEW_UNEXPOSE", "UNIT_PRICE", "FREE_RETURN_INSURANCE", "GROUP_PRODUCT_MAX"], "pointAccumulationYn": false}
+originAreaInfo: {"originAreaType": "LOCAL", "content": "국산(경기도 화성시)", "originAreaCode": "0002590", "wholeOriginAreaName": "국산:경기도>화성시", "plural": false}
+delivery: {"deliveryFeeType": "FREE", "deliveryMethodTypes": ["DELIVERY"], "baseFee": 0, "deliveryAreaType": "AREA_3", "area2ExtraFee": 8000, "area3ExtraFee": 10000, "installationFee": false, "deliveryFeePolicyText": "제주 추가 8,000원, 제주 외 도서지역 추가 10,000원", "deliveryAttributeType": "NORMAL", "todayDelivery": false, "deliveryCompany": {"id": "KGB", "name": "로젠택배"}}
+detailAttributes: {"무게": "10kg", "등급": "상", "생산년도": "2025년"}
+viewAttributes: {"상품상태": "신상품", "상품번호": "12493738786", "제조사": "화성수원안산수라청농협쌀조합공동사업법인", "브랜드": "수라청", "모델명": "수향미골드퀸3호", "이벤트": "리뷰 이벤트 - 포인트 받아가세요", "사은품": "포인트, 구매등급별 할인쿠폰 증정, 빠른 배송 및 응대", "원산지": "국산(경기도 화성시)"}
+sellerTags: [{"text": "쌀10kg"}, {"text": "백미10kg"}, {"text": "햅쌀10kg"}, {"text": "햅쌀"}, {"text": "경기미쌀10kg"}, {"text": "경기미"}, {"text": "밥맛좋은쌀"}, {"text": "맛있는쌀"}, {"text": "국내산쌀"}]
+combinationOptions: null
