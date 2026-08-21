@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/ac.py\")",
+      "Bash(python fetch_blog_search.py \"아임리얼100 고농축 후기\" \"아임리얼 고농축 맛 비교\" \"아임리얼 푸룬 변비\" \"아임리얼 블루베리 아기\")",
+      "Bash(python -c ' *)",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/trend.py\")",
+      "Bash(python find_products.py \"무화과\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/shop_probe.py\" \"무화과\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/nsearch.py\" \"무화과\" \"넥쿨러\" \"접이식매트리스\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/grab.py\" \"https://smartstore.naver.com/bluebitestore/products/11065581834\" 11065581834)",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/grab_nosess.py\" \"https://smartstore.naver.com/bluebitestore/products/11065581834\" 11065581834)",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/check_sess.py\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/nsearch.py\" \"bluebitestore\" \"블루바이트 스마트스토어\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/nsearch.py\" \"bluebitestore\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/probe_ctrl.py\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/probe_store.py\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/store_list.py\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/store_html.py\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/parse_store.py\")",
+      "Bash(python \"C:/Users/Guest1/AppData/Local/Temp/claude/c--vsws-ai-bloger/debee76e-536d-402f-9b8d-416e738773e7/scratchpad/api_same_origin.py\")"
+    ]
+  }
+}
