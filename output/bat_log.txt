@@ -1,0 +1,45 @@
+[START] 2026-09-15 10:59:44.98 
+1. naver.com 경유...
+2. 블로그 홈 경유...
+3. 글쓰기 페이지 진입...
+현재 URL: https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fblog.naver.com%2Fsyngihansyngiroo%3FRedirect=Write%26categoryNo=
+[안내] 브라우저 창에서 로그인을 완료해 주세요! (로그인 후 자동으로 이어집니다)
+Traceback (most recent call last):
+  File "c:\vsws\ai-bloger\blog-writing\test_publish_stealth.py", line 209, in <module>
+    asyncio.run(main())
+  File "C:\Users\Guest1\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Guest1\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Guest1\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "c:\vsws\ai-bloger\blog-writing\test_publish_stealth.py", line 63, in main
+    await page.wait_for_url(lambda u: "nidlogin" not in u and "blog.naver.com" in u, timeout=300000)
+  File "C:\Users\Guest1\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\async_api\_generated.py", line 8798, in wait_for_url
+    await self._impl_obj.wait_for_url(
+  File "C:\Users\Guest1\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_page.py", line 543, in wait_for_url
+    return await self._main_frame.wait_for_url(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Guest1\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_frame.py", line 233, in wait_for_url
+    async with self.expect_navigation(
+  File "C:\Users\Guest1\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_event_context_manager.py", line 33, in __aexit__
+    await self._future
+  File "C:\Users\Guest1\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_frame.py", line 208, in continuation
+    event = await waiter.result()
+            ^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.Error: Target page, context or browser has been closed
+=========================== logs ===========================
+waiting for navigation to "<function ImplToApiMapping.wrap_handler.<locals>.wrapper_func at 0x0000020F63400720>" until 'load'
+  navigated to "https://nid.naver.com/nidlogin.login"
+  navigated to "https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fblog.naver.com%2Fsyngihansyngiroo%3FRedirect=Write%26categoryNo=&chp=hEt4O8tifCe4QIf1DLg1y57dxk7jjANe&locale=ko_KR&svctype=1"
+  navigated to "https://nid.naver.com/nidlogin.login"
+  navigated to "https://nid.naver.com/user2/help/idSafetyRelease?m=viewIdSafetyInfo&token_help=bb08b0ee1fe6421bab9b616e2d2be5"
+  navigated to "https://nid.naver.com/user2/help/idSafetyRelease?m=viewAuthType"
+  navigated to "https://nid.naver.com/user2/help/idSafetyRelease?m=viewInputPasswd"
+  navigated to "https://nid.naver.com/login/ext/auth2ndGuide?rurl=%2Fnidlogin.login%3Furl%3Dhttp%3A%2F%2Fwww.naver.com%26locale%3Dko_KR&lang=ko_KR"
+  navigated to "https://nid.naver.com/nidlogin.login?svctype=1&url=https%3A%2F%2Fwww.naver.com"
+============================================================
+[END] 2026-09-15 11:01:05.29 (ExitCode: 1) 

@@ -1,0 +1,2310 @@
+{
+  "abt": {},
+  "channelProductVertical": {
+    "verticals": [],
+    "isFetched": false
+  },
+  "consumerSurveys": [],
+  "deliverySavingProduct": {
+    "sortType": "RECENT",
+    "simpleProducts": [],
+    "isFetched": false
+  },
+  "directCount": 0,
+  "forYouProduct": {
+    "recInfo": null,
+    "recItems": [],
+    "simpleProducts": [],
+    "currentPage": 1,
+    "totalCount": 0
+  },
+  "fulfillment": {
+    "rmidStatus": "INIT",
+    "rmids": [],
+    "sellerDeliveryPlans": {}
+  },
+  "groupProduct": {
+    "products": [],
+    "originProductNos": [],
+    "groupId": null,
+    "groupProductName": null,
+    "reviewAmount": null,
+    "standardPurchaseOptionConfig": null,
+    "displayConfig": null
+  },
+  "keepCartRecommend": {
+    "recommendProducts": {
+      "SIMILAR": {
+        "products": []
+      },
+      "BUNDLE": {
+        "products": []
+      },
+      "BUNDLE_DELIVERY": {
+        "products": []
+      }
+    },
+    "keepProductType": null,
+    "cartProductType": null,
+    "recommendType": null,
+    "add_cart_action_uid": null,
+    "shown": false,
+    "hasShown": false,
+    "isFetched": false
+  },
+  "live": {
+    "broadcasts": [],
+    "representShortclip": null,
+    "recentShortclips": null
+  },
+  "marketingMessage": {
+    "isFetched": {
+      "PURCHASE": false,
+      "PET_MEMBERSHIP": false,
+      "BABY_MEMBERSHIP": false,
+      "SHOPPING_FESTA": false
+    },
+    "messages": []
+  },
+  "myAddress": {
+    "districtNameText": "",
+    "zipCode": "",
+    "addressName": "",
+    "buildingManagementNo": "",
+    "hasShippingAddr": false,
+    "isError": false,
+    "defaultShippingAddress": {
+      "districtNameText": "서울시 강남구",
+      "zipCode": "06236",
+      "addressName": "",
+      "roadNameText": "테헤란로 142"
+    }
+  },
+  "naverMember": {
+    "isLogin": false,
+    "adultAuthorizationType": "NOT_LOGIN",
+    "member": null
+  },
+  "naverMembership": {
+    "isSubscribed": false,
+    "isFamilyMembership": false,
+    "payMembership": null,
+    "expectBenefit": null,
+    "lifeCycles": {
+      "isLifeCyclePet": null,
+      "isLifeCycleBaby": null
+    }
+  },
+  "productBenefit": {
+    "point": {
+      "pointResult": null,
+      "pointExtra": {
+        "inflowPoint": {
+          "normalInflowPoints": [],
+          "membershipInflowPoints": []
+        },
+        "reviewPoint": {
+          "total": 0,
+          "textReview": 0,
+          "photoVideoReview": 0,
+          "afterUseTextReview": 0,
+          "afterUsePhotoVideoReview": 0,
+          "storeMemberReview": 0
+        },
+        "sellerPurchasePoint": {
+          "isSpecialBadge": false,
+          "sellerPurchaseDiffDays": ""
+        },
+        "membershipPoint": {
+          "membershipExpectedPoint": 0,
+          "membershipDayPolicyName": "",
+          "expectedTotalSuperPoint": 0
+        }
+      },
+      "rentalPointExtra": null
+    },
+    "isCustomReviewPoint": false,
+    "customTextPoint": null,
+    "customPhotoVideoPoint": null,
+    "optimalDiscount": {
+      "fetched": false
+    },
+    "optimalDiscountResult": null,
+    "simulator": {
+      "fetched": false,
+      "isLayerOpened": false,
+      "showDetail": false,
+      "useProductOption": false,
+      "point": {
+        "pointResult": null,
+        "pointExtra": {
+          "inflowPoint": {
+            "normalInflowPoints": [],
+            "membershipInflowPoints": []
+          },
+          "reviewPoint": {
+            "total": 0,
+            "textReview": 0,
+            "photoVideoReview": 0,
+            "afterUseTextReview": 0,
+            "afterUsePhotoVideoReview": 0,
+            "storeMemberReview": 0
+          },
+          "sellerPurchasePoint": {
+            "isSpecialBadge": false,
+            "sellerPurchaseDiffDays": ""
+          },
+          "membershipPoint": {
+            "membershipExpectedPoint": 0,
+            "membershipDayPolicyName": "",
+            "expectedTotalSuperPoint": 0
+          }
+        },
+        "rentalPointExtra": null
+      },
+      "productBenefit": {
+        "benefitsPolicy": null,
+        "benefitsView": null
+      },
+      "productInfo": null
+    },
+    "promotion": null,
+    "isFetched": false
+  },
+  "productDelivery": {
+    "isRestrictedRegionFetched": false,
+    "restrictedRegion": null
+  },
+  "productReviewSummary": {
+    "PRODUCT": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    },
+    "REVIEW_DIALOG": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    }
+  },
+  "recommendTabVisible": {
+    "hasRecommendProduct": false
+  },
+  "relationProducts": {
+    "isFetched": false,
+    "coordiProducts": [],
+    "togetherProducts": [],
+    "similarProducts": [],
+    "togetherImageProducts": []
+  },
+  "serviceConfig": null,
+  "subVerticalMeta": {},
+  "targetCondition": {
+    "type": "NONE",
+    "targetConditionActionDetails": []
+  },
+  "verticalInventoryItems": {},
+  "wtm": {
+    "wtmDryrunRulesEnc": null
+  },
+  "categoryMenu": {
+    "firstCategories": [],
+    "categoryDisplayType": null,
+    "storeCategoryTree": null,
+    "validMenu": {
+      "isBestValid": false,
+      "isPromotionValid": false,
+      "isLiveValid": false,
+      "isLoungeValid": false,
+      "isExhibitionValid": false,
+      "isArrivalGuaranteeValid": false,
+      "isNewProductValid": false
+    }
+  },
+  "categoryProducts": {
+    "key": null,
+    "isError": false,
+    "simpleProducts": [],
+    "simpleCatalogs": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "mobileListDisplayType": null,
+    "sort": null,
+    "page": 1,
+    "pageSize": 20,
+    "recommendSimpleProducts": [],
+    "recommendSimpleCatalogs": [],
+    "swipeGuideTargetIds": [],
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "isDeduplicateGroupEpId": false,
+    "isFetched": false
+  },
+  "categorySetting": {
+    "data": null,
+    "isFetched": false
+  },
+  "categorySettingContents": {
+    "categoryProductDefaultImageUrlMap": null,
+    "visibleQuickLinks": []
+  },
+  "channel": {
+    "id": "100289353",
+    "channelId": "7YegyrbXj4FJjNLJEVMmc2",
+    "channelUid": "2sWDxSPOJ1lgY22auW9Jz",
+    "channelServiceType": "STOREFARM",
+    "channelExternalStatusType": "NORMAL",
+    "exhibitionYn": true,
+    "channelName": "봉식스쇼핑몰",
+    "url": "bbong6",
+    "representImageInfoList": [
+      {
+        "imageUrl": "https://shop-phinf.pstatic.net/20211214_174/1639449530431rcK7a_PNG/40585358261377380_649443608.png",
+        "imageName": "40585358261377380_649443608.png",
+        "imageClass": "STORE_REPRESENTATIVE",
+        "width": 300,
+        "height": 300,
+        "fileSize": 18834,
+        "sortOrder": 0,
+        "representative": false
+      }
+    ],
+    "talkAccountId": "wc0gpk",
+    "talkExposureYn": true,
+    "description": "좋은 제품을 정직하게 판매하겠습니다",
+    "contactInfo": {
+      "displayTelNo": true,
+      "disabledDomesticTelNo": false,
+      "telNo": {
+        "countryCode": "********",
+        "phoneNo": "********",
+        "formattedNumber": "********"
+      },
+      "overseaTelNo": {
+        "countryCode": "********",
+        "phoneNo": "",
+        "formattedNumber": ""
+      },
+      "onlineSales": false,
+      "offlineSales": false
+    },
+    "representType": "DOMESTIC_BUSINESS",
+    "identity": "********",
+    "representName": "뷰티킹",
+    "representativeName": "안은진",
+    "businessType": "PRIVATE",
+    "declaredToOnlineMarkettingNumber": "********",
+    "businessAddressInfo": {
+      "address": "********",
+      "apiType": "********",
+      "basicAddress": "********",
+      "detailAddress": "********",
+      "fullAddressInfo": "********",
+      "hasJibunAddress": false,
+      "hasRoadNameAddress": true,
+      "latitude": "********",
+      "longitude": "********",
+      "massiveAddress": "********",
+      "naverMapCode": "********",
+      "newZipCode": "********",
+      "overseas": false,
+      "placeId": "********",
+      "representAddressType": "********",
+      "zipCode": "********"
+    },
+    "accountNo": 100260378,
+    "accountId": "ncp_1noxei_01",
+    "accountUid": "ncp_2sSEy244X0q9rtRhv51Gj",
+    "mallSeq": 810315,
+    "storeExposureInfo": {
+      "exposureInfo": {
+        "NAVERBLOG": [
+          "tan-goryo"
+        ]
+      }
+    },
+    "chrgrEmail": "********",
+    "naverPayNo": 100260274,
+    "payReferenceKey": "510270274",
+    "actionGrade": "FIRST",
+    "saleCount": 11366,
+    "naSiteId": "s_1ba76eb7efa75",
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20211214_174/1639449530431rcK7a_PNG/40585358261377380_649443608.png",
+    "additionalImageInfoList": [],
+    "isBusiness": true,
+    "representTelephoneNumber": "********",
+    "isDomesticPhoneNumber": true,
+    "domesticTelephoneNumberReported": false,
+    "isDomesticTelephoneNumberReportable": true,
+    "domesticTelephoneNumberCertified": true,
+    "representativeBirthDay": "********",
+    "brandStoreName": "봉식스쇼핑몰",
+    "brandUrl": "bbong6",
+    "brandDisplayReinforceYn": false,
+    "blogExposureYn": false,
+    "freeReturnInsuranceStatusType": "DELETED",
+    "arrivalGuaranteeUseYn": false,
+    "sellerGuaranteeUseYn": false,
+    "loungeOperateYn": false,
+    "loungeNotifyReceiveAgreeYn": false,
+    "consumerSurveyYn": false,
+    "useAccountLogisticsDeliveryTypes": [],
+    "metaCollaborativeAdsCommerceSolutionYn": false,
+    "affiliateCommerceYn": true,
+    "newShoppingMarketingExposureYn": true,
+    "storeExhibitionType": "SMART_STORE",
+    "catalogBrandStoreExhibitionYn": false,
+    "adVoostYn": false,
+    "storeOpenDuration": "오픈 7년된 스토어"
+  },
+  "commonSetting": {
+    "channelNo": 100289353,
+    "colorType": "NORMAL",
+    "colorCode": "#292b2c"
+  },
+  "exhibition": {
+    "exhibitions": [],
+    "exhibition": null,
+    "sections": null,
+    "productsMap": {}
+  },
+  "globalPopupLayer": {
+    "element": null,
+    "executeFunctionAtClose": null,
+    "classNames": null,
+    "overElement": {
+      "element": null,
+      "executeFunctionAtClose": null,
+      "classNames": null
+    },
+    "keepPopupOnPush": false,
+    "isTransparent": null,
+    "importantScrollPosition": false
+  },
+  "homeSetting": {
+    "displayConfig": {
+      "widgets": {
+        "gnbWidget": {
+          "visible": true,
+          "order": 0,
+          "type": "GNB",
+          "gnbType": "COLOR",
+          "nameType": "LOGO",
+          "logo": {
+            "url": "",
+            "property": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileLogo": {
+            "url": "",
+            "property": "0:0",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          }
+        },
+        "promotionBannerWidget": {
+          "visible": true,
+          "order": 1,
+          "type": "PROMOTION_BANNER",
+          "items": [
+            {
+              "id": 5,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260424_114/1776999842856a7k0q_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1%28%B1%DB%B7%A5%C7%C1%B6%F3%C0%CC%B8%D3%29.jpg",
+                "property": "750:600",
+                "width": 750,
+                "height": 600,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260424_114/1776999842856a7k0q_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1%28%B1%DB%B7%A5%C7%C1%B6%F3%C0%CC%B8%D3%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260424_185/1776999856990LiRko_JPEG/%BA%C0%BD%C4%BD%BA_PC%BA%A3%B3%CA1%28%B1%DB%B7%A5%C6%C4%BF%EC%B4%F5%29.jpg",
+                "property": "1920:400",
+                "width": 1920,
+                "height": 400,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260424_185/1776999856990LiRko_JPEG/%BA%C0%BD%C4%BD%BA_PC%BA%A3%B3%CA1%28%B1%DB%B7%A5%C6%C4%BF%EC%B4%F5%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "BLACK",
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": "",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://smartstore.naver.com/bbong6/products/13366406104"
+            },
+            {
+              "id": 4,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260314_118/1773466871323sGLlt_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1.jpg",
+                "property": "750:600",
+                "width": 750,
+                "height": 600,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260314_118/1773466871323sGLlt_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260313_184/1773400882614c7cLE_JPEG/%BA%C0%BD%C4%BD%BA%BC%EE%C7%CE%B8%F4_%B8%DE%C0%CE%BA%A3%B3%CA_%BE%DA%C7%C3_PC.jpg",
+                "property": "1920:400",
+                "width": 1920,
+                "height": 400,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260313_184/1773400882614c7cLE_JPEG/%BA%C0%BD%C4%BD%BA%BC%EE%C7%CE%B8%F4_%B8%DE%C0%CE%BA%A3%B3%CA_%BE%DA%C7%C3_PC.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": "",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 12006381603
+            },
+            {
+              "id": 3,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20250825_79/1756092220363YYRCf_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1%28%B7%CE%B5%E5%B8%AE%BF%B0%BB%F6%BE%E0%29.jpg",
+                "property": "750:600",
+                "width": 750,
+                "height": 600,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250825_79/1756092220363YYRCf_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1%28%B7%CE%B5%E5%B8%AE%BF%B0%BB%F6%BE%E0%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20250825_179/1756092228294Iu3qk_JPEG/%BA%C0%BD%C4%BD%BA_PC%BA%A3%B3%CA1%28%B7%CE%B5%E5%B8%AE%BF%B0%BB%F6%BE%E0%29.jpg",
+                "property": "1920:400",
+                "width": 1920,
+                "height": 400,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250825_179/1756092228294Iu3qk_JPEG/%BA%C0%BD%C4%BD%BA_PC%BA%A3%B3%CA1%28%B7%CE%B5%E5%B8%AE%BF%B0%BB%F6%BE%E0%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": "",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 10905537293
+            },
+            {
+              "id": 1,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20250825_37/1756091295265o0Htt_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1%28%BE%D6%BD%C3%B5%E5%BC%A4%C7%AA%29.jpg",
+                "property": "750:600",
+                "width": 750,
+                "height": 600,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250825_37/1756091295265o0Htt_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1%28%BE%D6%BD%C3%B5%E5%BC%A4%C7%AA%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20250825_214/1756089235302TGrVD_JPEG/%BA%C0%BD%C4%BD%BA_PC%BA%A3%B3%CA1%28%BE%D6%BD%C3%B5%E5%BC%A4%C7%AA%29.jpg",
+                "property": "1920:400",
+                "width": 1920,
+                "height": 400,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250825_214/1756089235302TGrVD_JPEG/%BA%C0%BD%C4%BD%BA_PC%BA%A3%B3%CA1%28%BE%D6%BD%C3%B5%E5%BC%A4%C7%AA%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": "",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 7722424362,
+              "linkUrl": "https://smartstore.naver.com/bbong6/products/6659352230"
+            },
+            {
+              "id": 2,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20250825_65/1756091209080SexM1_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1%28%C6%AE%B8%AE%C6%AE%B8%D5%C6%AE%29.jpg",
+                "property": "750:600",
+                "width": 750,
+                "height": 600,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250825_65/1756091209080SexM1_JPEG/%BA%C0%BD%C4%BD%BA_%B8%F0%B9%D9%C0%CF%BA%A3%B3%CA1%28%C6%AE%B8%AE%C6%AE%B8%D5%C6%AE%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20250825_289/1756091463145stP7P_JPEG/%BA%C0%BD%C4%BD%BA_PC%BA%A3%B3%CA1%28%B1%D7%B8%B0%C6%AE%B8%AE%C6%AE%B8%D5%C6%AE%29.jpg",
+                "property": "1920:400",
+                "width": 1920,
+                "height": 400,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250825_289/1756091463145stP7P_JPEG/%BA%C0%BD%C4%BD%BA_PC%BA%A3%B3%CA1%28%B1%D7%B8%B0%C6%AE%B8%AE%C6%AE%B8%D5%C6%AE%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": "",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://smartstore.naver.com/bbong6/products/6801094691"
+            }
+          ]
+        },
+        "sellerInfoWidget": {
+          "visible": true,
+          "order": 2,
+          "type": "SELLER_INFO",
+          "storeIntroductionVisible": true,
+          "storeGradeVisible": true,
+          "dataLabVisible": true,
+          "todayVisitCountVisible": true,
+          "totalVisitCountVisible": true,
+          "storeSearchVisible": true
+        },
+        "benefitBannerWidget": {
+          "visible": true,
+          "order": 3,
+          "type": "BENEFIT_BANNER"
+        },
+        "customBannerWidget1": {
+          "visible": true,
+          "movable": true,
+          "order": 4,
+          "type": "CUSTOM_BANNER",
+          "banners": [
+            {
+              "id": 1,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260320_218/1774007097153cKaL2_JPEG/%BA%C0%BD%C4%BD%BA%BC%EE%C7%CE%BD%BA%C5%E4%B8%AE_%BA%A3%B3%CA.jpg",
+                "property": "750:240",
+                "width": 750,
+                "height": 240,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260320_218/1774007097153cKaL2_JPEG/%BA%C0%BD%C4%BD%BA%BC%EE%C7%CE%BD%BA%C5%E4%B8%AE_%BA%A3%B3%CA.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260320_232/1774007448834EOCcS_JPEG/%BA%C0%BD%C4%BD%BA%BC%EE%C7%CE%BD%BA%C5%E4%B8%AE_pc%BA%A3%B3%CA.jpg",
+                "property": "1280:200",
+                "width": 1280,
+                "height": 200,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260320_232/1774007448834EOCcS_JPEG/%BA%C0%BD%C4%BD%BA%BC%EE%C7%CE%BD%BA%C5%E4%B8%AE_pc%BA%A3%B3%CA.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "linkType": "URL",
+              "linkUrl": "https://smartstore.naver.com/bbong6/shoppingstory/detail?id=5002644209&page=1"
+            }
+          ]
+        },
+        "customBannerWidget2": {
+          "visible": true,
+          "movable": true,
+          "order": 5,
+          "type": "CUSTOM_BANNER",
+          "banners": [
+            {
+              "id": 1,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260322_44/17741568918953HURA_JPEG/%BA%C0%BD%C4%BD%BA%BC%EE%C7%CE%BD%BA%C5%E4%B8%AE_%BA%A3%B3%CA2.jpg",
+                "property": "750:240",
+                "width": 750,
+                "height": 240,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260322_44/17741568918953HURA_JPEG/%BA%C0%BD%C4%BD%BA%BC%EE%C7%CE%BD%BA%C5%E4%B8%AE_%BA%A3%B3%CA2.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260322_131/1774156048536BbLMF_JPEG/%BC%EE%C7%CE%BD%BA%C5%E4%B8%AEpc%BA%A3%B3%CA2.jpg",
+                "property": "1280:200",
+                "width": 1280,
+                "height": 200,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260322_131/1774156048536BbLMF_JPEG/%BC%EE%C7%CE%BD%BA%C5%E4%B8%AEpc%BA%A3%B3%CA2.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "linkType": "URL",
+              "linkUrl": "https://smartstore.naver.com/bbong6/shoppingstory/detail?id=5002644667&page=1"
+            }
+          ]
+        },
+        "customProductWidget": {
+          "visible": true,
+          "order": 6,
+          "type": "CUSTOM_PRODUCT",
+          "title": "PICK 브랜드 WEEK",
+          "productDisplayType": "LIST",
+          "listProduct": {
+            "thumbnailShapeType": "H_RECT",
+            "productNos": [
+              12006381603,
+              10905537293,
+              7722424362,
+              6801094691,
+              11233118248
+            ],
+            "displayCount": 5
+          },
+          "mosaicProduct": {
+            "products": [
+              {
+                "id": 1,
+                "productNo": 4512296819,
+                "displayImage": {
+                  "url": "https://shop-phinf.pstatic.net/20190517_244/do9300_15580736641782bMqI_JPEG/40704843683451150_1891147087.jpg",
+                  "width": 600,
+                  "height": 600,
+                  "originalUrl": "https://shop-phinf.pstatic.net/20190517_244/do9300_15580736641782bMqI_JPEG/40704843683451150_1891147087.jpg",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 2,
+                "productNo": 4512287766,
+                "displayImage": {
+                  "url": "https://shop-phinf.pstatic.net/20190517_205/do9300_1558073295346HKc8t_JPEG/40704475001952851_947275184.jpg",
+                  "width": 600,
+                  "height": 600,
+                  "originalUrl": "https://shop-phinf.pstatic.net/20190517_205/do9300_1558073295346HKc8t_JPEG/40704475001952851_947275184.jpg",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 3,
+                "productNo": 4384105278,
+                "displayImage": {
+                  "url": "https://shop-phinf.pstatic.net/20190718_106/ncp_1noxei_01_1563413004948dzS0e_JPEG/ca183780-f06f-45cf-b329-e2b40c3782b6.jpg",
+                  "width": 600,
+                  "height": 300,
+                  "originalUrl": "https://shop-phinf.pstatic.net/20190326_68/do9300_1553579603525wMvzg_JPEG/36210783181154958_1247727884.jpg",
+                  "top": 244,
+                  "left": 0
+                }
+              },
+              {
+                "id": 4,
+                "productNo": 4562793540,
+                "displayImage": {
+                  "url": "https://shop-phinf.pstatic.net/20190718_281/ncp_1noxei_01_1563412990181lJon3_JPEG/c85fedca-3195-47d4-9133-cbf0e61be806.jpg",
+                  "width": 750,
+                  "height": 750,
+                  "originalUrl": "https://shop-phinf.pstatic.net/20190625_182/do9300_1561388678447vN6OH_JPEG/44019858100784834_375267169.jpg",
+                  "top": 125,
+                  "left": 0
+                }
+              },
+              {
+                "id": 5,
+                "productNo": 4299069959,
+                "displayImage": {
+                  "url": "https://shop-phinf.pstatic.net/20190308_149/do9300_1552029408467LSd2T_JPEG/75336587963236615_1491333264.jpg",
+                  "width": 600,
+                  "height": 600,
+                  "originalUrl": "https://shop-phinf.pstatic.net/20190308_149/do9300_1552029408467LSd2T_JPEG/75336587963236615_1491333264.jpg",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 6,
+                "productNo": 4299050203,
+                "displayImage": {
+                  "url": "https://shop-phinf.pstatic.net/20190718_127/ncp_1noxei_01_1563413138249JtPUJ_JPEG/0b98221d-f98f-4cec-b5b6-41ab58c58b41.jpg",
+                  "width": 600,
+                  "height": 300,
+                  "originalUrl": "https://shop-phinf.pstatic.net/20190308_292/do9300_1552029058235c5eRB_JPEG/75335358861615481_1467092378.jpg",
+                  "top": 147,
+                  "left": 0
+                }
+              },
+              {
+                "id": 7,
+                "productNo": 4044384499,
+                "displayImage": {
+                  "url": "https://shop-phinf.pstatic.net/20190108_270/do9300_1546930446670YiTlT_JPEG/29561626325908771_1876510990.jpg",
+                  "width": 600,
+                  "height": 600,
+                  "originalUrl": "https://shop-phinf.pstatic.net/20190108_270/do9300_1546930446670YiTlT_JPEG/29561626325908771_1876510990.jpg",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 8,
+                "productNo": 3780052082,
+                "displayImage": {
+                  "url": "https://shop-phinf.pstatic.net/20190123_12/do9300_15482180217091vH8j_JPEG/71524322336736053_2017234673.jpg",
+                  "width": 600,
+                  "height": 600,
+                  "originalUrl": "https://shop-phinf.pstatic.net/20190123_12/do9300_15482180217091vH8j_JPEG/71524322336736053_2017234673.jpg",
+                  "top": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          "fullImageProduct": {
+            "thumbnailShapeType": "SQUARE",
+            "productNos": [],
+            "displayCount": 8
+          }
+        },
+        "newProductWidget": {
+          "visible": true,
+          "order": 7,
+          "type": "NEW_PRODUCT",
+          "title": "신상품",
+          "thumbnailShapeType": "SQUARE",
+          "displayCount": 10
+        },
+        "bestProductWidget": {
+          "visible": true,
+          "order": 8,
+          "type": "BEST_PRODUCT",
+          "title": "주간베스트",
+          "thumbnailShapeType": "SQUARE",
+          "bestProductExposureType": "ALL",
+          "defaultAggregationType": "REALTIME",
+          "selectedAggregationType": "WEEKLY",
+          "aggregationType": "WEEKLY",
+          "displayCount": 4
+        },
+        "customProductWidget1": {
+          "visible": false,
+          "order": 9,
+          "type": "CUSTOM_PRODUCT",
+          "title": "",
+          "productDisplayType": "MOSAIC",
+          "listProduct": {
+            "thumbnailShapeType": "SQUARE",
+            "productNos": [],
+            "displayCount": 8
+          },
+          "mosaicProduct": {
+            "products": [
+              {
+                "id": 1,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 2,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 3,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 4,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 5,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 6,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 7,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 8,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          "fullImageProduct": {
+            "thumbnailShapeType": "SQUARE",
+            "productNos": [],
+            "displayCount": 8
+          }
+        },
+        "customProductWidget2": {
+          "visible": false,
+          "order": 10,
+          "type": "CUSTOM_PRODUCT",
+          "title": "추천상품",
+          "productDisplayType": "LIST",
+          "listProduct": {
+            "thumbnailShapeType": "SQUARE",
+            "productNos": [],
+            "displayCount": 8
+          },
+          "mosaicProduct": {
+            "mainTitle": "메인 타이틀",
+            "subTitle": "설명",
+            "products": [
+              {
+                "id": 1,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 2,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 3,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 4,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 5,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 6,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 7,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 8,
+                "displayImage": {
+                  "url": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          "fullImageProduct": {
+            "thumbnailShapeType": "SQUARE",
+            "productNos": [],
+            "displayCount": 8
+          }
+        },
+        "shoppingStoryWidget": {
+          "visible": false,
+          "order": 11,
+          "type": "SHOPPING_STORY",
+          "title": "쇼핑 스토리",
+          "selectType": "AUTO",
+          "shoppingStoryIds": []
+        },
+        "wholeProductWidget": {
+          "visible": true,
+          "order": 12,
+          "type": "WHOLE_PRODUCT",
+          "title": "상품전체",
+          "thumbnailShapeType": "SQUARE",
+          "selectType": "AUTO",
+          "productNos": [],
+          "sortType": "SELL_COUNT_DESC",
+          "displayCount": 80
+        },
+        "exhibitionBannerWidget": {
+          "visible": false,
+          "order": 13,
+          "type": "EXHIBIT_BANNER"
+        },
+        "customBannerWidget": {
+          "visible": false,
+          "order": 14,
+          "type": "CUSTOM_BANNER",
+          "banners": [
+            {
+              "id": 1,
+              "visible": true,
+              "mobileImage": {
+                "property": "0;0",
+                "width": 0,
+                "height": 0
+              },
+              "pcImage": {
+                "property": "0;0",
+                "width": 0,
+                "height": 0
+              },
+              "linkType": "PRODUCT"
+            }
+          ]
+        },
+        "bestReviewWidget": {
+          "visible": false,
+          "order": 15,
+          "type": "BEST_REVIEW",
+          "title": "베스트리뷰상품",
+          "productNos": [
+            3792975800,
+            4040747470,
+            4058201789,
+            3775300957,
+            4089626231,
+            4101612388,
+            4512296819,
+            4949552165,
+            3779039799,
+            4040782293
+          ],
+          "selectType": "MANUAL"
+        },
+        "customProductWidget3": {
+          "visible": true,
+          "movable": true,
+          "order": 16,
+          "type": "CUSTOM_PRODUCT",
+          "title": "추천상품",
+          "productDisplayType": "LIST",
+          "listProduct": {
+            "thumbnailShapeType": "SQUARE",
+            "productNos": [],
+            "displayCount": 8
+          },
+          "mosaicProduct": {
+            "mainTitle": "제목을 입력하세요.",
+            "subTitle": "부제목을 입력하세요.",
+            "products": [
+              {
+                "id": 1,
+                "displayImage": {
+                  "url": "",
+                  "property": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 2,
+                "displayImage": {
+                  "url": "",
+                  "property": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 3,
+                "displayImage": {
+                  "url": "",
+                  "property": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 4,
+                "displayImage": {
+                  "url": "",
+                  "property": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 5,
+                "displayImage": {
+                  "url": "",
+                  "property": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 6,
+                "displayImage": {
+                  "url": "",
+                  "property": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 7,
+                "displayImage": {
+                  "url": "",
+                  "property": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              },
+              {
+                "id": 8,
+                "displayImage": {
+                  "url": "",
+                  "property": "",
+                  "width": 0,
+                  "height": 0,
+                  "originalUrl": "",
+                  "top": 0,
+                  "left": 0
+                }
+              }
+            ]
+          },
+          "fullImageProduct": {
+            "thumbnailShapeType": "SQUARE",
+            "productNos": [],
+            "displayCount": 8
+          }
+        }
+      }
+    },
+    "hasFreeReturnInsuranceProduct": false,
+    "isLoading": false,
+    "isSaving": false,
+    "error": null
+  },
+  "isPreview": false,
+  "keptProducts": {},
+  "logisticsProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "sort": null,
+    "listDisplayType": null,
+    "page": 1,
+    "pageSize": 40,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "loungeConfig": {
+    "channelNo": 0,
+    "join": {
+      "additionalInfoPageEnabled": true
+    },
+    "home": {
+      "widgets": {
+        "gradeWidget": {
+          "type": "GRADE",
+          "visible": true,
+          "order": 1
+        },
+        "noticeWidget": {
+          "type": "NOTICE",
+          "visible": true,
+          "order": 2
+        },
+        "benefitWidget": {
+          "type": "BENEFIT",
+          "visible": true,
+          "order": 3
+        },
+        "storyWidget": {
+          "type": "STORY",
+          "visible": true,
+          "order": 4
+        }
+      }
+    }
+  },
+  "menuSetting": {
+    "topMenus": {
+      "promotionMenu": {
+        "visible": false,
+        "order": 0,
+        "type": "PROMOTION",
+        "title": "",
+        "promotionCategoryExposureType": "LIST",
+        "promotionListExposureProp": {
+          "newLabelExposure": false,
+          "pageNameExposure": false,
+          "readMoreExposure": false
+        },
+        "periodDisplay": false
+      },
+      "shoppingLiveMenu": {
+        "visible": false,
+        "order": 1,
+        "type": "SHOPPING_LIVE"
+      },
+      "bestMenu": {
+        "visible": false,
+        "order": 2,
+        "type": "BEST",
+        "title": ""
+      },
+      "categoryMenu": {
+        "visible": true,
+        "order": 3,
+        "type": "CATEGORY"
+      },
+      "newProductMenu": {
+        "visible": false,
+        "order": 4,
+        "type": "NEW_PRODUCT",
+        "title": ""
+      },
+      "arrivalGuaranteeMenu": {
+        "visible": false,
+        "order": 5,
+        "type": "ARRIVAL_GUARANTEE"
+      },
+      "forYouMenu": {
+        "visible": false,
+        "order": 6,
+        "type": "FOR_YOU"
+      },
+      "loungeMenu": {
+        "visible": true,
+        "order": 7,
+        "type": "LOUNGE"
+      }
+    },
+    "bottomMenus": {
+      "exhibitionMenu": {
+        "visible": false,
+        "order": 0,
+        "type": "EXHIBITION",
+        "title": ""
+      },
+      "noticeMenu": {
+        "visible": false,
+        "order": 1,
+        "type": "NOTICE"
+      },
+      "shoppingStoryMenu": {
+        "visible": false,
+        "order": 2,
+        "type": "SHOPPING_STORY",
+        "title": ""
+      },
+      "reviewEventMenu": {
+        "visible": false,
+        "order": 3,
+        "type": "REVIEW_EVENT",
+        "title": ""
+      },
+      "qnaMenu": {
+        "visible": false,
+        "order": 4,
+        "type": "QNA",
+        "title": ""
+      },
+      "sellerInfoMenu": {
+        "visible": true,
+        "order": 5,
+        "type": "SELLER_INFO"
+      }
+    }
+  },
+  "newProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "sort": null,
+    "listDisplayType": null,
+    "page": 1,
+    "pageSize": 1,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "notice": {
+    "list": {
+      "contents": [],
+      "page": 1,
+      "totalElements": 0
+    },
+    "detail": {
+      "id": null,
+      "postCategoryType": "ORDINARY",
+      "postTitle": "",
+      "readCount": 0,
+      "regDate": "",
+      "editorType": null,
+      "renderContent": "",
+      "mobileRenderContent": ""
+    }
+  },
+  "productBenefitList": {},
+  "productCollection": {
+    "specialProducts": {
+      "bestProductNos": [],
+      "newProductNos": []
+    }
+  },
+  "productDetailSetting": {
+    "displayConfig": {
+      "representativeImageManagement": {
+        "marketingMessageManagement": {
+          "usePurchased": true,
+          "basisPurchased": 10,
+          "usePurchasedIn2Y": true,
+          "useRepurchased": true,
+          "basisRepurchased": 10,
+          "useBestProduct": true,
+          "useNewProduct": true
+        },
+        "mediaPreference": "VIDEO_PREFERRED",
+        "useBestReview": true,
+        "useShoppingLiveOnAirExposure": true
+      },
+      "topNoticeBannerManagement": {
+        "useTopNoticeBanner": false,
+        "bannerStyle": "LIGHT",
+        "benefitTypeText": "",
+        "benefitDescription": "",
+        "periodDisplay": false,
+        "bannerExposureTargetType": "PRODUCT",
+        "mappingProductNos": [],
+        "mappingCategoryIds": [],
+        "mappingCategoryType": "",
+        "mappingPromotionPageNos": []
+      },
+      "useSummaryCardReview": true,
+      "useOtherCompositionProducts": true,
+      "useSimilarProducts": true,
+      "useAitems": true,
+      "useShortClip": true,
+      "useTogetherProducts": true,
+      "useBundleDeliveryProducts": true,
+      "useCategoryOtherProducts": true,
+      "useSellerBestProducts": true,
+      "useInterestProducts": true,
+      "useForYouProducts": true
+    },
+    "isTargetTopNoticeBanner": false
+  },
+  "productListSetting": {
+    "channelNo": 0,
+    "imageShapeType": "SQUARE",
+    "imageDisplayType": "REPRESENTATIVE",
+    "productUnitAddInfo": {
+      "reviewRatingVisible": true,
+      "reviewCountVisible": true,
+      "colorChipVisible": false,
+      "detailForPcVisible": true,
+      "cartVisible": false,
+      "bestOrNewTagVisible": true,
+      "productAttributeTagVisible": true
+    },
+    "productSortOption": {
+      "detailFilterVisible": true,
+      "sortOrderVisible": true,
+      "displayTypeVisible": true
+    }
+  },
+  "qna": {
+    "contents": [],
+    "page": 0,
+    "size": 0,
+    "totalElements": 0,
+    "totalPages": 0
+  },
+  "reviewEvent": {
+    "list": {
+      "initialized": false,
+      "contents": []
+    },
+    "detail": null
+  },
+  "scrollKept": {
+    "isScrollKept": false,
+    "keptScrollHeight": null
+  },
+  "searchFilter": {
+    "completed": {
+      "filters": [],
+      "priceRange": null
+    },
+    "draft": {
+      "filters": [],
+      "priceRange": null,
+      "inputPriceRange": null,
+      "count": 0,
+      "countStatus": "idle"
+    },
+    "defaultPriceRange": {
+      "min": 0,
+      "max": 0
+    },
+    "exposure": {
+      "TODAY_DELIVERY": true,
+      "HOPE_DELIVERY": true,
+      "ARRIVAL_GUARANTEE": true,
+      "FREE_RETURN_INSURANCE": true,
+      "PC_DISCOUNT": true,
+      "MOBILE_DISCOUNT": true,
+      "ORDER_AVAILABLE": true,
+      "FREE_DELIVERY": true,
+      "PRE_ORDER": true,
+      "REGULAR_SUBSCRIPTION": true
+    },
+    "appliedFilter": null
+  },
+  "shoppingStory": {
+    "list": {
+      "contents": [],
+      "page": 1,
+      "totalElements": 0
+    },
+    "detail": {
+      "id": null,
+      "postTitle": "",
+      "readCount": 0,
+      "regDate": "",
+      "mobileRenderContent": "",
+      "editorType": null
+    }
+  },
+  "widgetContents": {
+    "bestProductWidget": {
+      "ssr": false,
+      "data": {
+        "bestProducts": {
+          "REALTIME": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "DAILY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "WEEKLY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "MONTHLY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          }
+        },
+        "allCategoryProducts": {
+          "simpleProducts": [],
+          "simpleCatalogs": []
+        },
+        "hasBestProducts": false
+      }
+    },
+    "bestReviewWidget": {
+      "ssr": false,
+      "data": {
+        "reviewProducts": []
+      }
+    },
+    "customBannerWidget": {},
+    "customProductWidget": {},
+    "exhibitionBannerWidget": {
+      "ssr": false,
+      "data": {
+        "exhibitions": [],
+        "simpleProducts": {}
+      }
+    },
+    "newProductWidget": {
+      "ssr": false,
+      "data": []
+    },
+    "promotionBannerWidget": {
+      "ssr": false,
+      "data": []
+    },
+    "shoppingStoryWidget": {
+      "ssr": false,
+      "data": {
+        "shoppingStories": []
+      }
+    }
+  },
+  "widgetStates": {
+    "flickingLastIndices": {}
+  },
+  "addressBook": {
+    "accountNo": null,
+    "addressBookType": null,
+    "addressInfo": null,
+    "alias": null,
+    "id": null,
+    "possibleOversea": null,
+    "modAuditInfo": null,
+    "phoneNumber1": null,
+    "phoneNumber2": null,
+    "regAuditInfo": null,
+    "regDate": null,
+    "modDate": null
+  },
+  "benefit": {
+    "user": null,
+    "customerBenefits": null,
+    "basicBenefits": null,
+    "sortedHomeBenefits": null
+  },
+  "brandStatuses": [],
+  "bundle": {
+    "bundleGroupId": null,
+    "previousProductId": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "sort": null,
+    "page": 1,
+    "pageSize": 40,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "cart": {
+    "totalCount": 0
+  },
+  "cartProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "isLoaded": false
+  },
+  "datalab": {
+    "ratings": [],
+    "ratioFemale": 0,
+    "ratioMale": 0,
+    "sequence": 0,
+    "tag": [],
+    "type": ""
+  },
+  "delivery": {
+    "todayDispatch": null
+  },
+  "detailReviews": {},
+  "frequentlyPaidProducts": {
+    "isHeavyUser": false,
+    "items": [],
+    "itemCount": 0,
+    "isLoaded": false
+  },
+  "keepStore": {
+    "count": 0,
+    "kept": null,
+    "newsInterlock": null
+  },
+  "keptRelationProducts": {},
+  "keywordSearch": {
+    "keyword": null,
+    "normalizedKeywordInfo": {
+      "originQuery": "",
+      "normalizedKeyword": ""
+    },
+    "sort": null,
+    "listDisplayType": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "pageSize": 20,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "querySummaryInfo": {
+      "isQR": null,
+      "isPartialSearch": null,
+      "orgQueryTotal": null
+    }
+  },
+  "layoutStatus": {
+    "isActiveStoreTopBanner": false
+  },
+  "loungeBenefit": [],
+  "loungeJoin": {
+    "externalProvisions": null,
+    "externalProvision": null,
+    "collectedItems": null,
+    "reportedItemIds": []
+  },
+  "loungeMember": {
+    "sellerNo": null,
+    "memberIdNo": null,
+    "memberId": null,
+    "gradeType": null,
+    "grade": null,
+    "gradeApplyDateTime": null,
+    "name": null,
+    "sex": null,
+    "birthday": null,
+    "status": null,
+    "joinDateTime": null,
+    "leaveDateTime": null,
+    "attendanceCount": 0,
+    "lastAttendanceDate": null,
+    "promotionNotification": null,
+    "sexAgreementDateTime": null,
+    "sexAgreementCancelDateTime": null,
+    "birthdayAgreementDateTime": null,
+    "birthdayAgreementCancelDateTime": null,
+    "contactTelephoneAgreementDateTime": null,
+    "contactTelephoneAgreementCancelDateTime": null,
+    "realtimeSummaryInfo": null,
+    "accumulateSummaryInfo": null,
+    "predictSummaryInfo": null,
+    "agreements": [],
+    "isMember": false,
+    "rejoinPossibleDate": null,
+    "attendanceRequestState": null,
+    "agreeSex": false,
+    "agreeBirthday": false,
+    "agreeContactPhone": false
+  },
+  "loungeMy": {
+    "myCommentActivities": null,
+    "myPollActivities": null
+  },
+  "loungeNotice": {
+    "pages": null,
+    "detail": null,
+    "newestPost": null
+  },
+  "loungeSimpleMember": {
+    "sellerNo": null,
+    "memberIdNo": null,
+    "memberId": null,
+    "gradeType": null,
+    "grade": null,
+    "gradeApplyDateTime": null,
+    "name": null,
+    "sex": null,
+    "birthday": null,
+    "status": null,
+    "joinDateTime": null,
+    "leaveDateTime": null,
+    "attendanceCount": 0,
+    "lastAttendanceDate": null,
+    "promotionNotification": null,
+    "sexAgreementDateTime": null,
+    "sexAgreementCancelDateTime": null,
+    "birthdayAgreementDateTime": null,
+    "birthdayAgreementCancelDateTime": null,
+    "isMember": false,
+    "rejoinPossibleDate": null,
+    "agreeSex": false,
+    "agreeBirthday": false
+  },
+  "loungeStory": {
+    "pages": null,
+    "detail": null
+  },
+  "my": {
+    "point": 0,
+    "coinType": "06",
+    "orderDeliveryCounts": 0,
+    "zzimProductCount": 0
+  },
+  "myKeptProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "isLoaded": false
+  },
+  "myListProducts": {
+    "simpleProducts": [],
+    "hasNextPage": true,
+    "page": 1,
+    "pageSize": 20,
+    "isLoaded": false
+  },
+  "optimizeRequest": {
+    "types": []
+  },
+  "product": {
+    "id": null,
+    "channelServiceType": null,
+    "channelProductType": null,
+    "channelProductSupplyType": null,
+    "channelProductStatusType": null,
+    "channelProductDisplayStatusType": null,
+    "category": null,
+    "categoryNavigations": null,
+    "name": null,
+    "productUrl": null,
+    "mobileProductUrl": null,
+    "channel": null,
+    "content": null,
+    "regDate": null,
+    "modDate": null,
+    "manufactureDate": null,
+    "validDate": null,
+    "storeKeepExclusiveProduct": false,
+    "epInfo": {
+      "naverShoppingExposure": false,
+      "enuriRegistration": false,
+      "danawaRegistration": false
+    },
+    "best": false,
+    "displayDate": null,
+    "materialContent": null,
+    "orderRequestUsable": false,
+    "channelProductImages": null,
+    "channelProductAttributes": [],
+    "productNo": null,
+    "salePrice": 0,
+    "stockQuantity": 0,
+    "saleType": null,
+    "excludeAdminDiscount": false,
+    "payExposure": false,
+    "productStatusType": null,
+    "reasonForProhibition": null,
+    "statusType": null,
+    "authenticationType": null,
+    "productImages": null,
+    "naverShoppingSearchInfo": null,
+    "itselfProductionProductYn": null,
+    "afterServiceInfo": null,
+    "originAreaInfo": null,
+    "seoInfo": null,
+    "optionUsable": false,
+    "supplementProductUsable": false,
+    "purchaseReviewInfo": null,
+    "isCustomProduct": false,
+    "taxType": null,
+    "certificationTargetExcludeContent": null,
+    "minorPurchasable": false,
+    "productInfoProvidedNoticeView": null,
+    "productAttributes": null,
+    "productDeliveryInfo": null,
+    "claimDeliveryInfo": null,
+    "benefitsView": null,
+    "benefitsPolicy": null,
+    "mobileBenefitsPolicy": null,
+    "saleAmount": null,
+    "reviewAmount": null,
+    "averageDeliveryLeadTime": null,
+    "preOrder": null,
+    "sellerTags": null,
+    "bbsSeq": 0,
+    "galleryImages": null,
+    "materialImages": null,
+    "tagImages": null,
+    "barcodeImages": null,
+    "soldout": false,
+    "viewAttributes": null,
+    "additionalAttributes": null,
+    "eCouponCategory": false,
+    "cultureCategory": false,
+    "mobileDiscountRatio": 0,
+    "cultureCostIncomeDeductionRate": null,
+    "isRestrictCart": false,
+    "channelProductVideos": [],
+    "productVideos": [],
+    "detailAttributes": null,
+    "commentCount": 0,
+    "interestFreePlans": null,
+    "productVideoAuth": null,
+    "userNickname": null,
+    "relatedProductsIds": [],
+    "isPayRestrictCategory": false,
+    "isOrderRestrictCategory": false,
+    "isPointPlusMember": false,
+    "hopeDelivery": null,
+    "discountedSalePrice": 0,
+    "reviewEvent": null,
+    "rmidByUser": null,
+    "orderDeliveryAttributeType": null,
+    "orderScheduledChannelType": null,
+    "disableAdditionalApi": false
+  },
+  "productBestReviews": {
+    "exceptionalStorepickReviewIds": []
+  },
+  "productDetailBroadcast": {
+    "storeBroadcastChannelAuth": {
+      "id": null,
+      "serviceId": "",
+      "serviceName": "",
+      "broadcasterId": "",
+      "channelUid": "",
+      "broadcastAuthority": false,
+      "shortclipAuthority": false,
+      "grade": ""
+    },
+    "broadcastOnAir": {
+      "isFetched": false,
+      "data": null
+    },
+    "broadcastStandBy": {
+      "isFetched": false,
+      "data": null
+    }
+  },
+  "productGift": {
+    "giftParams": {},
+    "giftButton": {
+      "isLoading": true,
+      "type": null,
+      "friendInfo": null
+    }
+  },
+  "productReviewContentSummaryTags": {
+    "PRODUCT": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    },
+    "REVIEW_DIALOG": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    }
+  },
+  "productReviewGalleryAttaches": {
+    "PRODUCT": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    },
+    "REVIEW_DIALOG": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    }
+  },
+  "productReviews": {
+    "PRODUCT": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    },
+    "REVIEW_DIALOG": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    }
+  },
+  "productSizeRecommendation": {
+    "hasValidRecommendation": false,
+    "userRepSize": null,
+    "sizeShowing": [],
+    "sizeRecommendationMap": null
+  },
+  "recentOtherProduct": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "isLoaded": false
+  },
+  "recentlyViewedProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "page": 1,
+    "hasMore": false,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "isLoaded": false
+  },
+  "renderSequence": "topBanner",
+  "rental": {
+    "policies": {},
+    "affiliateCards": {},
+    "contractConditionId": null
+  },
+  "reviewDetail": null,
+  "reviewLike": {},
+  "reviewsFilter": {
+    "selectedSort": "REVIEW_RANKING",
+    "selectedFeature": "ALL",
+    "selectedScore": "ALL",
+    "selectedTopic": null,
+    "selectedTag": null,
+    "selectedOptions": [],
+    "selectedOptionsTemp": [],
+    "selectedCustomFilterOptions": [],
+    "selectedCustomFilterOptionsTemp": [],
+    "registeredCustomFilter": {
+      "active": false
+    },
+    "registeredCustomFilterTemp": {
+      "active": false
+    }
+  },
+  "seViewerContent": {
+    "isLoadedCompleted": {
+      "content": false,
+      "notice": false
+    },
+    "content": null,
+    "notices": {
+      "channelNoticeContent": null,
+      "productNoticeContent": null
+    }
+  },
+  "searchFormLayer": {
+    "keywordSuggestions": [],
+    "storePopular": null
+  },
+  "selectedOptions": {
+    "product": {},
+    "coordi": {},
+    "delivery": {},
+    "textOptions": null,
+    "simpleOptions": null,
+    "combinationOptions": null,
+    "standardOptions": null,
+    "supplementProducts": null,
+    "colorOptions": null,
+    "sizeOptions": null,
+    "hopeDeliveryOptions": {},
+    "purchaseMethodTypes": {},
+    "subscriptionDeliveryOptions": {}
+  },
+  "selectiveLive": {
+    "channel": null,
+    "productMap": {},
+    "productDiscountBroadcastMap": {}
+  },
+  "serverLocationPath": "/bbong6/products/3779039799",
+  "serverReferer": {
+    "referNaver": false,
+    "referer": null,
+    "shoppingAppReferer": null
+  },
+  "serverRenderStatus": {
+    "isError": false
+  },
+  "serverRendered": true,
+  "simpleProductForDetailPage": {
+    "id": 3779039799,
+    "channelServiceType": "STOREFARM",
+    "channelProductDisplayStatusType": "ON",
+    "category": {
+      "wholeCategoryId": "50000002>50000199>50000311",
+      "wholeCategoryName": "화장품/미용>헤어스타일링>염색약",
+      "categoryId": "50000311",
+      "categoryName": "염색약"
+    },
+    "name": "밀본 염색약 80g 새치커버 뿌리염색 셀프염모제 저자극 순한 밝은 흰머리커버 올디브보떼",
+    "dispName": "밀본 염색약 80g 새치커버 뿌리염색 셀프염모제 저자극 순한 밝은 흰머리커버 올디브보떼",
+    "channel": {
+      "channelNo": 100289353,
+      "accountNo": 100260378,
+      "channelUid": "2sWDxSPOJ1lgY22auW9Jz",
+      "accountId": "ncp_1noxei_01",
+      "channelName": "봉식스쇼핑몰"
+    },
+    "storeKeepExclusiveProduct": false,
+    "productNo": 3772604098,
+    "salePrice": 4950,
+    "saleType": "NEW",
+    "productStatusType": "SALE",
+    "authenticationType": "NORMAL",
+    "seoInfo": {
+      "pageTitle": "밀본 염색약 80g 새치커버 올디브보떼 밝은 뿌리염색 순한 저자극 흰머리 셀프염모제",
+      "metaDescription": "밀본염색약 새치염색약 구매할땐 언제나 봉식스쇼핑몰",
+      "sellerTags": [
+        {
+          "code": 84099,
+          "text": "새치염색"
+        },
+        {
+          "code": 208079,
+          "text": "셀프염색약"
+        },
+        {
+          "code": 1524396,
+          "text": "흰머리커버"
+        },
+        {
+          "code": 336202,
+          "text": "흰머리염색약"
+        },
+        {
+          "code": 642063,
+          "text": "미용실염색약"
+        },
+        {
+          "code": 554117,
+          "text": "순한염색약"
+        },
+        {
+          "code": 550741,
+          "text": "새치커버염색약"
+        },
+        {
+          "code": 158748,
+          "text": "저자극염색약"
+        },
+        {
+          "code": 67352,
+          "text": "셀프염색"
+        },
+        {
+          "code": 11231,
+          "text": "뿌리염색"
+        }
+      ]
+    },
+    "optionUsable": true,
+    "optionStandards": [],
+    "supplementProductUsable": true,
+    "naverShoppingSearchInfo": {
+      "brandId": 121307,
+      "manufacturerName": "밀본",
+      "brandName": "밀본"
+    },
+    "purchaseReviewInfo": {
+      "purchaseReviewExposure": true
+    },
+    "eventPhraseCont": "최신 제조/수입된 상품으로 판매하고 있습니다",
+    "minorPurchasable": true,
+    "isRestrictCart": false,
+    "benefitsView": {
+      "discountedSalePrice": 4930,
+      "mobileDiscountedSalePrice": 4930,
+      "sellerImmediateDiscountAmount": 20,
+      "mobileSellerImmediateDiscountAmount": 20,
+      "managerImmediateDiscountAmount": 0,
+      "mobileManagerImmediateDiscountAmount": 0,
+      "discountedRatio": 0,
+      "mobileDiscountedRatio": 0,
+      "sellerPurchasePoint": 0,
+      "mobileSellerPurchasePoint": 0,
+      "sellerCustomerManagementPoint": 0,
+      "mobileSellerCustomerManagementPoint": 0,
+      "managerPurchasePoint": 49,
+      "mobileManagerPurchasePoint": 49,
+      "managerPurchaseExtraPoint": 0,
+      "mobileManagerPurchaseExtraPoint": 0,
+      "generalPurchaseReviewPoint": 10,
+      "premiumPurchaseReviewPoint": 10,
+      "storeMemberReviewPoint": 0,
+      "managerGeneralPurchaseReviewPoint": 50,
+      "managerPremiumPurchaseReviewPoint": 150,
+      "givePresent": true,
+      "textReviewPoint": 10,
+      "photoVideoReviewPoint": 10,
+      "afterUseTextReviewPoint": 10,
+      "afterUsePhotoVideoReviewPoint": 10,
+      "managerTextReviewPoint": 50,
+      "managerPhotoVideoReviewPoint": 150,
+      "managerAfterUseTextReviewPoint": 0,
+      "managerAfterUsePhotoVideoReviewPoint": 0,
+      "dispDiscountedSalePrice": 4930,
+      "dispDiscountedRatio": 0
+    },
+    "reviewAmount": {
+      "totalReviewCount": 94640,
+      "premiumReviewCount": 0,
+      "averageReviewScore": 4.81,
+      "productSatisfactionPercent": 0
+    },
+    "displayable": true,
+    "usableDelivery": true,
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20260323_252/1774252557557QVIVU_JPEG/77903005378124282_2092421250.jpg",
+    "representativeImageWidth": 510,
+    "representativeImageHeight": 510,
+    "optionalImageUrls": [
+      "https://shop-phinf.pstatic.net/20260813_208/1786584334454FWheq_JPEG/120717175687718604_975063223.jpg",
+      "https://shop-phinf.pstatic.net/20260813_106/1786584139102GkjSO_JPEG/14337649605969840_368936376.jpg",
+      "https://shop-phinf.pstatic.net/20260813_107/178658563563465zjI_JPEG/41111967986860414_1317474759.jpg"
+    ],
+    "productDeliveryInfo": {
+      "deliveryFeeType": "PAID",
+      "baseFee": 3000,
+      "deliveryAttributeType": "TODAY",
+      "deliveryBundleGroup": {
+        "id": 12620049
+      },
+      "thisDayDispatchBasisTime": "07:00:00.000+0000",
+      "installationFee": false,
+      "deliveryMethodTypes": [
+        "DELIVERY"
+      ],
+      "deliveryFeePayType": "PREPAID",
+      "deliveryCompany": {
+        "id": "CJGLS",
+        "name": "CJ대한통운"
+      }
+    },
+    "detailContents": {
+      "detailContentText": "■ 미용실에서 사용하는 염색약 (전문가용) 이미지 클릭시 상품페이지로 이동됩니다 밀본염색약 80g+산화제+앰플 NEW 시세이도 염색약 80g 루미너스 염색약 500g 밀본염색약 산화제 선택이 어려우신 고객님 ※ 밀본염색약 + 산화제+앰플 포함된 제품입니다 반사빛이 고급스러운 컬러&모발손상 제로 ※ 염색하는데 모발이 복구되는 신개념 염모제 밝게 새치커버 가능한 저자극 염색약 ※ 미용실 전용, 물빠짐 NO, 밝고 선명한컬러 ㆍ산화제 선택이 어려우신 분들 ㆍ순하고 다양한 색상의 염색약으로 인기상품 ㆍ모발손상이 없기를 희망하는 분 ㆍ색상을",
+      "editorType": "SEONE"
+    },
+    "enableCart": true,
+    "freeDelivery": false,
+    "todayDelivery": true,
+    "regularSubscription": false,
+    "arrivalGuarantee": false,
+    "subscriptionBenefitContent": [],
+    "rmids": [],
+    "rentalOneTimeFee": false,
+    "stockQuantity": 4832354,
+    "benefitsPolicy": {
+      "sellerImmediateDiscountPolicyNo": "SE_3772604098",
+      "sellerImmediateDiscountValueUnit": "WON",
+      "sellerImmediateDiscountValue": 20
+    },
+    "mobileBenefitsPolicy": {
+      "sellerImmediateDiscountPolicyNo": "SE_3772604098",
+      "sellerImmediateDiscountValueUnit": "WON",
+      "sellerImmediateDiscountValue": 20
+    },
+    "dispSalePrice": 4950,
+    "claimDeliveryInfo": {
+      "freeReturnInsurance": false
+    },
+    "epInfo": {
+      "syncNvMid": 81323557869,
+      "naverShoppingRegistration": true,
+      "naverShoppingExposure": true
+    },
+    "affiliateYn": true,
+    "unitCapacity": {
+      "unitCapacity": 1,
+      "indicationUnit": "g",
+      "unitPriceYn": true,
+      "totalCapacityValue": 80
+    },
+    "adultAuthorizationType": "NOT_LOGIN",
+    "authorizationDisplay": "NORMAL",
+    "orderDeliveryAttributeType": null,
+    "orderScheduledChannelType": null
+  },
+  "talktalk": {
+    "marketingMessage": null
+  },
+  "talktalkSearch": {
+    "isError": false,
+    "keyword": null,
+    "categoryKey": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "selectedProductNos": [],
+    "hasMore": false
+  },
+  "toast": {
+    "isVisible": false,
+    "type": null,
+    "data": null,
+    "dialogToastRootId": null,
+    "sequence": 0
+  },
+  "userCollectItems": [],
+  "view": {
+    "type": "pc"
+  },
+  "visit": {
+    "today": 0,
+    "total": 0
+  }
+}

@@ -38,8 +38,13 @@ INFO_SUFFIX = re.compile(
     r"시기|제철|사용법|세척|해동|굽는|찌는|먹는법|뜻|종류|언제|방법"
 )
 NOISE = re.compile(r"렌탈|대여|중고|알바|채용|주가|뜻풀이")
-# 블로그 상품 리뷰로 쓸 수 없는 것들 (리뷰가 없거나 제휴 불가)
-EXCLUDE = re.compile(r"상품권|기프티콘|기프트카드|쿠폰|캐시|포인트|이용권|입장권|렌트|숙박권")
+# 블로그 상품 리뷰로 쓸 수 없는 것들 (리뷰가 없거나 제휴 불가, B2B 사무실 관행 조달 품목)
+EXCLUDE = re.compile(
+    r"상품권|기프티콘|기프트카드|쿠폰|캐시|포인트|이용권|입장권|렌트|숙박권|"
+    r"복사용지|A4용지|복사지|토너|토너카트리지|인쇄용지"
+)
+# 고관여 실패 위험 / 호수·옵션 비교 / 오프라인 대체 품목 (밀본 염색약처럼 검색·전환 폭발)
+HIGH_CONVERT = re.compile(r"호수|색상|비율|단점|실패|부작용|차이|비교|셀프|집에서|가정용")
 
 
 def autocomplete(q, timeout=8):
@@ -130,7 +135,12 @@ def score(item, ac, history):
     if buy:
         why.append(f"구매의도 {len(buy)}개 +{len(buy)*1.5:.1f}")
 
-    info = [a for a in ac if INFO_SUFFIX.search(a) and a not in buy]
+    high = [a for a in ac if HIGH_CONVERT.search(a)]
+    s += len(high) * 1.5
+    if high:
+        why.append(f"고관여/옵션비교 {len(high)}개 +{len(high)*1.5:.1f}")
+
+    info = [a for a in ac if INFO_SUFFIX.search(a) and a not in buy and a not in high]
     s += len(info) * 0.6
     if info:
         why.append(f"정보성 {len(info)}개 +{len(info)*0.6:.1f}")

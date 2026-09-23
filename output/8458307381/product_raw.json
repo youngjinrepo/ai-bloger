@@ -1,0 +1,3379 @@
+{
+  "abt": {},
+  "channelProductVertical": {
+    "verticals": [],
+    "isFetched": false
+  },
+  "consumerSurveys": [],
+  "deliverySavingProduct": {
+    "sortType": "RECENT",
+    "simpleProducts": [],
+    "isFetched": false
+  },
+  "directCount": 0,
+  "forYouProduct": {
+    "recInfo": null,
+    "recItems": [],
+    "simpleProducts": [],
+    "currentPage": 1,
+    "totalCount": 0
+  },
+  "fulfillment": {
+    "rmidStatus": "INIT",
+    "rmids": [],
+    "sellerDeliveryPlans": {}
+  },
+  "groupProduct": {
+    "products": [],
+    "originProductNos": [],
+    "groupId": null,
+    "groupProductName": null,
+    "reviewAmount": null,
+    "standardPurchaseOptionConfig": null,
+    "displayConfig": null
+  },
+  "keepCartRecommend": {
+    "recommendProducts": {
+      "SIMILAR": {
+        "products": []
+      },
+      "BUNDLE": {
+        "products": []
+      },
+      "BUNDLE_DELIVERY": {
+        "products": []
+      }
+    },
+    "keepProductType": null,
+    "cartProductType": null,
+    "recommendType": null,
+    "add_cart_action_uid": null,
+    "shown": false,
+    "hasShown": false,
+    "isFetched": false
+  },
+  "live": {
+    "broadcasts": [],
+    "representShortclip": null,
+    "recentShortclips": null
+  },
+  "marketingMessage": {
+    "isFetched": {
+      "PURCHASE": false,
+      "PET_MEMBERSHIP": false,
+      "BABY_MEMBERSHIP": false,
+      "SHOPPING_FESTA": false
+    },
+    "messages": []
+  },
+  "myAddress": {
+    "districtNameText": "",
+    "zipCode": "",
+    "addressName": "",
+    "buildingManagementNo": "",
+    "hasShippingAddr": false,
+    "isError": false,
+    "defaultShippingAddress": {
+      "districtNameText": "서울시 강남구",
+      "zipCode": "06236",
+      "addressName": "",
+      "roadNameText": "테헤란로 142"
+    }
+  },
+  "naverMember": {
+    "isLogin": false,
+    "adultAuthorizationType": "NOT_LOGIN",
+    "member": null
+  },
+  "naverMembership": {
+    "isSubscribed": false,
+    "isFamilyMembership": false,
+    "payMembership": null,
+    "expectBenefit": null,
+    "lifeCycles": {
+      "isLifeCyclePet": null,
+      "isLifeCycleBaby": null
+    }
+  },
+  "productBenefit": {
+    "point": {
+      "pointResult": null,
+      "pointExtra": {
+        "inflowPoint": {
+          "normalInflowPoints": [],
+          "membershipInflowPoints": []
+        },
+        "reviewPoint": {
+          "total": 0,
+          "textReview": 0,
+          "photoVideoReview": 0,
+          "afterUseTextReview": 0,
+          "afterUsePhotoVideoReview": 0,
+          "storeMemberReview": 0
+        },
+        "sellerPurchasePoint": {
+          "isSpecialBadge": false,
+          "sellerPurchaseDiffDays": ""
+        },
+        "membershipPoint": {
+          "membershipExpectedPoint": 0,
+          "membershipDayPolicyName": "",
+          "expectedTotalSuperPoint": 0
+        }
+      },
+      "rentalPointExtra": null
+    },
+    "isCustomReviewPoint": false,
+    "customTextPoint": null,
+    "customPhotoVideoPoint": null,
+    "optimalDiscount": {
+      "fetched": false
+    },
+    "optimalDiscountResult": null,
+    "simulator": {
+      "fetched": false,
+      "isLayerOpened": false,
+      "showDetail": false,
+      "useProductOption": false,
+      "point": {
+        "pointResult": null,
+        "pointExtra": {
+          "inflowPoint": {
+            "normalInflowPoints": [],
+            "membershipInflowPoints": []
+          },
+          "reviewPoint": {
+            "total": 0,
+            "textReview": 0,
+            "photoVideoReview": 0,
+            "afterUseTextReview": 0,
+            "afterUsePhotoVideoReview": 0,
+            "storeMemberReview": 0
+          },
+          "sellerPurchasePoint": {
+            "isSpecialBadge": false,
+            "sellerPurchaseDiffDays": ""
+          },
+          "membershipPoint": {
+            "membershipExpectedPoint": 0,
+            "membershipDayPolicyName": "",
+            "expectedTotalSuperPoint": 0
+          }
+        },
+        "rentalPointExtra": null
+      },
+      "productBenefit": {
+        "benefitsPolicy": null,
+        "benefitsView": null
+      },
+      "productInfo": null
+    },
+    "promotion": null,
+    "isFetched": false
+  },
+  "productDelivery": {
+    "isRestrictedRegionFetched": false,
+    "restrictedRegion": null
+  },
+  "productReviewSummary": {
+    "PRODUCT": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    },
+    "REVIEW_DIALOG": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    }
+  },
+  "recommendTabVisible": {
+    "hasRecommendProduct": false
+  },
+  "relationProducts": {
+    "isFetched": false,
+    "coordiProducts": [],
+    "togetherProducts": [],
+    "similarProducts": [],
+    "togetherImageProducts": []
+  },
+  "serviceConfig": null,
+  "subVerticalMeta": {},
+  "targetCondition": {
+    "type": "NONE",
+    "targetConditionActionDetails": []
+  },
+  "verticalInventoryItems": {},
+  "wtm": {
+    "wtmDryrunRulesEnc": null
+  },
+  "commonSetting": {
+    "channelNo": 101735292,
+    "usePremiumThemeColor": false,
+    "colorType": "CUSTOM_COLOR",
+    "colorCode": "#d2cfc5",
+    "fontFamily": "SYSTEM",
+    "fontStyle": "BOLD",
+    "componentStyle": "ROUND"
+  },
+  "productDetailSetting": {
+    "displayConfig": {
+      "topNoticeBannerManagement": {
+        "useTopNoticeBanner": false,
+        "bannerStyle": "LIGHT",
+        "benefitTypeText": "",
+        "benefitDescription": "",
+        "periodDisplay": false,
+        "bannerExposureTargetType": "PRODUCT",
+        "mappingProductNos": [],
+        "mappingCategoryIds": [],
+        "mappingCategoryType": "",
+        "mappingPromotionPageNos": []
+      },
+      "representativeImageManagement": {
+        "marketingMessageManagement": {
+          "usePurchased": true,
+          "basisPurchased": 10,
+          "usePurchasedIn2Y": true,
+          "useRepurchased": true,
+          "basisRepurchased": 10,
+          "useBestProduct": true,
+          "useNewProduct": true
+        },
+        "mediaPreference": "VIDEO_PREFERRED",
+        "useBestReview": true,
+        "useShoppingLiveOnAirExposure": true
+      },
+      "useSummaryCardReview": true,
+      "useOtherCompositionProducts": true,
+      "useSimilarProducts": true,
+      "useAitems": true,
+      "useShortClip": true,
+      "usePublicQnA": true,
+      "useTogetherProducts": true,
+      "useBundleDeliveryProducts": true,
+      "useCategoryOtherProducts": true,
+      "useSellerBestProducts": true,
+      "useInterestProducts": true,
+      "useForYouProducts": true
+    },
+    "isTargetTopNoticeBanner": false
+  },
+  "addressBook": {
+    "accountNo": null,
+    "addressBookType": null,
+    "addressInfo": null,
+    "alias": null,
+    "id": null,
+    "possibleOversea": null,
+    "modAuditInfo": null,
+    "phoneNumber1": null,
+    "phoneNumber2": null,
+    "regAuditInfo": null,
+    "regDate": null,
+    "modDate": null
+  },
+  "benefit": {
+    "user": null,
+    "customerBenefits": null,
+    "basicBenefits": null,
+    "sortedHomeBenefits": null
+  },
+  "benefitById": {},
+  "benefitsV2": [],
+  "brandStatuses": [],
+  "bsProductCollection": {
+    "newProducts": [],
+    "bestProducts": [],
+    "bestReviewProducts": []
+  },
+  "bundle": {
+    "bundleGroupId": null,
+    "previousProductId": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "sort": null,
+    "page": 1,
+    "pageSize": 40,
+    "infiniteStatus": null,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "cart": {
+    "totalCount": 0
+  },
+  "cartProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "isLoaded": false
+  },
+  "categoryNames": {},
+  "categoryProducts": {
+    "key": null,
+    "isError": false,
+    "simpleProducts": [],
+    "simpleCatalogs": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "mobileListDisplayType": null,
+    "sort": null,
+    "page": 1,
+    "pageSize": 20,
+    "recommendSimpleProducts": [],
+    "recommendSimpleCatalogs": [],
+    "swipeGuideTargetIds": [],
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "isDeduplicateGroupEpId": false,
+    "isFetched": false
+  },
+  "categorySetting": {
+    "data": null,
+    "isFetched": false
+  },
+  "categorySettingContents": {
+    "categoryProductDefaultImageUrlMap": null,
+    "visibleQuickLinks": []
+  },
+  "categoryMenu": {
+    "firstCategories": [],
+    "categoryDisplayType": null,
+    "storeCategoryTree": null,
+    "validMenu": {
+      "isBestValid": false,
+      "isPromotionValid": false,
+      "isLiveValid": false,
+      "isLoungeValid": false,
+      "isExhibitionValid": false,
+      "isArrivalGuaranteeValid": false,
+      "isNewProductValid": false
+    }
+  },
+  "channel": {
+    "id": "101735292",
+    "channelId": "2wnSwERbbXtDH1NcpSErfr",
+    "channelUid": "2sWE1oIR4AHNhDbSIkpum",
+    "channelServiceType": "STOREFARM",
+    "channelExternalStatusType": "NORMAL",
+    "exhibitionYn": true,
+    "channelName": "미라클뮤즈",
+    "url": "kgmiracle",
+    "representImageInfoList": [
+      {
+        "imageUrl": "https://shop-phinf.pstatic.net/20250730_285/1753861590465mjln3_PNG/87994454604295280_1864107014.png",
+        "imageName": "87994454604295280_1864107014.png",
+        "imageClass": "STORE_REPRESENTATIVE",
+        "width": 300,
+        "height": 300,
+        "fileSize": 8906,
+        "sortOrder": 0,
+        "representative": false
+      }
+    ],
+    "talkAccountId": "w45vxq",
+    "talkExposureYn": true,
+    "description": "프리미엄 더마 코스메틱 미라클뮤즈 Premium Derma Cosmetics",
+    "contactInfo": {
+      "displayTelNo": true,
+      "disabledDomesticTelNo": false,
+      "telNo": {
+        "countryCode": "********",
+        "phoneNo": "********",
+        "formattedNumber": "********"
+      },
+      "overseaTelNo": {
+        "countryCode": "********",
+        "phoneNo": "",
+        "formattedNumber": ""
+      },
+      "onlineSales": false,
+      "offlineSales": false
+    },
+    "representType": "DOMESTIC_BUSINESS",
+    "identity": "********",
+    "representName": "주식회사 케이지미라클",
+    "representativeName": "정삼옥",
+    "businessType": "CORPORATION",
+    "declaredToOnlineMarkettingNumber": "********",
+    "businessAddressInfo": {
+      "address": "********",
+      "apiType": "********",
+      "basicAddress": "********",
+      "detailAddress": "********",
+      "fullAddressInfo": "********",
+      "hasJibunAddress": false,
+      "hasRoadNameAddress": true,
+      "latitude": "********",
+      "longitude": "********",
+      "massiveAddress": "",
+      "naverMapCode": "********",
+      "newZipCode": "********",
+      "overseas": false,
+      "placeId": "********",
+      "representAddressType": "********",
+      "zipCode": "********"
+    },
+    "accountNo": 101640958,
+    "accountId": "ncp_1oiiny_01",
+    "accountUid": "ncp_2sSF1x2k7vOBi87Hzxg5h",
+    "mallSeq": 7128756,
+    "storeExposureInfo": {
+      "exposureInfo": {
+        "NAVERBLOG": [
+          "miraclemuseofficial"
+        ],
+        "INSTAGRAM": [
+          "miraclemuse_official"
+        ],
+        "FACEBOOK": [
+          "61554234297282"
+        ]
+      }
+    },
+    "chrgrEmail": "********",
+    "naverPayNo": 101640854,
+    "payReferenceKey": "511650854",
+    "actionGrade": "FIRST",
+    "saleCount": 1814,
+    "naSiteId": "s_1201f014838c1",
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20250730_285/1753861590465mjln3_PNG/87994454604295280_1864107014.png",
+    "additionalImageInfoList": [],
+    "isBusiness": true,
+    "representTelephoneNumber": "********",
+    "isDomesticPhoneNumber": true,
+    "domesticTelephoneNumberReported": false,
+    "isDomesticTelephoneNumberReportable": true,
+    "domesticTelephoneNumberCertified": true,
+    "representativeBirthDay": "********",
+    "brandPotentialActions": [
+      "AUTHORIZED_MALL",
+      "BRAND_CATALOG",
+      "BRAND_TAB",
+      "BRAND_ANALYTICS",
+      "BRAND_STORE",
+      "BRAND_ANALYTICS_PLUS"
+    ],
+    "brandStoreName": "미라클뮤즈",
+    "brandUrl": "miraclemuse",
+    "brandMallSeq": 7128756,
+    "brandIds": [
+      "4052292"
+    ],
+    "hasAnyLuxuryBrandYn": false,
+    "brandDisplayReinforceYn": true,
+    "blogExposureYn": false,
+    "freeReturnInsuranceStatusType": "COMPLETE",
+    "regularSubscriptionYn": false,
+    "arrivalGuaranteeUseYn": true,
+    "sellerGuaranteeUseYn": false,
+    "brandLoungeName": "미라클뮤즈",
+    "loungeOperateYn": true,
+    "loungeNotifyReceiveAgreeYn": true,
+    "consumerSurveyYn": true,
+    "useAccountLogisticsDeliveryTypes": [
+      "ARRIVAL_GUARANTEE"
+    ],
+    "metaCollaborativeAdsCommerceSolutionYn": true,
+    "brandPackagePremiumYn": true,
+    "affiliateCommerceYn": true,
+    "newShoppingMarketingExposureYn": true,
+    "brandStoreChargeAgreeYn": true,
+    "storeExhibitionType": "BRAND_STORE",
+    "catalogBrandStoreExhibitionYn": false,
+    "adVoostYn": true,
+    "storeOpenDuration": "오픈 3년된 스토어"
+  },
+  "datalab": {
+    "ratings": [],
+    "ratioFemale": 0,
+    "ratioMale": 0,
+    "sequence": 0,
+    "tag": [],
+    "type": ""
+  },
+  "delivery": {
+    "todayDispatch": null
+  },
+  "detailReviews": {},
+  "embedAuxModalCount": 0,
+  "eventDetails": {},
+  "exhibition": {
+    "exhibitions": [],
+    "exhibition": null,
+    "sections": null,
+    "productsMap": {}
+  },
+  "frequentlyPaidProducts": {
+    "isHeavyUser": false,
+    "items": [],
+    "itemCount": 0,
+    "isLoaded": false
+  },
+  "globalPopupLayer": {
+    "element": null,
+    "executeFunctionAtClose": null,
+    "classNames": null,
+    "overElement": {
+      "element": null,
+      "executeFunctionAtClose": null,
+      "classNames": null
+    },
+    "keepPopupOnPush": false,
+    "isTransparent": null,
+    "importantScrollPosition": false
+  },
+  "gnbTextColor": "BLACK",
+  "header": {
+    "headerHeight": 0
+  },
+  "homeSetting": {
+    "channelNo": 101735292,
+    "widgets": {
+      "gnbWidget": {
+        "visible": true,
+        "order": 0,
+        "type": "GNB",
+        "gnbType": "EXPANSION",
+        "nameType": "LOGO",
+        "textColor": "WHITE",
+        "logo": {
+          "url": "https://shop-phinf.pstatic.net/20250731_110/17539244850678vxb8_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%286%29.png",
+          "property": "200:80",
+          "width": 200,
+          "height": 80,
+          "originalUrl": "https://shop-phinf.pstatic.net/20250731_110/17539244850678vxb8_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%286%29.png",
+          "top": 0,
+          "left": 0
+        },
+        "expansionTypeLogo": {
+          "url": "https://shop-phinf.pstatic.net/20250731_236/1753924477052gAYc1_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%286%29.png",
+          "property": "200:80",
+          "width": 200,
+          "height": 80,
+          "originalUrl": "https://shop-phinf.pstatic.net/20250731_236/1753924477052gAYc1_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%286%29.png",
+          "top": 0,
+          "left": 0
+        }
+      },
+      "promotionManageWidget": {
+        "visible": true,
+        "order": 1,
+        "type": "PROMOTION_MANAGE",
+        "generalPromotion": {
+          "displayType": "NORMAL_BIG",
+          "items": [
+            {
+              "id": 5,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260119_263/1768808009673xWMhY_JPEG/BDBAB8B6C6AEBDBAC5E4BEEE_B8F0B9D9C0CF_B9E8B3CA_BDBAC6B.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260119_114/1768808002768Yz4H6_JPEG/%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_%B8%F0%B9%D9%C0%CF_%B9%E8%B3%CA_%BD%BA%C6%BC%B9%D9v1.1.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260119_8/1768808015339wLtVh_JPEG/%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_pc_%B9%E8%B3%CA_%BD%BA%C6%BC%B9%D9v1.1.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260119_8/1768808015339wLtVh_JPEG/%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_pc_%B9%E8%B3%CA_%BD%BA%C6%BC%B9%D9v1.1.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "MiacleMuse\n스티바A크림",
+              "description": "Premium Derma Beauty\n매일 쓰기 편안한 안티에이징 케어",
+              "linkType": "PRODUCT",
+              "productNo": 12715846889,
+              "buttonUsageType": "ONE",
+              "buttonDesignType": "BLACK_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 1,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20250820_115/17556569679981JvcN_JPEG/%BE%C6%C7%CF%B9%D9%C7%CF-%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%BE%EE.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250820_115/17556569679981JvcN_JPEG/%BE%C6%C7%CF%B9%D9%C7%CF-%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%BE%EE.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20250819_44/1755595443337UMawl_JPEG/1920%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250819_44/1755595443337UMawl_JPEG/1920%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20250730_274/1753841537012nRAs3_JPEG/001.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250730_297/1753841519944hNaAT_JPEG/001.jpg",
+                "top": 0,
+                "left": 1072
+              },
+              "singleSourcePcImage": {
+                "url": "https://shop-phinf.pstatic.net/20250730_297/1753841519944hNaAT_JPEG/001.jpg",
+                "property": "0:0",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250730_297/1753841519944hNaAT_JPEG/001.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "Premium\nDerma Beauty",
+              "description": "피부 나이를 되돌리는 프리미엄 더마케어",
+              "linkType": "PRODUCT",
+              "productNo": 8458307381,
+              "buttonUsageType": "ONE",
+              "buttonDesignType": "BLACK_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": "https://brand.naver.com/miraclemuse/products/8458307381"
+              },
+              "secondButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "verticalAlign": "TOP",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 2,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20250730_274/1753842692509MLpsK_PNG/004.png",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250730_274/1753842692509MLpsK_PNG/004.png",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20250819_270/1755585074091Jb5VN_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-003_%289%29.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250819_270/1755585074091Jb5VN_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-003_%289%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 8903911873,
+              "buttonUsageType": "ONE",
+              "buttonDesignType": "BLACK_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": "https://brand.naver.com/miraclemuse/products/8903911873"
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 3,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20250730_288/1753842705817NpRvk_PNG/003.png",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250730_288/1753842705817NpRvk_PNG/003.png",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20250730_176/1753844375546dBXPD_JPEG/003.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250730_176/1753844375546dBXPD_JPEG/003.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 10133013304,
+              "buttonUsageType": "ONE",
+              "buttonDesignType": "BLACK_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": "https://brand.naver.com/miraclemuse/products/10133013304"
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 4,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20250730_6/17538444916559uxpB_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%2834%29.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250730_6/17538444916559uxpB_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%2834%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20250730_208/1753843909067PdJAI_JPEG/004.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20250730_208/1753843909067PdJAI_JPEG/004.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://brand.naver.com/miraclemuse/shoppingstory/detail?id=5001988956&page=1",
+              "buttonUsageType": "ONE",
+              "buttonDesignType": "BLACK_LINE",
+              "firstButton": {
+                "text": "미라클뮤즈자세히보기",
+                "urlLink": "https://brand.naver.com/miraclemuse/shoppingstory/detail?id=5002482238"
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            }
+          ]
+        },
+        "advancedPromotion": {
+          "mainItem": {
+            "type": "REVIEW_EVENT",
+            "lookBookConfig": {
+              "lookBookStyle": "NORMAL",
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "frame": "IMAGE",
+              "backgroundColor": "#000000",
+              "newLabelType": "SQUARE",
+              "newLabelColor": "#000000",
+              "newLabelTextColor": "WHITE",
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "mobileImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "mobileImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "pcImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "pcImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageRegistrationType": "NORMAL",
+                  "singleSourceMobileImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "singleSourcePcImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageDimType1": "NONE",
+                  "singleSourceMobileImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "singleSourcePcImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageDimType2": "NONE",
+                  "lookBookLinkType1": "PROMOTION_PAGE",
+                  "lookBookLinkType2": "PROMOTION_PAGE",
+                  "periodDisplayLinked": false,
+                  "title": "잘 만든 룩북",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 컨셉 또는 특장점을 풀어보세요.",
+                  "titleDescriptionColor": "WHITE",
+                  "strongTitleMode": "NONE",
+                  "titleDescriptionVerticalAlign": "BOTTOM",
+                  "titleDescriptionHorizontalAlign": "LEFT",
+                  "titleTextSize": "TITLE_LEVEL_4",
+                  "contentTextSize": "CONTENT_LEVEL_3"
+                }
+              ]
+            },
+            "videoConfig": {
+              "videoStyle": "FULL",
+              "videoFit": "SCREEN",
+              "playerMode": "AUTO_PLAY",
+              "simpleDescriptionFont": "DEFAULT",
+              "simpleDescriptionSize": "BASIC",
+              "simpleDescription": "",
+              "isProductDisplay": true,
+              "productNos": [],
+              "titleDescriptionFont": "DEFAULT",
+              "titleDescriptionSize": "BASIC",
+              "titleDescriptionAlign": "LEFT",
+              "titleDescriptionColor": "WHITE",
+              "title": "제목을 입력하세요.",
+              "description": "동영상이 어떤 컨셉, 주제, 목적 등을\n담고 있는지 설명할 수 있습니다."
+            },
+            "liveConfig": {
+              "style": "VIDEO",
+              "playerMode": "MANUAL_PLAY",
+              "backgroundColor": "#000000",
+              "logoColor": "WHITE",
+              "textFont": "DEFAULT",
+              "textSize": "BASIC",
+              "textColor": "WHITE"
+            },
+            "benefitConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "benefitType": "COUPON_POINT",
+                  "couponPointConfig": {
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "신상품 할인 쿠폰",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "productSelectionType": "AUTO",
+                    "productNos": []
+                  },
+                  "giftConfig": {
+                    "giftType": "PRODUCT",
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "사은품 증정 이벤트",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "labelColor": "#000000",
+                    "labelTextColor": "WHITE",
+                    "giftDescription": "이벤트 내용을 입력하세요.",
+                    "giftDescriptionColor": "WHITE",
+                    "periodExposure": false,
+                    "productNos": []
+                  }
+                },
+                {
+                  "id": 2,
+                  "visible": true,
+                  "benefitType": "GIFT",
+                  "couponPointConfig": {
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "신상품 할인 쿠폰",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "productSelectionType": "AUTO",
+                    "productNos": []
+                  },
+                  "giftConfig": {
+                    "giftType": "PRODUCT",
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "사은품 증정 이벤트",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "labelColor": "#000000",
+                    "labelTextColor": "WHITE",
+                    "giftDescription": "이벤트 내용을 입력하세요.",
+                    "giftDescriptionColor": "WHITE",
+                    "periodExposure": false,
+                    "productNos": []
+                  }
+                }
+              ]
+            },
+            "preOrderConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "visible": true,
+                  "id": 1,
+                  "ddayExposureType": "PLANE",
+                  "preOrderItemStyle": "FULL",
+                  "backGroundColor": "#000000",
+                  "title": "사전 예약구매",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여 예약구매 상품에 대해 홍보해보세요.",
+                  "titleDescriptionFontHorizontalAlign": "CENTER",
+                  "titleDescriptionFontVerticalAlign": "BOTTOM",
+                  "titleDescriptionFontColor": "WHITE"
+                }
+              ]
+            },
+            "reviewEventConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "backgroundConfig": {
+                    "style": "COLOR_THEME",
+                    "color": "#000000"
+                  },
+                  "titleDescriptionColor": "WHITE",
+                  "title": "리뷰 이벤트",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여 리뷰 이벤트에 대해 홍보해보세요.",
+                  "productSelectionType": "AUTO",
+                  "productNos": []
+                }
+              ]
+            }
+          },
+          "customItem1": {
+            "id": 1,
+            "visible": true,
+            "order": 1
+          },
+          "customItem2": {
+            "id": 2,
+            "visible": true,
+            "order": 2
+          }
+        },
+        "promotionType": "GENERAL"
+      },
+      "marketingLayerWidget": {
+        "visible": true,
+        "order": 2,
+        "type": "MARKETING_LAYER",
+        "marketingLayerType": "INTEREST_PRODUCT",
+        "mainProductMarketingLayer": {
+          "productNos": [
+            8458307381
+          ],
+          "title": "",
+          "periodDisplay": true,
+          "periodDisplayStartDate": "2025-07-29T15:00:00Z",
+          "periodDisplayEndDate": "2025-08-30T14:59:59.999Z"
+        },
+        "promotionMarketingLayer": {
+          "title": "",
+          "description": "",
+          "linkType": "PROMOTION_PAGE",
+          "periodDisplay": false
+        }
+      },
+      "benefitBannerWidget": {
+        "visible": true,
+        "order": 3,
+        "type": "BENEFIT_BANNER",
+        "displayStyle": "SIMPLE"
+      },
+      "brandDescriptionWidget": {
+        "visible": true,
+        "order": 4,
+        "type": "BRAND_DESCRIPTION",
+        "brandDescriptionType": "COLOR",
+        "brandNameType": "LOGO",
+        "textColor": "BLACK",
+        "mobileBackgroundImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "pcBackgroundImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "brandNameLogoImage": {
+          "url": "https://shop-phinf.pstatic.net/20250730_148/17538558243425LU0m_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%285%29.png",
+          "property": "400:100",
+          "width": 400,
+          "height": 100,
+          "originalUrl": "https://shop-phinf.pstatic.net/20250730_148/17538558243425LU0m_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%285%29.png",
+          "top": 0,
+          "left": 0
+        },
+        "mobileContent": "미라클뮤즈 공식 브랜드 스토어에서  \n 안심하고 구매하세요.",
+        "pcContent": "미라클뮤즈 공식 브랜드 스토어에서 안심하고 구매하세요."
+      },
+      "bestProductWidget": {
+        "visible": true,
+        "order": 5,
+        "type": "BEST_PRODUCT",
+        "titleSettings": {
+          "title": "실시간 판매순위",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "bestProductExposureType": "ALL",
+        "defaultAggregationType": "REALTIME",
+        "selectedAggregationType": "REALTIME",
+        "aggregationType": "DAILY",
+        "displayCount": 12
+      },
+      "videoWidget1": {
+        "visible": true,
+        "movable": true,
+        "order": 6,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "✨인플루언서 pick✨",
+          "subTitle": "🫧미라클뮤즈 아하바하메디크림🫧"
+        },
+        "playerModeType": "MANUAL_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2026_05_13_2267",
+          "vid": "93634C35CB7BE52F55F256E9BE4B1EE33E3D",
+          "width": 720,
+          "height": 1280,
+          "name": "S2SLeITBX1_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2026_05_13_2267/S2SLeITBX1_03.jpg",
+          "size": 4667404,
+          "duration": 19
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2026_05_13_898",
+          "vid": "77D5D1BBC58D6327F03576C6A34359BB2684",
+          "width": 720,
+          "height": 1280,
+          "name": "4j5SN2bGNK_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2026_05_13_898/4j5SN2bGNK_03.jpg",
+          "size": 4667404,
+          "duration": 19
+        }
+      },
+      "bestReviewWidget": {
+        "visible": true,
+        "order": 7,
+        "type": "BEST_REVIEW",
+        "titleSettings": {
+          "title": "REAL REVIEW",
+          "subTitle": ""
+        },
+        "reviewType": "REVIEW",
+        "productNos": [
+          8458307381,
+          8903911873,
+          11601001181,
+          11590179386,
+          10629344921,
+          10512807929,
+          10133013304
+        ],
+        "selectType": "MANUAL"
+      },
+      "customBannerWidget2": {
+        "visible": true,
+        "movable": true,
+        "order": 8,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "WIDE",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20250819_27/1755596741053UYWtc_JPEG/1920B3D7C0CCB9F6_B8F0B5A8-C3D6C1BEBAB8C1A4BABB.jpg",
+              "property": "750:180",
+              "width": 750,
+              "height": 180,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250819_44/1755595443337UMawl_JPEG/1920%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+              "top": 348,
+              "left": 645
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20250819_100/17555966748032dBFz_JPEG/1920B3D7C0CCB9F6_B8F0B5A8-C3D6C1BEBAB8C1A4BABB.jpg",
+              "property": "1920:170",
+              "width": 1920,
+              "height": 170,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250819_44/1755595443337UMawl_JPEG/1920%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+              "top": 345,
+              "left": 0
+            },
+            "linkType": "PRODUCT",
+            "productNo": 8458307381,
+            "linkUrl": "/miraclemuse/products/8458307381",
+            "textColor": "BLACK",
+            "title": "온 가족이 함께 미라클뮤즈",
+            "description": "작은 습관이 만드는 피부 변화",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "videoWidget": {
+        "visible": true,
+        "order": 9,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "Star Glow X Miracle ",
+          "subTitle": "여우상 여배우가 선택한 더마뷰티"
+        },
+        "playerModeType": "MANUAL_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2025_07_30_1721",
+          "vid": "D3F7E0A55A2C5C807891062E833F97B7DA2E",
+          "width": 1280,
+          "height": 720,
+          "name": "aXI2HiCMjZ_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2025_07_30_1721/aXI2HiCMjZ_03.jpg",
+          "size": 9011555,
+          "duration": 47
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2025_07_30_1259",
+          "vid": "86ADAD0764818157C33B553E911FC5991F25",
+          "width": 1280,
+          "height": 720,
+          "name": "uEoFSzdVac_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2025_07_30_1259/uEoFSzdVac_03.jpg",
+          "size": 9011555,
+          "duration": 47
+        }
+      },
+      "shoppingStoryWidget": {
+        "visible": true,
+        "order": 10,
+        "type": "SHOPPING_STORY",
+        "shoppingStoryType": "MAGAZINE",
+        "titleSettings": {
+          "title": "Brand Story",
+          "subTitle": "프리미엄 더마 뷰티, 미라클뮤즈"
+        },
+        "selectType": "AUTO",
+        "shoppingStoryIds": []
+      },
+      "customBannerWidget1": {
+        "visible": true,
+        "movable": true,
+        "order": 11,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "LARGE",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20250819_81/1755592766750aN8mt_JPEG/750%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+              "property": "750:1200",
+              "width": 750,
+              "height": 1200,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250819_81/1755592766750aN8mt_JPEG/750%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20250819_177/17555925091411khp9_JPEG/1920B3D7C0CCB9F6_C8F7BECBBCBCB6F3.jpg",
+              "property": "1920:500",
+              "width": 1920,
+              "height": 500,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250819_294/1755585000901FrwRl_JPEG/1920%B3%D7%C0%CC%B9%F6_%C8%F7%BE%CB%BC%BC%B6%F3.jpg",
+              "top": 203,
+              "left": 0
+            },
+            "linkType": "PRODUCT",
+            "productNo": 8903911873,
+            "linkUrl": "/miraclemuse/products/8903911873",
+            "textColor": "BLACK",
+            "title": "매일의 순간,\n 미라클뮤즈",
+            "description": "과학이 담긴 스킨케어로 건강한 피부 변화를 경험하세요.",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "BLACK_LINE",
+            "firstButton": {
+              "text": "자세히보기",
+              "urlLink": "https://brand.naver.com/miraclemuse/products/8903911873"
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "customProductWidget": {
+        "visible": true,
+        "order": 12,
+        "type": "CUSTOM_PRODUCT",
+        "titleSettings": {
+          "title": "이달의 베스트",
+          "subTitle": "본사 공식 브랜드몰 보증서 발급"
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "SMALL",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": true,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "productNos": [
+          8458307381,
+          8903911873,
+          11590179386
+        ],
+        "displayCount": 12
+      },
+      "exhibitionBannerWidget": {
+        "visible": true,
+        "order": 13,
+        "type": "EXHIBIT_BANNER",
+        "selectType": "AUTO",
+        "viewType": "SWIPING",
+        "bannerShapeType": "LARGE",
+        "banners": []
+      },
+      "relationProductWidget": {
+        "visible": true,
+        "order": 14,
+        "type": "RELATION_PRODUCT",
+        "titleSettings": {
+          "title": "Trendy",
+          "subTitle": ""
+        },
+        "selectType": "AUTO",
+        "viewType": "SWIPING",
+        "relationProductNos": []
+      },
+      "categoryQuickLinkWidget1": {
+        "visible": true,
+        "movable": true,
+        "order": 15,
+        "type": "CATEGORY_QUICKLINK",
+        "titleSettings": {
+          "title": "피부 타입별 추천",
+          "subTitle": "고객님들이 가장 많이 찾으신 베스트"
+        },
+        "showType": "IMAGE_TEXT",
+        "displaySizeType": "SMALL",
+        "quickLinks": [
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "469b2797ac844549a50a4447e034a971",
+            "title": "[스티바A]",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20260130_222/176973588619183VLt_PNG/01KG67FZPSDJJ4F8N533TGKKJG.png",
+              "property": "1088:1088",
+              "width": 1088,
+              "height": 1088,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260130_187/1769735862209bDirA_PNG/01KG67FZPSDJJ4F8N533TGKKJG.png",
+              "top": 267,
+              "left": 1137
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "1ae2c59376374ba787d092f67c4e45b2",
+            "title": "[아하바하]",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20251216_229/1765847388410CkNVf_JPEG/750B3D7C0CCB9F6_B8F0B5A8-C3D6C1BEBAB8C1A4BABB_BEC6C7CF.jpg",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250819_241/1755595601031azTbF_JPEG/750%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB_%BE%C6%C7%CF.jpg",
+              "top": 148,
+              "left": 63
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "4e980d39dd864c18921400be4955582d",
+            "title": "[재생크림]",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250819_26/1755594058019GizDc_JPEG/750B3D7C0CCB9F6_B8F0B5A8-C3D6C1BEBAB8C1A4BABB.jpg",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250819_81/1755592766750aN8mt_JPEG/750%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+              "top": 217,
+              "left": 46
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "eb32aae94ac04235b267f19b24652416",
+            "title": "스티바A케어",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20251216_142/1765847647998OYbRr_JPEG/%B3%D7%C0%CC%B9%F6_%C4%AB%C5%D7%B0%ED%B8%AE%BA%A3%B3%CA2.jpg",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20251216_142/1765847647998OYbRr_JPEG/%B3%D7%C0%CC%B9%F6_%C4%AB%C5%D7%B0%ED%B8%AE%BA%A3%B3%CA2.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "17caa9eb44314017950bb00e149edcc4",
+            "title": "주름미백개선",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250915_240/1757915329696cNSDp_PNG/DKGKQKGKAPELZMFLA.png",
+              "property": "1024:1024",
+              "width": 1024,
+              "height": 1024,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250915_275/1757915322081H5y1Q_PNG/DKGKQKGKAPELZMFLA.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "0781f6be0fbc46c194832b4bebef1b7a",
+            "title": "알러지 케어",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250915_96/1757915309115BMCQu_PNG/C8F7BECBBCBCB6F3C5A9B8B2.png",
+              "property": "928:928",
+              "width": 928,
+              "height": 928,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250915_141/1757915294341MuFWM_PNG/%C8%F7%BE%CB%BC%BC%B6%F3%C5%A9%B8%B2.png",
+              "top": 95,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "06e7751cb5c94abab73c07cd1bd563af",
+            "title": "레티날",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20251216_202/1765845873937ei2Wp_JPEG/%B3%D7%C0%CC%B9%F6_%C4%AB%C5%D7%B0%ED%B8%AE%BA%A3%B3%CA.jpg",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20251216_202/1765845873937ei2Wp_JPEG/%B3%D7%C0%CC%B9%F6_%C4%AB%C5%D7%B0%ED%B8%AE%BA%A3%B3%CA.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "0ce1529a915547e8899b720782ca4a7e",
+            "title": "지성",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250915_68/1757915364382EbAoN_PNG/gemini-2.5-flash-image-preview_28nano-banana29_Keep_the_background_.png",
+              "property": "1024:1024",
+              "width": 1024,
+              "height": 1024,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250915_69/1757915356811YN9la_PNG/gemini-2.5-flash-image-preview_%28nano-banana%29_Keep_the_background_.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "dc00bef56ff846188c2ed02f997f4780",
+            "title": "건성",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250915_178/1757915575200mneLx_JPEG/C8F7BECBBCBCB6F3__BDE6B3D7C0CF.jpg",
+              "property": "1024:1024",
+              "width": 1024,
+              "height": 1024,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250915_139/1757915568670F2qLk_JPEG/%C8%F7%BE%CB%BC%BC%B6%F3__%BD%E6%B3%D7%C0%CF.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "ae07c2bd8662430aae9e2644c525728f",
+            "title": "고주파",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250730_126/1753852889141LPJoz_JPEG/003.jpg",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250730_176/1753844375546dBXPD_JPEG/003.jpg",
+              "top": 182,
+              "left": 1062
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "dbc50499c9a44770a2d4fcfb6e7d641d",
+            "title": "[EMS관리]",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250730_23/1753852923265136sF_JPEG/01.jpg",
+              "property": "4640:4640",
+              "width": 4640,
+              "height": 4640,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250730_299/1753852914894Vguzt_JPEG/01.jpg",
+              "top": 1515,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "2e0c2743385544b98a76e9144ab94812",
+            "title": "LED 케어",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250730_220/1753853016815DXFKi_JPEG/B7B9B5E5.jpg",
+              "property": "4640:4640",
+              "width": 4640,
+              "height": 4640,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250730_63/17538530068421YzJK_JPEG/%B7%B9%B5%E5.jpg",
+              "top": 1515,
+              "left": 0
+            },
+            "logoImage": {}
+          }
+        ]
+      },
+      "categoryProductWidget": {
+        "visible": true,
+        "order": 16,
+        "type": "CATEGORY_PRODUCT",
+        "viewType": "SWIPING",
+        "displaySizeType": "LARGE",
+        "thumbnailShapeType": "V_RECT",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "sortType": "POPULARITY",
+        "categoryDisplayProps": [
+          {
+            "categoryId": "469b2797ac844549a50a4447e034a971",
+            "titleSettings": {
+              "title": "스티바A 기능성",
+              "subTitle": "스킨케어를 Advanced Care로 완성"
+            },
+            "topBannerSettings": {
+              "useTopBanner": false,
+              "pcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "mobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "useImageDim": true,
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": ""
+            },
+            "shortcutButtonSettings": {
+              "useShortcutButton": true,
+              "buttonName": "전체보기",
+              "linkType": "CATEGORY"
+            },
+            "displayCount": 12,
+            "categoryType": "DISPLAY"
+          },
+          {
+            "categoryId": "1ae2c59376374ba787d092f67c4e45b2",
+            "titleSettings": {
+              "title": "아하바하메디크림",
+              "subTitle": "압도적인 아하바하메디케어"
+            },
+            "topBannerSettings": {
+              "useTopBanner": false,
+              "pcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "mobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "useImageDim": true,
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": ""
+            },
+            "shortcutButtonSettings": {
+              "useShortcutButton": true,
+              "buttonName": "전체보기",
+              "linkType": "CATEGORY"
+            },
+            "displayCount": 12,
+            "categoryType": "DISPLAY"
+          },
+          {
+            "categoryId": "dc00bef56ff846188c2ed02f997f4780",
+            "titleSettings": {
+              "title": "EGF 재생크림",
+              "subTitle": "히알세라수딩크림"
+            },
+            "topBannerSettings": {
+              "useTopBanner": false,
+              "pcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "mobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "useImageDim": true,
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": ""
+            },
+            "shortcutButtonSettings": {
+              "useShortcutButton": true,
+              "buttonName": "전체보기",
+              "linkType": "CATEGORY"
+            },
+            "displayCount": 12,
+            "categoryType": "DISPLAY"
+          }
+        ]
+      },
+      "wholeProductWidget": {
+        "visible": true,
+        "order": 17,
+        "type": "WHOLE_PRODUCT",
+        "titleSettings": {
+          "title": "Top Pick",
+          "subTitle": "여배우의선택 미라클뮤즈"
+        },
+        "topBannerSettings": {
+          "useTopBanner": true,
+          "pcImage": {
+            "url": "https://shop-phinf.pstatic.net/20250820_261/1755663532777ywphc_JPEG/1920B3D7C0CCB9F6_B8F0B5A8-C3D6C1BEBAB8C1A4BABB.jpg",
+            "property": "1920:300",
+            "width": 1920,
+            "height": 300,
+            "originalUrl": "https://shop-phinf.pstatic.net/20250819_44/1755595443337UMawl_JPEG/1920%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+            "top": 191,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "https://shop-phinf.pstatic.net/20250820_57/1755663383342Lf4HF_JPEG/1920B3D7C0CCB9F6_B8F0B5A8-C3D6C1BEBAB8C1A4BABB.jpg",
+            "property": "750:320",
+            "width": 750,
+            "height": 320,
+            "originalUrl": "https://shop-phinf.pstatic.net/20250819_44/1755595443337UMawl_JPEG/1920%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+            "top": 193,
+            "left": 744
+          },
+          "useImageDim": false,
+          "useAltText": false,
+          "altTextTitle": "SSSS",
+          "altTextDescription": "SSSSS"
+        },
+        "viewType": "DROPPING",
+        "displaySizeType": "SMALL",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": true,
+          "buttonName": "전체상품",
+          "linkType": "CATEGORY"
+        },
+        "sortType": "REVIEW_COUNT_DESC",
+        "displayCount": 50
+      },
+      "customBannerWidget3": {
+        "visible": true,
+        "movable": true,
+        "order": 18,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "WIDE",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20250827_22/1756262847465oMwP3_JPEG/750B3D7C0CCB9F6_B8F0B5A8-C3D6C1BEBAB8C1A4BABB.jpg",
+              "property": "750:180",
+              "width": 750,
+              "height": 180,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250819_81/1755592766750aN8mt_JPEG/750%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+              "top": 382,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20250827_179/1756262992291g8Dk9_JPEG/1920B3D7C0CCB9F6_B8F0B5A8-C3D6C1BEBAB8C1A4BABB.jpg",
+              "property": "1920:170",
+              "width": 1920,
+              "height": 170,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250819_44/1755595443337UMawl_JPEG/1920%B3%D7%C0%CC%B9%F6_%B8%F0%B5%A8-%C3%D6%C1%BE%BA%B8%C1%A4%BA%BB.jpg",
+              "top": 345,
+              "left": 0
+            },
+            "linkType": "NOLINK",
+            "linkUrl": "",
+            "textColor": "BLACK",
+            "title": "MIRACLE MUSE",
+            "description": "프리미엄 \n저자극 효과로 증명합니다",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "newProductWidget": {
+        "visible": true,
+        "order": 19,
+        "type": "NEW_PRODUCT",
+        "titleSettings": {
+          "title": "BEST SELLER",
+          "subTitle": "쟁이기 할인 구성"
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "DROPPING",
+        "displaySizeType": "SMALL",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": true,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "displayCount": 12
+      },
+      "footerWidget": {
+        "visible": true,
+        "order": 20,
+        "type": "FOOTER",
+        "pcImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "mobileImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "useAltText": false,
+        "altTextTitle": "",
+        "altTextDescription": ""
+      },
+      "timeSaleProductWidget": {
+        "visible": true,
+        "order": 21,
+        "type": "TIME_SALE_PRODUCT",
+        "timeSaleDisplayStyle": "SIMPLE",
+        "titleSettings": {
+          "title": "타임세일 상품",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": true,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "timeSaleStartDate": "2025-07-29T15:00:00Z",
+        "timeSaleEndDate": "2025-08-30T14:59:59.999Z",
+        "displayStartDay": "TIME_SALE_START_DAY",
+        "displaySizeType": "MEDIUM",
+        "viewType": "SWIPING",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "productNos": [],
+        "displayCount": 12
+      },
+      "couponPointProductWidget": {
+        "visible": true,
+        "order": 22,
+        "type": "COUPON_POINT_PRODUCT",
+        "titleSettings": {
+          "title": "쿠폰 혜택 상품",
+          "subTitle": ""
+        },
+        "displaySizeType": "MEDIUM",
+        "viewType": "SWIPING",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "selectType": "AUTO",
+        "productNos": []
+      },
+      "customBannerWidget": {
+        "visible": true,
+        "order": 23,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "MEDIUM",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20250730_251/17538673183990l8Hf_JPEG/B9CCB6F3C5ACB9C2C1EEXBBEAC1A4C8A3BCF6_BAEDB7CEB1D7C8AB.jpg",
+              "property": "1080:1080",
+              "width": 1080,
+              "height": 1080,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250730_90/1753867310513PFjj7_JPEG/%B9%CC%B6%F3%C5%AC%B9%C2%C1%EEX%BB%EA%C1%A4%C8%A3%BC%F6_%BA%ED%B7%CE%B1%D7%C8%AB%BA%B8%BF%EB_%BA%B9%BB%E7.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20250730_109/1753867632917apRuU_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%2835%29.jpg",
+              "property": "1920:500",
+              "width": 1920,
+              "height": 500,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250730_109/1753867632917apRuU_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-001_%2835%29.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://brand.naver.com/miraclemuse/shoppingstory/detail?id=5001991721",
+            "textColor": "WHITE",
+            "title": "MIRACLEMUSE",
+            "description": "첫 번째 이야기",
+            "buttonUsageType": "ONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "자세히보기",
+              "urlLink": "https://brand.naver.com/miraclemuse/shoppingstory/detail?id=5001991721"
+            },
+            "secondButton": {
+              "text": "자세히보기",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "categoryQuickLinkWidget": {
+        "visible": false,
+        "order": 24,
+        "type": "CATEGORY_QUICKLINK",
+        "titleSettings": {
+          "title": "추천 카테고리",
+          "subTitle": ""
+        },
+        "showType": "TEXT",
+        "displaySizeType": "MEDIUM",
+        "quickLinks": [
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "0ce1529a915547e8899b720782ca4a7e",
+            "title": "지성",
+            "textImage": {},
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "dc00bef56ff846188c2ed02f997f4780",
+            "title": "건성",
+            "textImage": {},
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "bd63eba3cd3d4032937786a732354783",
+            "title": "속건조",
+            "textImage": {},
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "06e7751cb5c94abab73c07cd1bd563af",
+            "title": "수부지",
+            "textImage": {},
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "4e980d39dd864c18921400be4955582d",
+            "title": "민감성",
+            "textImage": {},
+            "logoImage": {}
+          }
+        ]
+      }
+    },
+    "hasFreeReturnInsuranceProduct": true,
+    "isLoading": false,
+    "isSaving": false,
+    "error": null
+  },
+  "interestProductRemind": {
+    "remindType": null
+  },
+  "isEmbedStorePromotionPage": false,
+  "isPreview": false,
+  "keepStore": {
+    "count": 0,
+    "kept": null,
+    "newsInterlock": null
+  },
+  "keptCatalogs": {},
+  "keptProducts": {},
+  "keptRelationProducts": {},
+  "keywordSearch": {
+    "keyword": null,
+    "normalizedKeywordInfo": {
+      "originQuery": "",
+      "normalizedKeyword": ""
+    },
+    "sort": null,
+    "listDisplayType": null,
+    "simpleProducts": [],
+    "simpleCatalogs": [],
+    "totalCount": 0,
+    "page": 1,
+    "pageSize": 20,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "querySummaryInfo": {
+      "isQR": null,
+      "isPartialSearch": null,
+      "orgQueryTotal": null
+    }
+  },
+  "layoutStatus": {
+    "isActiveStoreTopBanner": false
+  },
+  "logisticsProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "sort": null,
+    "listDisplayType": null,
+    "page": 1,
+    "pageSize": 40,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "loungeBenefit": [],
+  "loungeConfig": {
+    "channelNo": 0,
+    "join": {
+      "additionalInfoPageEnabled": true
+    },
+    "home": {
+      "widgets": {
+        "gradeWidget": {
+          "type": "GRADE",
+          "visible": true,
+          "order": 1
+        },
+        "noticeWidget": {
+          "type": "NOTICE",
+          "visible": true,
+          "order": 2
+        },
+        "benefitWidget": {
+          "type": "BENEFIT",
+          "visible": true,
+          "order": 3
+        },
+        "storyWidget": {
+          "type": "STORY",
+          "visible": true,
+          "order": 4
+        }
+      }
+    }
+  },
+  "loungeJoin": {
+    "externalProvisions": null,
+    "externalProvision": null,
+    "collectedItems": null,
+    "reportedItemIds": []
+  },
+  "loungeMember": {
+    "sellerNo": null,
+    "memberIdNo": null,
+    "memberId": null,
+    "gradeType": null,
+    "grade": null,
+    "gradeApplyDateTime": null,
+    "name": null,
+    "sex": null,
+    "birthday": null,
+    "status": null,
+    "joinDateTime": null,
+    "leaveDateTime": null,
+    "attendanceCount": 0,
+    "lastAttendanceDate": null,
+    "promotionNotification": null,
+    "sexAgreementDateTime": null,
+    "sexAgreementCancelDateTime": null,
+    "birthdayAgreementDateTime": null,
+    "birthdayAgreementCancelDateTime": null,
+    "contactTelephoneAgreementDateTime": null,
+    "contactTelephoneAgreementCancelDateTime": null,
+    "realtimeSummaryInfo": null,
+    "accumulateSummaryInfo": null,
+    "predictSummaryInfo": null,
+    "agreements": [],
+    "isMember": false,
+    "rejoinPossibleDate": null,
+    "attendanceRequestState": null,
+    "agreeSex": false,
+    "agreeBirthday": false,
+    "agreeContactPhone": false
+  },
+  "loungeMy": {
+    "myCommentActivities": null,
+    "myPollActivities": null
+  },
+  "loungeNotice": {
+    "pages": null,
+    "detail": null,
+    "newestPost": null
+  },
+  "loungeSimpleMember": {
+    "sellerNo": null,
+    "memberIdNo": null,
+    "memberId": null,
+    "gradeType": null,
+    "grade": null,
+    "gradeApplyDateTime": null,
+    "name": null,
+    "sex": null,
+    "birthday": null,
+    "status": null,
+    "joinDateTime": null,
+    "leaveDateTime": null,
+    "attendanceCount": 0,
+    "lastAttendanceDate": null,
+    "promotionNotification": null,
+    "sexAgreementDateTime": null,
+    "sexAgreementCancelDateTime": null,
+    "birthdayAgreementDateTime": null,
+    "birthdayAgreementCancelDateTime": null,
+    "isMember": false,
+    "rejoinPossibleDate": null,
+    "agreeSex": false,
+    "agreeBirthday": false
+  },
+  "loungeStory": {
+    "pages": null,
+    "detail": null
+  },
+  "menuSetting": {
+    "topMenus": {
+      "promotionMenu": {
+        "visible": false,
+        "order": 0,
+        "type": "PROMOTION",
+        "title": "",
+        "promotionCategoryExposureType": "LIST",
+        "promotionListExposureProp": {
+          "newLabelExposure": false,
+          "pageNameExposure": false,
+          "readMoreExposure": false
+        },
+        "periodDisplay": false
+      },
+      "shoppingLiveMenu": {
+        "visible": false,
+        "order": 1,
+        "type": "SHOPPING_LIVE"
+      },
+      "bestMenu": {
+        "visible": false,
+        "order": 2,
+        "type": "BEST",
+        "title": ""
+      },
+      "categoryMenu": {
+        "visible": true,
+        "order": 3,
+        "type": "CATEGORY"
+      },
+      "newProductMenu": {
+        "visible": false,
+        "order": 4,
+        "type": "NEW_PRODUCT",
+        "title": ""
+      },
+      "arrivalGuaranteeMenu": {
+        "visible": false,
+        "order": 5,
+        "type": "ARRIVAL_GUARANTEE"
+      },
+      "forYouMenu": {
+        "visible": false,
+        "order": 6,
+        "type": "FOR_YOU"
+      },
+      "loungeMenu": {
+        "visible": true,
+        "order": 7,
+        "type": "LOUNGE"
+      }
+    },
+    "bottomMenus": {
+      "exhibitionMenu": {
+        "visible": false,
+        "order": 0,
+        "type": "EXHIBITION",
+        "title": ""
+      },
+      "noticeMenu": {
+        "visible": false,
+        "order": 1,
+        "type": "NOTICE"
+      },
+      "shoppingStoryMenu": {
+        "visible": false,
+        "order": 2,
+        "type": "SHOPPING_STORY",
+        "title": ""
+      },
+      "reviewEventMenu": {
+        "visible": false,
+        "order": 3,
+        "type": "REVIEW_EVENT",
+        "title": ""
+      },
+      "qnaMenu": {
+        "visible": false,
+        "order": 4,
+        "type": "QNA",
+        "title": ""
+      },
+      "sellerInfoMenu": {
+        "visible": true,
+        "order": 5,
+        "type": "SELLER_INFO"
+      }
+    }
+  },
+  "my": {
+    "point": "",
+    "coinType": "06",
+    "orderDeliveryCounts": "",
+    "zzimProductCount": ""
+  },
+  "myKeptProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "isLoaded": false
+  },
+  "myListProducts": {
+    "simpleProducts": [],
+    "hasNextPage": true,
+    "page": 1,
+    "pageSize": 20,
+    "isLoaded": false
+  },
+  "newProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "sort": null,
+    "listDisplayType": null,
+    "page": 1,
+    "pageSize": 1,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "notice": {
+    "list": {
+      "contents": [],
+      "page": 1,
+      "totalElements": 0
+    },
+    "detail": {
+      "id": null,
+      "postCategoryType": "ORDINARY",
+      "postTitle": "",
+      "readCount": 0,
+      "regDate": "",
+      "editorType": null,
+      "renderContent": "",
+      "mobileRenderContent": ""
+    }
+  },
+  "optimizeRequest": {
+    "types": []
+  },
+  "product": {
+    "id": null,
+    "channelServiceType": null,
+    "channelProductType": null,
+    "channelProductSupplyType": null,
+    "channelProductStatusType": null,
+    "channelProductDisplayStatusType": null,
+    "category": null,
+    "categoryNavigations": null,
+    "name": null,
+    "productUrl": null,
+    "mobileProductUrl": null,
+    "channel": null,
+    "content": null,
+    "regDate": null,
+    "modDate": null,
+    "manufactureDate": null,
+    "validDate": null,
+    "storeKeepExclusiveProduct": false,
+    "epInfo": {
+      "naverShoppingExposure": false,
+      "enuriRegistration": false,
+      "danawaRegistration": false
+    },
+    "best": false,
+    "displayDate": null,
+    "materialContent": null,
+    "orderRequestUsable": false,
+    "channelProductImages": null,
+    "channelProductAttributes": [],
+    "productNo": null,
+    "salePrice": 0,
+    "stockQuantity": 0,
+    "saleType": null,
+    "excludeAdminDiscount": false,
+    "payExposure": false,
+    "productStatusType": null,
+    "reasonForProhibition": null,
+    "statusType": null,
+    "authenticationType": null,
+    "productImages": null,
+    "naverShoppingSearchInfo": null,
+    "itselfProductionProductYn": null,
+    "afterServiceInfo": null,
+    "originAreaInfo": null,
+    "seoInfo": null,
+    "optionUsable": false,
+    "supplementProductUsable": false,
+    "purchaseReviewInfo": null,
+    "isCustomProduct": false,
+    "taxType": null,
+    "certificationTargetExcludeContent": null,
+    "minorPurchasable": false,
+    "productInfoProvidedNoticeView": null,
+    "productAttributes": null,
+    "productDeliveryInfo": null,
+    "claimDeliveryInfo": null,
+    "benefitsView": null,
+    "benefitsPolicy": null,
+    "mobileBenefitsPolicy": null,
+    "saleAmount": null,
+    "reviewAmount": null,
+    "averageDeliveryLeadTime": null,
+    "preOrder": null,
+    "sellerTags": null,
+    "bbsSeq": 0,
+    "galleryImages": null,
+    "materialImages": null,
+    "tagImages": null,
+    "barcodeImages": null,
+    "soldout": false,
+    "viewAttributes": null,
+    "additionalAttributes": null,
+    "eCouponCategory": false,
+    "cultureCategory": false,
+    "mobileDiscountRatio": 0,
+    "cultureCostIncomeDeductionRate": null,
+    "isRestrictCart": false,
+    "channelProductVideos": [],
+    "productVideos": [],
+    "detailAttributes": null,
+    "commentCount": 0,
+    "interestFreePlans": null,
+    "productVideoAuth": null,
+    "userNickname": null,
+    "relatedProductsIds": [],
+    "isPayRestrictCategory": false,
+    "isOrderRestrictCategory": false,
+    "isPointPlusMember": false,
+    "hopeDelivery": null,
+    "discountedSalePrice": 0,
+    "reviewEvent": null,
+    "rmidByUser": null,
+    "orderDeliveryAttributeType": null,
+    "orderScheduledChannelType": null
+  },
+  "productListSetting": {
+    "channelNo": 0,
+    "imageShapeType": "SQUARE",
+    "imageDisplayType": "REPRESENTATIVE",
+    "productUnitAddInfo": {
+      "reviewRatingVisible": true,
+      "reviewCountVisible": true,
+      "colorChipVisible": false,
+      "detailForPcVisible": true,
+      "cartVisible": false,
+      "bestOrNewTagVisible": true,
+      "productAttributeTagVisible": true
+    },
+    "productSortOption": {
+      "detailFilterVisible": true,
+      "sortOrderVisible": true,
+      "displayTypeVisible": true
+    }
+  },
+  "productBenefitList": {},
+  "productBestReviews": {
+    "exceptionalStorepickReviewIds": []
+  },
+  "productGift": {
+    "giftParams": {},
+    "giftButton": {
+      "isLoading": true,
+      "type": null,
+      "friendInfo": null
+    }
+  },
+  "productReviewContentSummaryTags": {
+    "PRODUCT": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    },
+    "REVIEW_DIALOG": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    }
+  },
+  "productReviewGalleryAttaches": {
+    "PRODUCT": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    },
+    "REVIEW_DIALOG": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    }
+  },
+  "productReviews": {
+    "PRODUCT": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    },
+    "REVIEW_DIALOG": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    }
+  },
+  "productSizeRecommendation": {
+    "hasValidRecommendation": false,
+    "userRepSize": null,
+    "sizeShowing": [],
+    "sizeRecommendationMap": null
+  },
+  "promotionManagement": {
+    "channelNo": null,
+    "storeHomePromotionManagement": {
+      "storeHomePopupExposure": false,
+      "storeHomePopupExposureConfig": {
+        "promotionPageNo": null,
+        "selectType": "AUTO",
+        "image": {
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "left": 0,
+          "url": "",
+          "originalUrl": "",
+          "property": ""
+        },
+        "periodDisplay": false
+      },
+      "promotionPagePreference": false,
+      "promotionPagePreferenceConfig": {
+        "periodDisplay": false
+      }
+    },
+    "storeEverywherePromotionManagement": {
+      "storeUpperBannerExposure": false,
+      "storeUpperBannerExposureConfig": {
+        "linkType": "PROMOTION_PAGE",
+        "periodDisplay": false
+      },
+      "searchBarBannerExposure": false,
+      "searchBarBannerExposureConfig": {
+        "image": {
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "left": 0,
+          "url": "",
+          "originalUrl": "",
+          "property": ""
+        },
+        "linkType": "PROMOTION_PAGE",
+        "periodDisplay": false
+      }
+    }
+  },
+  "qna": {
+    "contents": [],
+    "page": 0,
+    "size": 0,
+    "totalElements": 0,
+    "totalPages": 0
+  },
+  "recentOtherProduct": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "isLoaded": false
+  },
+  "recentlyViewedProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "page": 1,
+    "hasMore": false,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "isLoaded": false
+  },
+  "renderSequence": "topBanner",
+  "rental": {
+    "policies": {},
+    "affiliateCards": {},
+    "contractConditionId": null
+  },
+  "reviewDetail": null,
+  "reviewEvent": {
+    "list": {
+      "initialized": false,
+      "contents": []
+    },
+    "detail": null
+  },
+  "reviewLike": {},
+  "reviewsFilter": {
+    "selectedSort": "REVIEW_RANKING",
+    "selectedFeature": "ALL",
+    "selectedScore": "ALL",
+    "selectedTopic": null,
+    "selectedTag": null,
+    "selectedOptions": [],
+    "selectedOptionsTemp": [],
+    "selectedCustomFilterOptions": [],
+    "selectedCustomFilterOptionsTemp": [],
+    "registeredCustomFilter": {
+      "active": false
+    },
+    "registeredCustomFilterTemp": {
+      "active": false
+    }
+  },
+  "scrollKept": {
+    "isScrollKept": false,
+    "keptScrollHeight": null
+  },
+  "seViewerContent": {
+    "isLoadedCompleted": {
+      "content": false,
+      "notice": false
+    },
+    "content": null,
+    "notices": {
+      "channelNoticeContent": null,
+      "productNoticeContent": null
+    }
+  },
+  "searchFilter": {
+    "completed": {
+      "filters": [],
+      "priceRange": null
+    },
+    "draft": {
+      "filters": [],
+      "priceRange": null,
+      "inputPriceRange": null,
+      "count": 0,
+      "countStatus": "idle"
+    },
+    "defaultPriceRange": {
+      "min": 0,
+      "max": 0
+    },
+    "exposure": {
+      "TODAY_DELIVERY": true,
+      "HOPE_DELIVERY": true,
+      "ARRIVAL_GUARANTEE": true,
+      "FREE_RETURN_INSURANCE": true,
+      "PC_DISCOUNT": true,
+      "MOBILE_DISCOUNT": true,
+      "ORDER_AVAILABLE": true,
+      "FREE_DELIVERY": true,
+      "PRE_ORDER": true,
+      "REGULAR_SUBSCRIPTION": true
+    },
+    "appliedFilter": null
+  },
+  "searchFormLayer": {
+    "keywordSuggestions": [],
+    "storePopular": null
+  },
+  "selectedOptions": {
+    "product": {},
+    "coordi": {},
+    "delivery": {},
+    "textOptions": null,
+    "simpleOptions": null,
+    "combinationOptions": null,
+    "standardOptions": null,
+    "supplementProducts": null,
+    "colorOptions": null,
+    "sizeOptions": null,
+    "hopeDeliveryOptions": {},
+    "purchaseMethodTypes": {},
+    "subscriptionDeliveryOptions": {}
+  },
+  "selectiveLive": {
+    "channel": null,
+    "productMap": {},
+    "productDiscountBroadcastMap": {}
+  },
+  "serverLocationPath": "/miraclemuse/products/8458307381",
+  "serverReferer": {
+    "referNaver": false,
+    "referer": null,
+    "shoppingAppReferer": null
+  },
+  "serverRenderStatus": {
+    "isError": false
+  },
+  "serverRendered": true,
+  "shoppingStory": {
+    "list": {
+      "contents": [],
+      "page": 1,
+      "totalElements": 0
+    },
+    "detail": {
+      "id": null,
+      "postTitle": "",
+      "readCount": 0,
+      "regDate": "",
+      "mobileRenderContent": "",
+      "editorType": null
+    }
+  },
+  "simpleProductForDetailPage": {
+    "id": 8458307381,
+    "channelServiceType": "STOREFARM",
+    "channelProductDisplayStatusType": "ON",
+    "category": {
+      "wholeCategoryId": "50000002>50000190>50000440",
+      "wholeCategoryName": "화장품/미용>스킨케어>크림",
+      "categoryId": "50000440",
+      "categoryName": "크림"
+    },
+    "name": "미라클뮤즈아하바하메디크림 [약국보습 재생기미미백 착색색소침착스티바a 멜라논멜라토닌멜라토닝]",
+    "dispName": "미라클뮤즈아하바하메디크림 [약국보습 재생기미미백 착색색소침착스티바a 멜라논멜라토닌멜라토닝]",
+    "channel": {
+      "channelNo": 101735292,
+      "accountNo": 101640958,
+      "channelUid": "2sWE1oIR4AHNhDbSIkpum",
+      "accountId": "ncp_1oiiny_01",
+      "channelName": "미라클뮤즈"
+    },
+    "storeKeepExclusiveProduct": false,
+    "productNo": 8417968833,
+    "salePrice": 149800,
+    "saleType": "NEW",
+    "productStatusType": "SALE",
+    "authenticationType": "NORMAL",
+    "seoInfo": {
+      "pageTitle": "[신라면세점 롯데백화점 입점]더마 코스메틱",
+      "metaDescription": "아하바하메디크림+ : 재생관리,기미,미백,색소침착,멜라논멜라토닌멜라닌토닝",
+      "sellerTags": [
+        {
+          "code": 78051,
+          "text": "기미화장품"
+        },
+        {
+          "code": 504964,
+          "text": "기미잡티크림"
+        },
+        {
+          "code": 389965,
+          "text": "기미주근깨크림"
+        },
+        {
+          "code": 163616,
+          "text": "기미잡티"
+        },
+        {
+          "code": 322763,
+          "text": "피부결정돈"
+        },
+        {
+          "code": 84283,
+          "text": "민감성크림"
+        },
+        {
+          "code": 7290,
+          "text": "미백기능성화장품"
+        },
+        {
+          "code": 285457,
+          "text": "미백기능성크림"
+        },
+        {
+          "code": 155846,
+          "text": "멜라닌색소"
+        },
+        {
+          "text": "아하바하메디크림"
+        }
+      ]
+    },
+    "optionUsable": true,
+    "optionStandards": [],
+    "supplementProductUsable": true,
+    "naverShoppingSearchInfo": {
+      "brandId": 4052292,
+      "manufacturerName": "케이지미라클",
+      "brandName": "미라클뮤즈"
+    },
+    "purchaseReviewInfo": {
+      "purchaseReviewExposure": true
+    },
+    "eventPhraseCont": "리뷰이벤트 네페 2만원/네이버 안심케어 가입상품/공식 보증서 발급대상상품",
+    "minorPurchasable": true,
+    "isRestrictCart": false,
+    "benefitsView": {
+      "discountedSalePrice": 28900,
+      "mobileDiscountedSalePrice": 28900,
+      "sellerImmediateDiscountAmount": 120900,
+      "mobileSellerImmediateDiscountAmount": 120900,
+      "managerImmediateDiscountAmount": 0,
+      "mobileManagerImmediateDiscountAmount": 0,
+      "discountedRatio": 80,
+      "mobileDiscountedRatio": 80,
+      "sellerPurchasePoint": 100,
+      "mobileSellerPurchasePoint": 100,
+      "sellerCustomerManagementPoint": 0,
+      "mobileSellerCustomerManagementPoint": 0,
+      "managerPurchasePoint": 289,
+      "mobileManagerPurchasePoint": 289,
+      "managerPurchaseExtraPoint": 0,
+      "mobileManagerPurchaseExtraPoint": 0,
+      "generalPurchaseReviewPoint": 50,
+      "premiumPurchaseReviewPoint": 1000,
+      "storeMemberReviewPoint": 50,
+      "managerGeneralPurchaseReviewPoint": 50,
+      "managerPremiumPurchaseReviewPoint": 150,
+      "presentContent": "포토리뷰1000원! 즉시적립!",
+      "givePresent": true,
+      "textReviewPoint": 50,
+      "photoVideoReviewPoint": 1000,
+      "afterUseTextReviewPoint": 50,
+      "afterUsePhotoVideoReviewPoint": 1000,
+      "managerTextReviewPoint": 50,
+      "managerPhotoVideoReviewPoint": 150,
+      "managerAfterUseTextReviewPoint": 50,
+      "managerAfterUsePhotoVideoReviewPoint": 150,
+      "dispDiscountedSalePrice": 28900,
+      "dispDiscountedRatio": 80
+    },
+    "reviewAmount": {
+      "totalReviewCount": 19196,
+      "premiumReviewCount": 0,
+      "averageReviewScore": 4.66,
+      "productSatisfactionPercent": 0
+    },
+    "displayable": true,
+    "usableDelivery": true,
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20240910_209/1725933555363hwA9h_JPEG/60066400658776356_98057.jpg",
+    "representativeImageWidth": 1000,
+    "representativeImageHeight": 1000,
+    "optionalImageUrls": [
+      "https://shop-phinf.pstatic.net/20260304_250/1772593662260SgOrV_JPEG/4295378134603297_522024006.jpg",
+      "https://shop-phinf.pstatic.net/20260304_200/1772593662531y7jWQ_JPEG/4295378412790324_1550352360.jpg",
+      "https://shop-phinf.pstatic.net/20260304_173/1772593662782Mv5Fg_JPEG/4295378656653476_1159175990.jpg",
+      "https://shop-phinf.pstatic.net/20231220_204/1703034418291xgTCE_JPEG/104170306996565199_199849714.jpg",
+      "https://shop-phinf.pstatic.net/20240617_210/1718592531362perGP_JPEG/69362504292207398_1832894562.jpg",
+      "https://shop-phinf.pstatic.net/20240617_277/1718592565313l57wb_JPEG/7074489259533849_1252648956.jpg",
+      "https://shop-phinf.pstatic.net/20241218_77/1734512504663kRhrF_JPEG/82361202533890955_2868861.jpg",
+      "https://shop-phinf.pstatic.net/20260304_250/1772593661956cgFPv_JPEG/4295377837182937_1955872983.jpg"
+    ],
+    "productDeliveryInfo": {
+      "deliveryFeeType": "FREE",
+      "baseFee": 0,
+      "differentialFeeByArea": "주문즉시 택배발송 / 도착보장",
+      "deliveryAttributeType": "ARRIVAL_GUARANTEE",
+      "installationFee": false,
+      "area2ExtraFee": 2900,
+      "area3ExtraFee": 2900,
+      "deliveryMethodTypes": [
+        "DELIVERY"
+      ],
+      "deliveryCompany": {
+        "id": "CJGLS",
+        "name": "CJ대한통운"
+      }
+    },
+    "detailContents": {
+      "detailContentText": "멜라논크림, 멜라논크림, 멜라논크림 미라클뮤즈 완판 기사 ※긴급※ 최근 뉴스와 각종 커뮤니티에 입소문이 나 폭발적인 관심과 주문으로 21차 수량이 품절임박입니다! 감사한마음으로 3+1 이벤트 진행합니다. 재고 소진 시, 생산에 필요한 원료 수급으로 판매를 중단할 예정입니다. 정말 필요하신 분들위해 구매수량은 1인 4개로 제한하도록 하겠습니다. 진심으로 감사합니다! -미라클뮤즈 대표 정삼옥 올림- 18차 수량 완판 19차 수량 완판 20차 수량 완판 21차 수량 품절임박 09월21일 기준 <주의> 아하바하 메디 크림 필 링 멜라논 연",
+      "editorType": "SEONE"
+    },
+    "enableCart": true,
+    "freeDelivery": true,
+    "todayDelivery": false,
+    "regularSubscription": false,
+    "arrivalGuarantee": true,
+    "subscriptionBenefitContent": [],
+    "productLogistics": {
+      "logisticsCompanyNo": 100000004,
+      "logisticsCompanyId": "CJ",
+      "logisticsCompanyName": "CJ대한통운(더풀필)",
+      "useExternalStock": true
+    },
+    "rmids": [
+      "H6",
+      "H7",
+      "H8",
+      "H9",
+      "HA",
+      "HB",
+      "HC",
+      "HD",
+      "HE"
+    ],
+    "rentalOneTimeFee": false,
+    "stockQuantity": 1568,
+    "benefitsPolicy": {
+      "sellerImmediateDiscountPolicyNo": "SE_8417968833",
+      "sellerImmediateDiscountValueUnit": "WON",
+      "sellerImmediateDiscountValue": 120900,
+      "multiPurchaseDiscountValueUnit": "WON",
+      "multiPurchaseDiscountValue": 1000,
+      "multiPurchaseOrderUnit": "COUNT",
+      "multiPurchaseOrderValue": 2
+    },
+    "mobileBenefitsPolicy": {
+      "sellerImmediateDiscountPolicyNo": "SE_8417968833",
+      "sellerImmediateDiscountValueUnit": "WON",
+      "sellerImmediateDiscountValue": 120900,
+      "multiPurchaseDiscountValueUnit": "WON",
+      "multiPurchaseDiscountValue": 1000,
+      "multiPurchaseOrderUnit": "COUNT",
+      "multiPurchaseOrderValue": 2
+    },
+    "purchaseQuantityInfo": {
+      "maxPurchaseQuantityPerOrder": 2
+    },
+    "dispSalePrice": 149800,
+    "claimDeliveryInfo": {
+      "freeReturnInsurance": true
+    },
+    "epInfo": {
+      "syncNvMid": 86002807704,
+      "naverShoppingRegistration": true,
+      "naverShoppingExposure": true
+    },
+    "affiliateYn": true,
+    "adultAuthorizationType": "NOT_LOGIN",
+    "authorizationDisplay": "NORMAL",
+    "orderDeliveryAttributeType": "ARRIVAL_GUARANTEE",
+    "orderScheduledChannelType": null
+  },
+  "productDetailBroadcast": {
+    "storeBroadcastChannelAuth": {
+      "id": null,
+      "serviceId": "",
+      "serviceName": "",
+      "broadcasterId": "",
+      "channelUid": "",
+      "broadcastAuthority": false,
+      "shortclipAuthority": false,
+      "grade": ""
+    },
+    "broadcastOnAir": {
+      "isFetched": false,
+      "data": null
+    },
+    "broadcastStandBy": {
+      "isFetched": false,
+      "data": null
+    }
+  },
+  "storePromotionPage": {
+    "channelNo": null,
+    "id": null,
+    "name": null,
+    "allListDisplay": true,
+    "periodDisplay": false,
+    "periodDisplayEndDate": null,
+    "periodDisplayStartDate": null,
+    "template": "BASIC",
+    "skinType": "GRAY",
+    "basic": null,
+    "custom": null,
+    "lookbook": null,
+    "product": null,
+    "story": null,
+    "display": true,
+    "createdDate": null,
+    "storePromotionPageStatus": "ON"
+  },
+  "storePromotionPageOnStatus": {
+    "storePromotionPageStatus": "SUSPENSION",
+    "exposeReturnToPromotionOnCategory": false,
+    "exposeReturnToPromotionOnDetail": false,
+    "expandedStorePromotionAccordion": null
+  },
+  "talktalk": {
+    "marketingMessage": null
+  },
+  "talktalkSearch": {
+    "isError": false,
+    "keyword": null,
+    "categoryKey": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "selectedProductNos": [],
+    "hasMore": false
+  },
+  "toast": {
+    "isVisible": false,
+    "type": null,
+    "data": null,
+    "dialogToastRootId": null,
+    "sequence": 0
+  },
+  "userCollectItems": [],
+  "widgetContents": {
+    "advancedPromotionWidget": {
+      "benefitConfig": {},
+      "lookbookConfig": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": [],
+          "simpleCatalogs": []
+        }
+      },
+      "preOrderConfig": {},
+      "reviewEventConfig": {
+        "eventDetails": {},
+        "simpleProducts": {}
+      },
+      "videoConfig": {}
+    },
+    "bestProductWidget": {
+      "ssr": false,
+      "data": {
+        "bestProducts": {
+          "REALTIME": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "DAILY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "WEEKLY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "MONTHLY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          }
+        },
+        "allCategoryProducts": {
+          "simpleProducts": [],
+          "simpleCatalogs": []
+        },
+        "hasBestProducts": false
+      }
+    },
+    "bestReviewWidget": {
+      "ssr": false,
+      "data": {
+        "reviewProducts": [],
+        "reviewCatalogs": []
+      }
+    },
+    "categoryProductWidget": {
+      "ssr": false,
+      "data": {}
+    },
+    "couponPointProductWidget": {
+      "couponPointProductWidget": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget1": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget2": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget3": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget4": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      }
+    },
+    "customBannerWidget": {},
+    "customProductWidget": {},
+    "exhibitionBannerWidget": {
+      "exhibitions": []
+    },
+    "marketingLayerProductWidget": {},
+    "newProductWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    },
+    "promotionManageWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    },
+    "relationProductWidget": {
+      "ssr": false,
+      "data": {
+        "manual": [],
+        "auto": [],
+        "mappingProducts": {}
+      }
+    },
+    "shoppingStoryWidget": {
+      "ssr": false,
+      "data": {
+        "shoppingStories": []
+      }
+    },
+    "storePromotionPageWidget": {
+      "basicImageWidget": {
+        "products": {}
+      },
+      "customBannerWidget": {
+        "products": {}
+      },
+      "gridImageWidget": {
+        "products": {}
+      },
+      "mainProductWidget": {},
+      "newProductListWidget": {
+        "sortedProductNoMap": {},
+        "products": {},
+        "firstRule": {}
+      }
+    },
+    "timeSaleProductWidget": {},
+    "wholeProductWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    }
+  },
+  "view": {
+    "type": "pc"
+  }
+}

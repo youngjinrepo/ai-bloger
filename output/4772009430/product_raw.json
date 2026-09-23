@@ -1,0 +1,3677 @@
+{
+  "abt": {},
+  "channelProductVertical": {
+    "verticals": [],
+    "isFetched": false
+  },
+  "consumerSurveys": [],
+  "deliverySavingProduct": {
+    "sortType": "RECENT",
+    "simpleProducts": [],
+    "isFetched": false
+  },
+  "directCount": 0,
+  "forYouProduct": {
+    "recInfo": null,
+    "recItems": [],
+    "simpleProducts": [],
+    "currentPage": 1,
+    "totalCount": 0
+  },
+  "fulfillment": {
+    "rmidStatus": "INIT",
+    "rmids": [],
+    "sellerDeliveryPlans": {}
+  },
+  "groupProduct": {
+    "products": [],
+    "originProductNos": [],
+    "groupId": null,
+    "groupProductName": null,
+    "reviewAmount": null,
+    "standardPurchaseOptionConfig": null,
+    "displayConfig": null
+  },
+  "keepCartRecommend": {
+    "recommendProducts": {
+      "SIMILAR": {
+        "products": []
+      },
+      "BUNDLE": {
+        "products": []
+      },
+      "BUNDLE_DELIVERY": {
+        "products": []
+      }
+    },
+    "keepProductType": null,
+    "cartProductType": null,
+    "recommendType": null,
+    "add_cart_action_uid": null,
+    "shown": false,
+    "hasShown": false,
+    "isFetched": false
+  },
+  "live": {
+    "broadcasts": [],
+    "representShortclip": null,
+    "recentShortclips": null
+  },
+  "marketingMessage": {
+    "isFetched": {
+      "PURCHASE": false,
+      "PET_MEMBERSHIP": false,
+      "BABY_MEMBERSHIP": false,
+      "SHOPPING_FESTA": false
+    },
+    "messages": []
+  },
+  "myAddress": {
+    "districtNameText": "",
+    "zipCode": "",
+    "addressName": "",
+    "buildingManagementNo": "",
+    "hasShippingAddr": false,
+    "isError": false,
+    "defaultShippingAddress": {
+      "districtNameText": "서울시 강남구",
+      "zipCode": "06236",
+      "addressName": "",
+      "roadNameText": "테헤란로 142"
+    }
+  },
+  "naverMember": {
+    "isLogin": false,
+    "adultAuthorizationType": "NOT_LOGIN",
+    "member": null
+  },
+  "naverMembership": {
+    "isSubscribed": false,
+    "isFamilyMembership": false,
+    "payMembership": null,
+    "expectBenefit": null,
+    "lifeCycles": {
+      "isLifeCyclePet": null,
+      "isLifeCycleBaby": null
+    }
+  },
+  "productBenefit": {
+    "point": {
+      "pointResult": null,
+      "pointExtra": {
+        "inflowPoint": {
+          "normalInflowPoints": [],
+          "membershipInflowPoints": []
+        },
+        "reviewPoint": {
+          "total": 0,
+          "textReview": 0,
+          "photoVideoReview": 0,
+          "afterUseTextReview": 0,
+          "afterUsePhotoVideoReview": 0,
+          "storeMemberReview": 0
+        },
+        "sellerPurchasePoint": {
+          "isSpecialBadge": false,
+          "sellerPurchaseDiffDays": ""
+        },
+        "membershipPoint": {
+          "membershipExpectedPoint": 0,
+          "membershipDayPolicyName": "",
+          "expectedTotalSuperPoint": 0
+        }
+      },
+      "rentalPointExtra": null
+    },
+    "isCustomReviewPoint": false,
+    "customTextPoint": null,
+    "customPhotoVideoPoint": null,
+    "optimalDiscount": {
+      "fetched": false
+    },
+    "simulator": {
+      "fetched": false,
+      "isLayerOpened": false,
+      "showDetail": false,
+      "useProductOption": false,
+      "point": {
+        "pointResult": null,
+        "pointExtra": {
+          "inflowPoint": {
+            "normalInflowPoints": [],
+            "membershipInflowPoints": []
+          },
+          "reviewPoint": {
+            "total": 0,
+            "textReview": 0,
+            "photoVideoReview": 0,
+            "afterUseTextReview": 0,
+            "afterUsePhotoVideoReview": 0,
+            "storeMemberReview": 0
+          },
+          "sellerPurchasePoint": {
+            "isSpecialBadge": false,
+            "sellerPurchaseDiffDays": ""
+          },
+          "membershipPoint": {
+            "membershipExpectedPoint": 0,
+            "membershipDayPolicyName": "",
+            "expectedTotalSuperPoint": 0
+          }
+        },
+        "rentalPointExtra": null
+      },
+      "productBenefit": {
+        "benefitsPolicy": null,
+        "benefitsView": null
+      },
+      "productInfo": null
+    },
+    "promotion": null,
+    "isFetched": false
+  },
+  "productDelivery": {
+    "isRestrictedRegionFetched": false,
+    "restrictedRegion": null
+  },
+  "productReviewSummary": {
+    "PRODUCT": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    },
+    "REVIEW_DIALOG": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    }
+  },
+  "purchasePreference": {
+    "purchasePreferences": null,
+    "userAnswerExist": false
+  },
+  "recommendTabVisible": {
+    "hasRecommendProduct": false
+  },
+  "relationProducts": {
+    "isFetched": false,
+    "coordiProducts": [],
+    "togetherProducts": [],
+    "similarProducts": [],
+    "togetherImageProducts": []
+  },
+  "serviceConfig": null,
+  "subVerticalMeta": {},
+  "targetCondition": {
+    "type": "NONE",
+    "targetConditionActionDetails": []
+  },
+  "verticalInventoryItems": {},
+  "wtm": {
+    "wtmDryrunRulesEnc": null
+  },
+  "commonSetting": {
+    "channelNo": 500146356,
+    "usePremiumThemeColor": false,
+    "colorType": "CUSTOM_COLOR",
+    "colorCode": "#2874b3",
+    "fontFamily": "SYSTEM",
+    "fontStyle": "MEDIUM",
+    "componentStyle": "ROUND"
+  },
+  "productDetailSetting": {
+    "displayConfig": {
+      "topNoticeBannerManagement": {
+        "useTopNoticeBanner": false,
+        "bannerStyle": "LIGHT",
+        "benefitTypeText": "",
+        "benefitDescription": "",
+        "periodDisplay": false,
+        "bannerExposureTargetType": "PRODUCT",
+        "mappingProductNos": [],
+        "mappingCategoryIds": [],
+        "mappingCategoryType": "",
+        "mappingPromotionPageNos": []
+      },
+      "representativeImageManagement": {
+        "marketingMessageManagement": {
+          "usePurchased": true,
+          "basisPurchased": 10,
+          "usePurchasedIn2Y": true,
+          "useRepurchased": true,
+          "basisRepurchased": 10,
+          "useBestProduct": true,
+          "useNewProduct": true
+        },
+        "mediaPreference": "VIDEO_PREFERRED",
+        "useBestReview": true,
+        "useShoppingLiveOnAirExposure": true
+      },
+      "useSummaryCardReview": true,
+      "useOtherCompositionProducts": true,
+      "useSimilarProducts": true,
+      "useAitems": true,
+      "useShortClip": true,
+      "usePublicQnA": true,
+      "useTogetherProducts": true,
+      "useBundleDeliveryProducts": true,
+      "useCategoryOtherProducts": true,
+      "useSellerBestProducts": true,
+      "useInterestProducts": true,
+      "useForYouProducts": true
+    },
+    "isTargetTopNoticeBanner": false
+  },
+  "addressBook": {
+    "accountNo": null,
+    "addressBookType": null,
+    "addressInfo": null,
+    "alias": null,
+    "id": null,
+    "possibleOversea": null,
+    "modAuditInfo": null,
+    "phoneNumber1": null,
+    "phoneNumber2": null,
+    "regAuditInfo": null,
+    "regDate": null,
+    "modDate": null
+  },
+  "benefit": {
+    "user": null,
+    "customerBenefits": null,
+    "basicBenefits": null,
+    "sortedHomeBenefits": null
+  },
+  "benefitById": {},
+  "benefitsV2": [],
+  "brandStatuses": [],
+  "bsProductCollection": {
+    "newProducts": [],
+    "bestProducts": [],
+    "bestReviewProducts": []
+  },
+  "bundle": {
+    "bundleGroupId": null,
+    "previousProductId": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "sort": null,
+    "page": 1,
+    "pageSize": 40,
+    "infiniteStatus": null,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "cart": {
+    "totalCount": 0
+  },
+  "cartProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "isLoaded": false
+  },
+  "categoryNames": {},
+  "categoryProducts": {
+    "key": null,
+    "isError": false,
+    "simpleProducts": [],
+    "simpleCatalogs": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "mobileListDisplayType": null,
+    "sort": null,
+    "page": 1,
+    "pageSize": 20,
+    "recommendSimpleProducts": [],
+    "recommendSimpleCatalogs": [],
+    "swipeGuideTargetIds": [],
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "isDeduplicateGroupEpId": false,
+    "isFetched": false
+  },
+  "categorySetting": {
+    "data": null,
+    "isFetched": false
+  },
+  "categorySettingContents": {
+    "categoryProductDefaultImageUrlMap": null,
+    "visibleQuickLinks": []
+  },
+  "categoryMenu": {
+    "firstCategories": [],
+    "categoryDisplayType": null,
+    "storeCategoryTree": null,
+    "validMenu": {
+      "isBestValid": false,
+      "isPromotionValid": false,
+      "isLiveValid": false,
+      "isLoungeValid": false,
+      "isExhibitionValid": false,
+      "isArrivalGuaranteeValid": false,
+      "isNewProductValid": false
+    }
+  },
+  "channel": {
+    "id": "500146356",
+    "channelId": "57zYco55civpz06onk7SdJ",
+    "channelUid": "2sWDvp64CLJ5QOopQ6hmo",
+    "channelServiceType": "STOREFARM",
+    "channelExternalStatusType": "NORMAL",
+    "exhibitionYn": true,
+    "channelName": "훈훈수산",
+    "url": "hunhunsusan",
+    "representImageInfoList": [
+      {
+        "imageUrl": "https://shop-phinf.pstatic.net/20260324_25/1774335049566HcFKN_PNG/12019788502762509_1590084432.png",
+        "imageName": "12019788502762509_1590084432.png",
+        "imageClass": "STORE_REPRESENTATIVE",
+        "width": 160,
+        "height": 160,
+        "fileSize": 6316,
+        "sortOrder": 0,
+        "representative": false
+      }
+    ],
+    "talkAccountId": "wc9540",
+    "talkExposureYn": true,
+    "description": "새우전문 , 블랙타이거새우, 간장새우장, 자숙문어, 수산물도매,  수산물쇼핑몰 훈훈수산",
+    "contactInfo": {
+      "displayTelNo": true,
+      "disabledDomesticTelNo": false,
+      "telNo": {
+        "countryCode": "********",
+        "phoneNo": "********",
+        "formattedNumber": "********"
+      },
+      "overseaTelNo": {
+        "countryCode": "********",
+        "phoneNo": "",
+        "formattedNumber": ""
+      },
+      "onlineSales": false,
+      "offlineSales": false
+    },
+    "representType": "DOMESTIC_BUSINESS",
+    "identity": "********",
+    "representName": "주식회사훈훈",
+    "representativeName": "서성원",
+    "businessType": "CORPORATION",
+    "declaredToOnlineMarkettingNumber": "********",
+    "businessAddressInfo": {
+      "address": "********",
+      "apiType": "********",
+      "basicAddress": "********",
+      "detailAddress": "********",
+      "fullAddressInfo": "********",
+      "hasJibunAddress": false,
+      "hasRoadNameAddress": true,
+      "latitude": "********",
+      "longitude": "********",
+      "massiveAddress": "",
+      "naverMapCode": "********",
+      "newZipCode": "********",
+      "overseas": false,
+      "placeId": "********",
+      "representAddressType": "********",
+      "zipCode": "********"
+    },
+    "accountNo": 500146356,
+    "accountId": "hunhunsusan",
+    "accountUid": "ncp_2sSEwoMbFuYtITrsQOm2R",
+    "mallSeq": 349680,
+    "storeExposureInfo": {
+      "exposureInfo": {
+        "NAVERBLOG": [
+          "hunhunsusan"
+        ],
+        "INSTAGRAM": [
+          "hunhunsusan"
+        ]
+      }
+    },
+    "chrgrEmail": "********",
+    "naverPayNo": 500146356,
+    "payReferenceKey": "500146356",
+    "actionGrade": "ZERO",
+    "saleCount": 61482,
+    "naSiteId": "s_325530691598287241",
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20260324_25/1774335049566HcFKN_PNG/12019788502762509_1590084432.png",
+    "isBusiness": true,
+    "representTelephoneNumber": "********",
+    "isDomesticPhoneNumber": true,
+    "domesticTelephoneNumberReported": false,
+    "isDomesticTelephoneNumberReportable": true,
+    "domesticTelephoneNumberCertified": true,
+    "representativeBirthDay": "********",
+    "brandPotentialActions": [
+      "BRAND_STORE",
+      "AUTHORIZED_MALL",
+      "BRAND_ANALYTICS",
+      "BRAND_CATALOG",
+      "BRAND_ANALYTICS_PLUS",
+      "BRAND_TAB"
+    ],
+    "brandStoreName": "훈훈수산",
+    "brandUrl": "hunhunsusan",
+    "brandMallSeq": 349680,
+    "brandIds": [
+      "4325991"
+    ],
+    "hasAnyLuxuryBrandYn": false,
+    "brandDisplayReinforceYn": true,
+    "blogExposureYn": false,
+    "freeReturnInsuranceStatusType": "DELETED",
+    "regularSubscriptionYn": true,
+    "arrivalGuaranteeUseYn": true,
+    "sellerGuaranteeUseYn": true,
+    "brandLoungeName": "훈훈 패밀리",
+    "loungeOperateYn": true,
+    "loungeNotifyReceiveAgreeYn": true,
+    "consumerSurveyYn": false,
+    "useAccountLogisticsDeliveryTypes": [
+      "ARRIVAL_GUARANTEE",
+      "SELLER_GUARANTEE"
+    ],
+    "metaCollaborativeAdsCommerceSolutionYn": true,
+    "brandPackagePremiumYn": true,
+    "affiliateCommerceYn": true,
+    "newShoppingMarketingExposureYn": true,
+    "brandStoreChargeAgreeYn": true,
+    "storeExhibitionType": "BRAND_STORE",
+    "catalogBrandStoreExhibitionYn": false,
+    "adVoostYn": true,
+    "storeOpenDuration": "오픈 10년된 스토어"
+  },
+  "customReview": {
+    "isMultiProfile": false,
+    "userCollectMap": {},
+    "answers": [],
+    "answerMapKeyByItemId": {},
+    "userAnswerExist": false,
+    "cacheParam": null,
+    "status": "fulfilled"
+  },
+  "datalab": {
+    "ratings": [],
+    "ratioFemale": 0,
+    "ratioMale": 0,
+    "sequence": 0,
+    "tag": [],
+    "type": ""
+  },
+  "delivery": {
+    "todayDispatch": null
+  },
+  "detailReviews": {},
+  "embedAuxModalCount": 0,
+  "eventDetails": {},
+  "exhibition": {
+    "exhibitions": [],
+    "exhibition": null,
+    "sections": null,
+    "productsMap": {}
+  },
+  "frequentlyPaidProducts": {
+    "isHeavyUser": false,
+    "items": [],
+    "itemCount": 0,
+    "isLoaded": false
+  },
+  "globalPopupLayer": {
+    "element": null,
+    "executeFunctionAtClose": null,
+    "classNames": null,
+    "overElement": {
+      "element": null,
+      "executeFunctionAtClose": null,
+      "classNames": null
+    },
+    "keepPopupOnPush": false,
+    "isTransparent": null,
+    "importantScrollPosition": false
+  },
+  "gnbTextColor": "WHITE",
+  "header": {
+    "headerHeight": 0
+  },
+  "homeSetting": {
+    "channelNo": 500146356,
+    "widgets": {
+      "gnbWidget": {
+        "visible": true,
+        "order": 0,
+        "type": "GNB",
+        "gnbType": "EXPANSION",
+        "nameType": "LOGO",
+        "textColor": "WHITE",
+        "logo": {
+          "url": "https://shop-phinf.pstatic.net/20250205_167/1738714628503WDPVS_PNG/%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%B8%AE-%B1%E2%BA%BB.png",
+          "property": "348:80",
+          "width": 348,
+          "height": 80,
+          "originalUrl": "https://shop-phinf.pstatic.net/20250205_167/1738714628503WDPVS_PNG/%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%B8%AE-%B1%E2%BA%BB.png",
+          "top": 0,
+          "left": 0
+        },
+        "expansionTypeLogo": {
+          "url": "https://shop-phinf.pstatic.net/20250205_113/1738714635340GXaom_PNG/%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%BE%EE---%C8%AD%C0%CC%C6%AE.png",
+          "property": "348:80",
+          "width": 348,
+          "height": 80,
+          "originalUrl": "https://shop-phinf.pstatic.net/20250205_113/1738714635340GXaom_PNG/%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%BE%EE---%C8%AD%C0%CC%C6%AE.png",
+          "top": 0,
+          "left": 0
+        }
+      },
+      "promotionManageWidget": {
+        "visible": true,
+        "order": 1,
+        "type": "PROMOTION_MANAGE",
+        "generalPromotion": {
+          "displayType": "NORMAL_BIG",
+          "items": [
+            {
+              "id": 13,
+              "visible": false,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260911_74/17891149827978aXm0_JPEG/%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%BE%EE_%B7%D1%B8%B5%B9%E8%B3%CAM.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260911_74/17891149827978aXm0_JPEG/%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%BE%EE_%B7%D1%B8%B5%B9%E8%B3%CAM.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260911_28/1789114991326cLvHs_JPEG/%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%BE%EE_%B7%D1%B8%B5%B9%E8%B3%CAP.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260911_28/1789114991326cLvHs_JPEG/%BA%EA%B7%A3%B5%E5%BD%BA%C5%E4%BE%EE_%B7%D1%B8%B5%B9%E8%B3%CAP.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "productNo": 13471350588,
+              "linkUrl": "https://view.shoppinglive.naver.com/lives/2027508",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 19,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260908_203/1788847269976LgJwW_JPEG/%B7%D1%B8%B5_MO.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260908_203/1788847269976LgJwW_JPEG/%B7%D1%B8%B5_MO.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260908_15/17888472856278lRit_PNG/%B7%D1%B8%B5_PC.png",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260908_15/17888472856278lRit_PNG/%B7%D1%B8%B5_PC.png",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://brand.naver.com/hunhunsusan/category/c71fce6a76f74d939d1ce2d14af08a5d?cp=1",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 9,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260914_25/1789362495697D6F17_PNG/%B7%D1%B8%B5_M_%BC%F6%B4%EBX.png",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260914_25/1789362495697D6F17_PNG/%B7%D1%B8%B5_M_%BC%F6%B4%EBX.png",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260914_130/1789370935120LIgOX_PNG/%B7%D1%B8%B5_P_%BC%F6%B4%EBX.png",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260914_130/1789370935120LIgOX_PNG/%B7%D1%B8%B5_P_%BC%F6%B4%EBX.png",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "productNo": 4547076169,
+              "linkUrl": "https://brand.naver.com/hunhunsusan/products/8079078370",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 17,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260911_226/1789090031790sPEt1_PNG/%B7%D1%B8%B5_M.png",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260911_226/1789090031790sPEt1_PNG/%B7%D1%B8%B5_M.png",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260911_88/1789090041136EFtMI_PNG/%B7%D1%B8%B5_P.png",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260911_88/1789090041136EFtMI_PNG/%B7%D1%B8%B5_P.png",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "productNo": 8232242040,
+              "linkUrl": "https://brand.naver.com/hunhunsusan/products/7073191176",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 18,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260908_60/1788836262247O5eDF_JPEG/%B7%D1%B8%B5_MO.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260908_60/1788836262247O5eDF_JPEG/%B7%D1%B8%B5_MO.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260908_289/1788836264509Lku3p_JPEG/%B7%D1%B8%B5_PC.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260908_289/1788836264509Lku3p_JPEG/%B7%D1%B8%B5_PC.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://brand.naver.com/hunhunsusan/category/d1c14e7c27ee413aabd518b3cba6faaf?cp=2",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 7,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260904_188/1788505464082PmWss_PNG/%B7%D1%B8%B5%B9%E8%B3%CA_Mo.png",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260904_188/1788505464082PmWss_PNG/%B7%D1%B8%B5%B9%E8%B3%CA_Mo.png",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260904_201/1788505498649UcFka_PNG/%B7%D1%B8%B5%B9%E8%B3%CA_PC.png",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260904_201/1788505498649UcFka_PNG/%B7%D1%B8%B5%B9%E8%B3%CA_PC.png",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "productNo": 12286830670,
+              "linkUrl": "https://brand.naver.com/hunhunsusan/category/e19b5fc393644b13b846800495903dd2?cp=1",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 12,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_213/1780982735391cWABN_JPEG/%B7%D1%B8%B5%B9%E8%B3%CAM.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_213/1780982735391cWABN_JPEG/%B7%D1%B8%B5%B9%E8%B3%CAM.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_179/1780982740452LuGnh_JPEG/%B7%D1%B8%B5%B9%E8%B3%CAP.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_179/1780982740452LuGnh_JPEG/%B7%D1%B8%B5%B9%E8%B3%CAP.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "productNo": 12861673566,
+              "linkUrl": "https://brand.naver.com/hunhunsusan/category/da262fb9d04340c2ad70571ad67f6fb6?cp=1",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 16,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260819_28/1787119332367K95aq_JPEG/%BF%EC%B4%DC%B0%A82.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260819_28/1787119332367K95aq_JPEG/%BF%EC%B4%DC%B0%A82.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260819_24/1787119336206P5nOs_JPEG/%BF%EC%B4%DC%B0%A8.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260819_24/1787119336206P5nOs_JPEG/%BF%EC%B4%DC%B0%A8.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 8232242040,
+              "linkUrl": "https://brand.naver.com/hunhunsusan/category/ec8ba05663a64c4daf3b5e62db810411?cp=1",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 6,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260901_230/1788221360226AOmkh_JPEG/%B5%B5%C2%F8%BA%B8%C0%E5_%B7%D1%B9%E8M_18%BD%C3.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260901_230/1788221360226AOmkh_JPEG/%B5%B5%C2%F8%BA%B8%C0%E5_%B7%D1%B9%E8M_18%BD%C3.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260901_162/17882213639335zzwS_JPEG/%B5%B5%C2%F8%BA%B8%C0%E5_%B7%D1%B9%E8P_18%BD%C3.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260901_162/17882213639335zzwS_JPEG/%B5%B5%C2%F8%BA%B8%C0%E5_%B7%D1%B9%E8P_18%BD%C3.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://smartstore.naver.com/hunhunsusan/category/5e8dc08f56a74adcaa112215560fa417?cp=2",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 15,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260728_51/1785218972680lGxEx_JPEG/%B3%BB%C0%CF%B5%B5%C2%F8%BA%B8%C0%E5-%B9%E3-%B7%D1%B8%B5-10%BD%C3.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260728_51/1785218972680lGxEx_JPEG/%B3%BB%C0%CF%B5%B5%C2%F8%BA%B8%C0%E5-%B9%E3-%B7%D1%B8%B5-10%BD%C3.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260728_152/1785218975812ifS6j_JPEG/%B3%BB%C0%CF%B5%B5%C2%F8%BA%B8%C0%E5-%B9%E3-%B7%D1%B8%B5P-10%BD%C3.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260728_152/1785218975812ifS6j_JPEG/%B3%BB%C0%CF%B5%B5%C2%F8%BA%B8%C0%E5-%B9%E3-%B7%D1%B8%B5P-10%BD%C3.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "productNo": 4547076169,
+              "linkUrl": "https://brand.naver.com/hunhunsusan/category/ec8ba05663a64c4daf3b5e62db810411?cp=1",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            }
+          ]
+        },
+        "advancedPromotion": {
+          "mainItem": {
+            "lookBookConfig": {
+              "lookBookStyle": "NORMAL",
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "frame": "IMAGE",
+              "backgroundColor": "#000000",
+              "newLabelType": "SQUARE",
+              "newLabelColor": "#000000",
+              "newLabelTextColor": "WHITE",
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "mobileImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "mobileImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "pcImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "pcImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageRegistrationType": "NORMAL",
+                  "singleSourceMobileImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "singleSourcePcImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageDimType1": "NONE",
+                  "singleSourceMobileImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "singleSourcePcImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageDimType2": "NONE",
+                  "lookBookLinkType1": "PROMOTION_PAGE",
+                  "lookBookLinkType2": "PROMOTION_PAGE",
+                  "periodDisplayLinked": false,
+                  "title": "잘 만든 룩북",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 컨셉 또는 특장점을 풀어보세요.",
+                  "titleDescriptionColor": "WHITE",
+                  "strongTitleMode": "NONE",
+                  "titleDescriptionVerticalAlign": "BOTTOM",
+                  "titleDescriptionHorizontalAlign": "LEFT",
+                  "titleTextSize": "TITLE_LEVEL_4",
+                  "contentTextSize": "CONTENT_LEVEL_3"
+                }
+              ]
+            },
+            "videoConfig": {
+              "videoStyle": "FULL",
+              "videoFit": "SCREEN",
+              "playerMode": "AUTO_PLAY",
+              "simpleDescriptionFont": "DEFAULT",
+              "simpleDescriptionSize": "BASIC",
+              "simpleDescription": "",
+              "isProductDisplay": true,
+              "productNos": [],
+              "titleDescriptionFont": "DEFAULT",
+              "titleDescriptionSize": "BASIC",
+              "titleDescriptionAlign": "LEFT",
+              "titleDescriptionColor": "WHITE",
+              "title": "제목을 입력하세요.",
+              "description": "동영상이 어떤 컨셉, 주제, 목적 등을\n담고 있는지 설명할 수 있습니다."
+            },
+            "liveConfig": {
+              "style": "VIDEO",
+              "playerMode": "MANUAL_PLAY",
+              "backgroundColor": "#000000",
+              "logoColor": "WHITE",
+              "textFont": "DEFAULT",
+              "textSize": "BASIC",
+              "textColor": "WHITE"
+            },
+            "benefitConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "benefitType": "COUPON_POINT",
+                  "couponPointConfig": {
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "신상품 할인 쿠폰",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "productSelectionType": "AUTO",
+                    "productNos": []
+                  },
+                  "giftConfig": {
+                    "giftType": "PRODUCT",
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "사은품 증정 이벤트",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "labelColor": "#000000",
+                    "labelTextColor": "WHITE",
+                    "giftDescription": "이벤트 내용을 입력하세요.",
+                    "giftDescriptionColor": "WHITE",
+                    "periodExposure": false,
+                    "productNos": []
+                  }
+                },
+                {
+                  "id": 2,
+                  "visible": true,
+                  "benefitType": "GIFT",
+                  "couponPointConfig": {
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "신상품 할인 쿠폰",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "productSelectionType": "AUTO",
+                    "productNos": []
+                  },
+                  "giftConfig": {
+                    "giftType": "PRODUCT",
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "사은품 증정 이벤트",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "labelColor": "#000000",
+                    "labelTextColor": "WHITE",
+                    "giftDescription": "이벤트 내용을 입력하세요.",
+                    "giftDescriptionColor": "WHITE",
+                    "periodExposure": false,
+                    "productNos": []
+                  }
+                }
+              ]
+            },
+            "preOrderConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "visible": true,
+                  "id": 1,
+                  "ddayExposureType": "PLANE",
+                  "preOrderItemStyle": "FULL",
+                  "backGroundColor": "#000000",
+                  "title": "사전 예약구매",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여 예약구매 상품에 대해 홍보해보세요.",
+                  "titleDescriptionFontHorizontalAlign": "CENTER",
+                  "titleDescriptionFontVerticalAlign": "BOTTOM",
+                  "titleDescriptionFontColor": "WHITE"
+                }
+              ]
+            },
+            "reviewEventConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "backgroundConfig": {
+                    "style": "COLOR_THEME",
+                    "color": "#000000"
+                  },
+                  "titleDescriptionColor": "WHITE",
+                  "title": "리뷰 이벤트",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여 리뷰 이벤트에 대해 홍보해보세요.",
+                  "productSelectionType": "AUTO",
+                  "productNos": []
+                }
+              ]
+            }
+          },
+          "customItem1": {
+            "id": 1,
+            "visible": true,
+            "order": 1
+          },
+          "customItem2": {
+            "id": 2,
+            "visible": true,
+            "order": 2
+          }
+        },
+        "promotionType": "GENERAL"
+      },
+      "marketingLayerWidget": {
+        "visible": false,
+        "order": 2,
+        "type": "MARKETING_LAYER",
+        "marketingLayerType": "PROMOTION",
+        "mainProductMarketingLayer": {
+          "productNos": [
+            3397995768,
+            12022414247,
+            4547076169,
+            4928466252,
+            3445648186,
+            3734462165,
+            5442501192,
+            679353919,
+            2633996660,
+            13192656124
+          ],
+          "title": "수산대전3주차 16일시작",
+          "periodDisplay": true,
+          "periodDisplayStartDate": "2026-01-30T04:00:00Z",
+          "periodDisplayEndDate": "2026-02-22T14:59:00Z"
+        },
+        "promotionMarketingLayer": {
+          "title": "5/6 대한민국 수산대전",
+          "description": "최대 20%할인",
+          "linkType": "URL",
+          "mappingUrl": "https://brand.naver.com/hunhunsusan/category/a482d1e5f28942a796ffce052bdade43?cp=1",
+          "periodDisplay": false
+        }
+      },
+      "timeSaleProductWidget": {
+        "visible": true,
+        "order": 3,
+        "type": "TIME_SALE_PRODUCT",
+        "timeSaleDisplayStyle": "SIMPLE",
+        "titleSettings": {
+          "title": "",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": true,
+          "pcImage": {
+            "url": "https://shop-phinf.pstatic.net/20260914_37/1789354951283P3w2J_JPEG/PC_%B5%FC%BB%F5%BF%EC%C8%B8_%C0%FC%BE%EE.jpg",
+            "property": "1280:200",
+            "width": 1280,
+            "height": 200,
+            "originalUrl": "https://shop-phinf.pstatic.net/20260914_37/1789354951283P3w2J_JPEG/PC_%B5%FC%BB%F5%BF%EC%C8%B8_%C0%FC%BE%EE.jpg",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "https://shop-phinf.pstatic.net/20260914_188/1789354947259guenW_JPEG/MO_%B5%FC%BB%F5%BF%EC%C8%B8_%C0%FC%BE%EE.jpg",
+            "property": "750:320",
+            "width": 750,
+            "height": 320,
+            "originalUrl": "https://shop-phinf.pstatic.net/20260914_188/1789354947259guenW_JPEG/MO_%B5%FC%BB%F5%BF%EC%C8%B8_%C0%FC%BE%EE.jpg",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": false,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "timeSaleStartDate": "2026-09-14T03:00:00Z",
+        "timeSaleEndDate": "2026-09-15T14:59:00Z",
+        "displayStartDay": "TIME_SALE_START_DAY",
+        "displaySizeType": "MEDIUM",
+        "viewType": "SWIPING",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "FFFFGG",
+          "linkType": "URL",
+          "mappingUrl": "https://brand.naver.com/hunhunsusan/products/13440778805"
+        },
+        "productNos": [
+          2237819349,
+          5763784266
+        ],
+        "displayCount": 12
+      },
+      "shoppingStoryWidget": {
+        "visible": true,
+        "order": 4,
+        "type": "SHOPPING_STORY",
+        "shoppingStoryType": "MAGAZINE",
+        "titleSettings": {
+          "title": "훈훈한 쇼핑 스토리",
+          "subTitle": ""
+        },
+        "selectType": "MANUAL",
+        "shoppingStoryIds": [
+          5002974545,
+          5002974497,
+          5002972832,
+          5002962783,
+          5002959237
+        ]
+      },
+      "videoWidget1": {
+        "visible": true,
+        "movable": true,
+        "order": 5,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "🌊대한민국 수산대전🌊",
+          "subTitle": ""
+        },
+        "playerModeType": "AUTO_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2026_09_08_2759",
+          "vid": "2E96B7E22357C19EA23266FB526A2C868B1E",
+          "width": 1920,
+          "height": 1080,
+          "name": "3hjaqFvzAI_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2026_09_08_2759/3hjaqFvzAI_03.jpg",
+          "size": 39129514,
+          "duration": 20
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2026_09_08_1085",
+          "vid": "15631E25A292E8BF0D9656E9BE4B1EE33E3D",
+          "width": 1920,
+          "height": 1080,
+          "name": "UKs2PTXqZi_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2026_09_08_1085/UKs2PTXqZi_03.jpg",
+          "size": 39129514,
+          "duration": 20
+        }
+      },
+      "customBannerWidget3": {
+        "visible": true,
+        "movable": true,
+        "order": 6,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "WIDE",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20260128_253/1769579327113mRGnJ_JPEG/%C0%DA%C0%AF%B9%E8%B3%CAM.jpg",
+              "property": "750:180",
+              "width": 750,
+              "height": 180,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260128_253/1769579327113mRGnJ_JPEG/%C0%DA%C0%AF%B9%E8%B3%CAM.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20260128_38/1769579330732oJ53o_JPEG/%C0%DA%C0%AF%B9%E8%B3%CAP.jpg",
+              "property": "1920:170",
+              "width": 1920,
+              "height": 170,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260128_38/1769579330732oJ53o_JPEG/%C0%DA%C0%AF%B9%E8%B3%CAP.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://brand.naver.com/hunhunsusan/category/da262fb9d04340c2ad70571ad67f6fb6?cp=1",
+            "textColor": "WHITE",
+            "title": "",
+            "description": "",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          },
+          {
+            "id": 2,
+            "visible": false,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20260828_96/1787878637910H3lDy_JPEG/C0DAC0AF_MO.jpg",
+              "property": "3125:750",
+              "width": 3125,
+              "height": 750,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260828_150/17878786318277nLte_JPEG/%C0%DA%C0%AF_MO.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20260828_91/1787878648109L1rpt_JPEG/C0DAC0AF_PC.jpg",
+              "property": "7996:708",
+              "width": 7996,
+              "height": 708,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260828_196/1787878642050JvOuy_JPEG/%C0%DA%C0%AF_PC.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://shopping.naver.com/festa/onsale/6a910aa89778303c5e16efc6?dtm_source=nps_homebanner_app&dtm_medium=mktatrb&dtm_campaign=2607-shopping-024&pcode=nps_homebanner_app&campaign_id=2607-shopping-024&channel_id=nps_homebanner_app&NaPm=ct%3Dmtmdx8nb%7Cci%3Dshoppingvertical%7Ctr%3Dnshm%7Chk%3Ddce864f7cc176d44504715f0894d19a748d0cb",
+            "textColor": "WHITE",
+            "title": "",
+            "description": "",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "bestProductWidget": {
+        "visible": true,
+        "order": 7,
+        "type": "BEST_PRODUCT",
+        "titleSettings": {
+          "title": "🏆실시간 RANKING🏆",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "SMALL",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": false,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "bestProductExposureType": "ALL",
+        "defaultAggregationType": "REALTIME",
+        "selectedAggregationType": "DAILY",
+        "aggregationType": "DAILY",
+        "displayCount": 12
+      },
+      "customBannerWidget1": {
+        "visible": false,
+        "movable": true,
+        "order": 8,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "WIDE",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20260629_235/1782700481805WpQOa_JPEG/%C0%DAM.jpg",
+              "property": "750:180",
+              "width": 750,
+              "height": 180,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260629_235/1782700481805WpQOa_JPEG/%C0%DAM.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20260629_257/1782700484995M3K2A_JPEG/%C0%DAP.jpg",
+              "property": "1920:170",
+              "width": 1920,
+              "height": 170,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260629_257/1782700484995M3K2A_JPEG/%C0%DAP.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://brand.naver.com/hunhunsusan/category/93acfc57c4c748a6babab6c747ba7d82?cp=1",
+            "textColor": "WHITE",
+            "title": "",
+            "description": "",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "customBannerWidget4": {
+        "visible": false,
+        "movable": true,
+        "order": 9,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "WIDE",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20260310_155/1773124958801WjA2P_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%BA%ED%B7%A2%C5%B8%C0%CC%B0%C5_M.jpg",
+              "property": "750:180",
+              "width": 750,
+              "height": 180,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260310_155/1773124958801WjA2P_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%BA%ED%B7%A2%C5%B8%C0%CC%B0%C5_M.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20260310_116/177312496351477nIY_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%BA%ED%B7%A2%C5%B8%C0%CC%B0%C5_PC.jpg",
+              "property": "1920:170",
+              "width": 1920,
+              "height": 170,
+              "originalUrl": "https://shop-phinf.pstatic.net/20260310_116/177312496351477nIY_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%BA%ED%B7%A2%C5%B8%C0%CC%B0%C5_PC.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://brand.naver.com/hunhunsusan/products/654863944",
+            "textColor": "WHITE",
+            "title": "",
+            "description": "",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "newProductWidget": {
+        "visible": true,
+        "order": 10,
+        "type": "NEW_PRODUCT",
+        "titleSettings": {
+          "title": "📢훈훈한 신상품",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "SMALL",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": false,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "displayCount": 12
+      },
+      "bestReviewWidget": {
+        "visible": true,
+        "order": 11,
+        "type": "BEST_REVIEW",
+        "titleSettings": {
+          "title": "❤️‍🔥베스트리뷰❤️‍🔥",
+          "subTitle": ""
+        },
+        "reviewType": "REVIEW",
+        "productNos": [
+          13471350588,
+          12022414247,
+          5442501192,
+          2237819349,
+          9864923118,
+          5279933965,
+          4602546210,
+          5712414056,
+          6532312641,
+          9182919687,
+          9882010105,
+          9476746327,
+          11619880265,
+          11471604767,
+          3445648186
+        ],
+        "selectType": "MANUAL"
+      },
+      "customBannerWidget": {
+        "visible": false,
+        "order": 12,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "WIDE",
+        "banners": [
+          {
+            "id": 4,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20250217_26/1739760990409LWnjm_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%BD%B4%C6%DB%C0%FB%B8%B32.jpg",
+              "property": "750:180",
+              "width": 750,
+              "height": 180,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250217_26/1739760990409LWnjm_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%BD%B4%C6%DB%C0%FB%B8%B32.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20250217_251/1739760994295RCdlf_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%BD%B4%C6%DB%C0%FB%B8%B3.jpg",
+              "property": "1920:170",
+              "width": 1920,
+              "height": 170,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250217_251/1739760994295RCdlf_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%BD%B4%C6%DB%C0%FB%B8%B3.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://brand.naver.com/hunhunsusan/category/ded5a9a54197428abb181d30059c39c4?cp=2",
+            "textColor": "WHITE",
+            "title": "",
+            "description": "",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "categoryQuickLinkWidget": {
+        "visible": true,
+        "order": 13,
+        "type": "CATEGORY_QUICKLINK",
+        "titleSettings": {
+          "title": "",
+          "subTitle": ""
+        },
+        "showType": "IMAGE_TEXT",
+        "displaySizeType": "MEDIUM",
+        "quickLinks": [
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "b80b8f9f062440d68a2c4de1e35b31da",
+            "title": "🚀24시 내일도착",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250527_109/1748315862753s79hr_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A9.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250527_109/1748315862753s79hr_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A9.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {
+              "url": "https://shop-phinf.pstatic.net/20250526_239/1748235751316rGwzq_PNG/B3D7C0CCB9F6_C4FCB8B5C5A91.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250526_289/1748235745406DE4iY_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A91.png",
+              "top": 0,
+              "left": 0
+            }
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "5e8dc08f56a74adcaa112215560fa417",
+            "title": "🚚당일출고 내일도착",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250527_213/17483158704617afiR_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A92.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250527_213/17483158704617afiR_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A92.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {
+              "url": "https://shop-phinf.pstatic.net/20250526_164/1748235866878SLuv8_PNG/B3D7C0CCB9F6_C4FCB8B5C5A922.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250526_297/1748235861931TnSWk_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A922.png",
+              "top": 0,
+              "left": 0
+            }
+          }
+        ]
+      },
+      "customBannerWidget2": {
+        "visible": false,
+        "movable": true,
+        "order": 14,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "WIDE",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20250214_233/17395091106297mW2u_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%C8%A8%B8%B6%C4%AB%BC%BC_%B8%F0%B9%D9%C0%CF.jpg",
+              "property": "750:180",
+              "width": 750,
+              "height": 180,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250214_233/17395091106297mW2u_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%C8%A8%B8%B6%C4%AB%BC%BC_%B8%F0%B9%D9%C0%CF.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20250214_44/1739509118048puK1L_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%C8%A8%B8%B6%C4%AB%BC%BC_pc.jpg",
+              "property": "1920:170",
+              "width": 1920,
+              "height": 170,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250214_44/1739509118048puK1L_JPEG/%C0%DA%C0%AF%B9%E8%B3%CA_%C8%A8%B8%B6%C4%AB%BC%BC_pc.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://brand.naver.com/hunhunsusan/category/68b017cbc34e4f99a28527fbb7da0f8c?cp=1",
+            "textColor": "WHITE",
+            "title": "",
+            "description": "",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "categoryQuickLinkWidget4": {
+        "visible": false,
+        "movable": true,
+        "order": 15,
+        "type": "CATEGORY_QUICKLINK",
+        "titleSettings": {
+          "title": "",
+          "subTitle": ""
+        },
+        "showType": "IMAGE_TEXT",
+        "displaySizeType": "SMALL",
+        "quickLinks": [
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "ded5a9a54197428abb181d30059c39c4",
+            "title": "",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250527_49/1748321482628r3DeD_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A93-1.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250527_49/1748321482628r3DeD_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A93-1.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {
+              "url": "https://shop-phinf.pstatic.net/20250526_238/17482355750503UP9A_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A94.png",
+              "property": "208:208",
+              "width": 208,
+              "height": 208,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250526_238/17482355750503UP9A_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A94.png",
+              "top": 0,
+              "left": 0
+            }
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "94e0c2ab1018459ba1184046586ff5df",
+            "title": "",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250527_55/17483158929396c11O_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A94.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250527_55/17483158929396c11O_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A94.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {
+              "url": "https://shop-phinf.pstatic.net/20250526_243/1748235581614bnMjY_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A96.png",
+              "property": "208:208",
+              "width": 208,
+              "height": 208,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250526_243/1748235581614bnMjY_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A96.png",
+              "top": 0,
+              "left": 0
+            }
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "cfbb5f69e7f34d74a59898cd3efb245f",
+            "title": "",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250527_107/17483158877883S1Gm_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A95.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250527_107/17483158877883S1Gm_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A95.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {
+              "url": "https://shop-phinf.pstatic.net/20250526_280/1748235586172YQzSG_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A97.png",
+              "property": "208:208",
+              "width": 208,
+              "height": 208,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250526_280/1748235586172YQzSG_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A97.png",
+              "top": 0,
+              "left": 0
+            }
+          }
+        ]
+      },
+      "categoryQuickLinkWidget2": {
+        "visible": true,
+        "movable": true,
+        "order": 16,
+        "type": "CATEGORY_QUICKLINK",
+        "titleSettings": {
+          "title": "훈훈수산 브랜드 상품 ",
+          "subTitle": ""
+        },
+        "showType": "IMAGE_TEXT",
+        "displaySizeType": "MEDIUM",
+        "quickLinks": [
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "68b017cbc34e4f99a28527fbb7da0f8c",
+            "title": "🍣홈마카세",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250527_61/1748315906651S6Pey_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A97.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250527_61/1748315906651S6Pey_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A97.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "76f0e8d1451b4abb88665a0d326c3efb",
+            "title": "🍚밥도둑",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20250527_294/1748315900029XaVKd_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A96.png",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20250527_294/1748315900029XaVKd_PNG/%B3%D7%C0%CC%B9%F6_%C4%FC%B8%B5%C5%A96.png",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          }
+        ]
+      },
+      "categoryQuickLinkWidget1": {
+        "visible": false,
+        "movable": true,
+        "order": 17,
+        "type": "CATEGORY_QUICKLINK",
+        "titleSettings": {
+          "title": "신선하게! 산지직송",
+          "subTitle": ""
+        },
+        "showType": "TEXT",
+        "displaySizeType": "MEDIUM",
+        "quickLinks": [
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "7212de5b7f494ca3b1dc289e55c15dec",
+            "title": "🚢산지직송",
+            "textImage": {},
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "1d2f37e0d1ce46559fd878dcf5c2b047",
+            "title": "🦐새우류",
+            "textImage": {},
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "8d0917bd364f4a79813ed100fc6c8aad",
+            "title": "🐚어패류",
+            "textImage": {},
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "f076ba282d484935ad34f0f7a2aacefb",
+            "title": "🦀해산물",
+            "textImage": {},
+            "logoImage": {}
+          }
+        ]
+      },
+      "categoryProductWidget": {
+        "visible": true,
+        "order": 18,
+        "type": "CATEGORY_PRODUCT",
+        "viewType": "SWIPING",
+        "displaySizeType": "SMALL",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "sortType": "POPULARITY",
+        "categoryDisplayProps": [
+          {
+            "categoryId": "76f0e8d1451b4abb88665a0d326c3efb",
+            "titleSettings": {
+              "title": "🍚밥도둑",
+              "subTitle": ""
+            },
+            "topBannerSettings": {
+              "useTopBanner": false,
+              "pcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "mobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "useImageDim": true,
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": ""
+            },
+            "shortcutButtonSettings": {
+              "useShortcutButton": false,
+              "buttonName": "전체보기",
+              "linkType": "CATEGORY"
+            },
+            "displayCount": 12,
+            "categoryType": "DISPLAY"
+          }
+        ]
+      },
+      "couponPointProductWidget": {
+        "visible": true,
+        "order": 19,
+        "type": "COUPON_POINT_PRODUCT",
+        "titleSettings": {
+          "title": "쿠폰 혜택 상품",
+          "subTitle": ""
+        },
+        "displaySizeType": "MEDIUM",
+        "viewType": "SWIPING",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "selectType": "AUTO",
+        "productNos": []
+      },
+      "videoWidget": {
+        "visible": true,
+        "order": 20,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "🍺취향대로 즐기는 건어물🍺",
+          "subTitle": ""
+        },
+        "playerModeType": "AUTO_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2025_07_21_3157",
+          "vid": "B384FD4222EA680FAA2C88C3CB19D411A7A6",
+          "width": 3840,
+          "height": 2160,
+          "name": "W9KEQQgiCQ_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2025_07_21_3157/W9KEQQgiCQ_03.jpg",
+          "size": 632970078,
+          "duration": 65
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2025_07_18_511",
+          "vid": "9830DAB25FD082B5108EB9822D7AE024021C",
+          "width": 3840,
+          "height": 2160,
+          "name": "852uSYSAUz_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2025_07_18_511/852uSYSAUz_03.jpg",
+          "size": 632970078,
+          "duration": 65
+        }
+      },
+      "benefitBannerWidget": {
+        "visible": true,
+        "order": 21,
+        "type": "BENEFIT_BANNER",
+        "displayStyle": "SIMPLE"
+      },
+      "wholeProductWidget": {
+        "visible": false,
+        "order": 22,
+        "type": "WHOLE_PRODUCT",
+        "titleSettings": {
+          "title": "전상품 보러가기",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "DROPPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": false,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": true,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "sortType": "REVIEW_COUNT_DESC",
+        "displayCount": 50
+      },
+      "brandDescriptionWidget": {
+        "visible": true,
+        "order": 23,
+        "type": "BRAND_DESCRIPTION",
+        "brandDescriptionType": "SIMPLE",
+        "brandNameType": "LOGO",
+        "textColor": "BLACK",
+        "mobileBackgroundImage": {
+          "url": "https://shop-phinf.pstatic.net/20250218_32/1739838296479xOwxg_JPEG/%BA%EA%B7%A3%B5%E5%BC%D2%B0%B3-%C0%CC%B9%CC%C1%F6-%B8%F0%B9%D9%C0%CF.jpg",
+          "property": "750:588",
+          "width": 750,
+          "height": 588,
+          "originalUrl": "https://shop-phinf.pstatic.net/20250218_32/1739838296479xOwxg_JPEG/%BA%EA%B7%A3%B5%E5%BC%D2%B0%B3-%C0%CC%B9%CC%C1%F6-%B8%F0%B9%D9%C0%CF.jpg",
+          "top": 0,
+          "left": 0
+        },
+        "pcBackgroundImage": {
+          "url": "https://shop-phinf.pstatic.net/20250218_67/1739838304706dB2lN_JPEG/%BA%EA%B7%A3%B5%E5%BC%D2%B0%B3-%C0%CC%B9%CC%C1%F6_pc.jpg",
+          "property": "1920:470",
+          "width": 1920,
+          "height": 470,
+          "originalUrl": "https://shop-phinf.pstatic.net/20250218_67/1739838304706dB2lN_JPEG/%BA%EA%B7%A3%B5%E5%BC%D2%B0%B3-%C0%CC%B9%CC%C1%F6_pc.jpg",
+          "top": 0,
+          "left": 0
+        },
+        "brandNameLogoImage": {
+          "url": "https://shop-phinf.pstatic.net/20260414_8/1776133513000xATQn_PNG/%C8%C6%C8%C6%B7%CE%B0%ED_1.png",
+          "property": "400:94",
+          "width": 400,
+          "height": 94,
+          "originalUrl": "https://shop-phinf.pstatic.net/20260414_8/1776133513000xATQn_PNG/%C8%C6%C8%C6%B7%CE%B0%ED_1.png",
+          "top": 0,
+          "left": 0
+        },
+        "mobileContent": "바다가 키운 수산물에\n훈훈한 마음 담아,",
+        "pcContent": "바다가 키운 수산물에\n훈훈한 마음 담아,"
+      },
+      "relationProductWidget": {
+        "visible": false,
+        "order": 24,
+        "type": "RELATION_PRODUCT",
+        "titleSettings": {
+          "title": "연관상품",
+          "subTitle": ""
+        },
+        "selectType": "AUTO",
+        "viewType": "SWIPING",
+        "relationProductNos": []
+      },
+      "customProductWidget": {
+        "visible": false,
+        "order": 25,
+        "type": "CUSTOM_PRODUCT",
+        "titleSettings": {
+          "title": "추천상품",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "productNos": [],
+        "displayCount": 12
+      },
+      "exhibitionBannerWidget": {
+        "visible": false,
+        "order": 26,
+        "type": "EXHIBIT_BANNER",
+        "selectType": "AUTO",
+        "viewType": "SWIPING",
+        "bannerShapeType": "LARGE",
+        "banners": []
+      },
+      "footerWidget": {
+        "visible": true,
+        "order": 27,
+        "type": "FOOTER",
+        "pcImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "mobileImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "useAltText": false,
+        "altTextTitle": "",
+        "altTextDescription": ""
+      }
+    },
+    "hasFreeReturnInsuranceProduct": false,
+    "isLoading": false,
+    "isSaving": false,
+    "error": null
+  },
+  "interestProductRemind": {
+    "remindType": null
+  },
+  "isEmbedStorePromotionPage": false,
+  "isPreview": false,
+  "keepStore": {
+    "count": 0,
+    "kept": null,
+    "newsInterlock": null
+  },
+  "keptCatalogs": {},
+  "keptProducts": {},
+  "keptRelationProducts": {},
+  "keywordSearch": {
+    "keyword": null,
+    "normalizedKeywordInfo": {
+      "originQuery": "",
+      "normalizedKeyword": ""
+    },
+    "sort": null,
+    "listDisplayType": null,
+    "simpleProducts": [],
+    "simpleCatalogs": [],
+    "totalCount": 0,
+    "page": 1,
+    "pageSize": 20,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "querySummaryInfo": {
+      "isQR": null,
+      "isPartialSearch": null,
+      "orgQueryTotal": null
+    }
+  },
+  "layoutStatus": {
+    "isActiveStoreTopBanner": false
+  },
+  "logisticsProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "sort": null,
+    "listDisplayType": null,
+    "page": 1,
+    "pageSize": 40,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "loungeBenefit": [],
+  "loungeConfig": {
+    "channelNo": 0,
+    "join": {
+      "additionalInfoPageEnabled": true
+    },
+    "home": {
+      "widgets": {
+        "gradeWidget": {
+          "type": "GRADE",
+          "visible": true,
+          "order": 1
+        },
+        "noticeWidget": {
+          "type": "NOTICE",
+          "visible": true,
+          "order": 2
+        },
+        "benefitWidget": {
+          "type": "BENEFIT",
+          "visible": true,
+          "order": 3
+        },
+        "storyWidget": {
+          "type": "STORY",
+          "visible": true,
+          "order": 4
+        }
+      }
+    }
+  },
+  "loungeJoin": {
+    "externalProvisions": null,
+    "externalProvision": null,
+    "collectedItems": null,
+    "reportedItemIds": []
+  },
+  "loungeMember": {
+    "sellerNo": null,
+    "memberIdNo": null,
+    "memberId": null,
+    "gradeType": null,
+    "grade": null,
+    "gradeApplyDateTime": null,
+    "name": null,
+    "sex": null,
+    "birthday": null,
+    "status": null,
+    "joinDateTime": null,
+    "leaveDateTime": null,
+    "attendanceCount": 0,
+    "lastAttendanceDate": null,
+    "promotionNotification": null,
+    "sexAgreementDateTime": null,
+    "sexAgreementCancelDateTime": null,
+    "birthdayAgreementDateTime": null,
+    "birthdayAgreementCancelDateTime": null,
+    "contactTelephoneAgreementDateTime": null,
+    "contactTelephoneAgreementCancelDateTime": null,
+    "realtimeSummaryInfo": null,
+    "accumulateSummaryInfo": null,
+    "predictSummaryInfo": null,
+    "agreements": [],
+    "isMember": false,
+    "rejoinPossibleDate": null,
+    "attendanceRequestState": null,
+    "agreeSex": false,
+    "agreeBirthday": false,
+    "agreeContactPhone": false
+  },
+  "loungeMy": {
+    "myCommentActivities": null,
+    "myPollActivities": null
+  },
+  "loungeNotice": {
+    "pages": null,
+    "detail": null,
+    "newestPost": null
+  },
+  "loungeSimpleMember": {
+    "sellerNo": null,
+    "memberIdNo": null,
+    "memberId": null,
+    "gradeType": null,
+    "grade": null,
+    "gradeApplyDateTime": null,
+    "name": null,
+    "sex": null,
+    "birthday": null,
+    "status": null,
+    "joinDateTime": null,
+    "leaveDateTime": null,
+    "attendanceCount": 0,
+    "lastAttendanceDate": null,
+    "promotionNotification": null,
+    "sexAgreementDateTime": null,
+    "sexAgreementCancelDateTime": null,
+    "birthdayAgreementDateTime": null,
+    "birthdayAgreementCancelDateTime": null,
+    "isMember": false,
+    "rejoinPossibleDate": null,
+    "agreeSex": false,
+    "agreeBirthday": false
+  },
+  "loungeStory": {
+    "pages": null,
+    "detail": null
+  },
+  "menuSetting": {
+    "topMenus": {
+      "promotionMenu": {
+        "visible": false,
+        "order": 0,
+        "type": "PROMOTION",
+        "title": "",
+        "promotionCategoryExposureType": "LIST",
+        "promotionListExposureProp": {
+          "newLabelExposure": false,
+          "pageNameExposure": false,
+          "readMoreExposure": false
+        },
+        "periodDisplay": false
+      },
+      "shoppingLiveMenu": {
+        "visible": false,
+        "order": 1,
+        "type": "SHOPPING_LIVE"
+      },
+      "bestMenu": {
+        "visible": false,
+        "order": 2,
+        "type": "BEST",
+        "title": ""
+      },
+      "categoryMenu": {
+        "visible": true,
+        "order": 3,
+        "type": "CATEGORY"
+      },
+      "newProductMenu": {
+        "visible": false,
+        "order": 4,
+        "type": "NEW_PRODUCT",
+        "title": ""
+      },
+      "arrivalGuaranteeMenu": {
+        "visible": false,
+        "order": 5,
+        "type": "ARRIVAL_GUARANTEE"
+      },
+      "forYouMenu": {
+        "visible": false,
+        "order": 6,
+        "type": "FOR_YOU"
+      },
+      "loungeMenu": {
+        "visible": true,
+        "order": 7,
+        "type": "LOUNGE"
+      }
+    },
+    "bottomMenus": {
+      "exhibitionMenu": {
+        "visible": false,
+        "order": 0,
+        "type": "EXHIBITION",
+        "title": ""
+      },
+      "noticeMenu": {
+        "visible": false,
+        "order": 1,
+        "type": "NOTICE"
+      },
+      "shoppingStoryMenu": {
+        "visible": false,
+        "order": 2,
+        "type": "SHOPPING_STORY",
+        "title": ""
+      },
+      "reviewEventMenu": {
+        "visible": false,
+        "order": 3,
+        "type": "REVIEW_EVENT",
+        "title": ""
+      },
+      "qnaMenu": {
+        "visible": false,
+        "order": 4,
+        "type": "QNA",
+        "title": ""
+      },
+      "sellerInfoMenu": {
+        "visible": true,
+        "order": 5,
+        "type": "SELLER_INFO"
+      }
+    }
+  },
+  "my": {
+    "point": "",
+    "coinType": "06",
+    "orderDeliveryCounts": "",
+    "zzimProductCount": ""
+  },
+  "myKeptProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "isLoaded": false
+  },
+  "myListProducts": {
+    "simpleProducts": [],
+    "hasNextPage": true,
+    "page": 1,
+    "pageSize": 20,
+    "isLoaded": false
+  },
+  "newProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "sort": null,
+    "listDisplayType": null,
+    "page": 1,
+    "pageSize": 1,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "notice": {
+    "list": {
+      "contents": [],
+      "page": 1,
+      "totalElements": 0
+    },
+    "detail": {
+      "id": null,
+      "postCategoryType": "ORDINARY",
+      "postTitle": "",
+      "readCount": 0,
+      "regDate": "",
+      "editorType": null,
+      "renderContent": "",
+      "mobileRenderContent": ""
+    }
+  },
+  "optimizeRequest": {
+    "types": []
+  },
+  "product": {
+    "id": null,
+    "channelServiceType": null,
+    "channelProductType": null,
+    "channelProductSupplyType": null,
+    "channelProductStatusType": null,
+    "channelProductDisplayStatusType": null,
+    "category": null,
+    "categoryNavigations": null,
+    "name": null,
+    "productUrl": null,
+    "mobileProductUrl": null,
+    "channel": null,
+    "content": null,
+    "regDate": null,
+    "modDate": null,
+    "manufactureDate": null,
+    "validDate": null,
+    "storeKeepExclusiveProduct": false,
+    "epInfo": {
+      "naverShoppingExposure": false,
+      "enuriRegistration": false,
+      "danawaRegistration": false
+    },
+    "best": false,
+    "displayDate": null,
+    "materialContent": null,
+    "orderRequestUsable": false,
+    "channelProductImages": null,
+    "channelProductAttributes": [],
+    "productNo": null,
+    "salePrice": 0,
+    "stockQuantity": 0,
+    "saleType": null,
+    "excludeAdminDiscount": false,
+    "payExposure": false,
+    "productStatusType": null,
+    "reasonForProhibition": null,
+    "statusType": null,
+    "authenticationType": null,
+    "productImages": null,
+    "naverShoppingSearchInfo": null,
+    "itselfProductionProductYn": null,
+    "afterServiceInfo": null,
+    "originAreaInfo": null,
+    "seoInfo": null,
+    "optionUsable": false,
+    "supplementProductUsable": false,
+    "purchaseReviewInfo": null,
+    "isCustomProduct": false,
+    "taxType": null,
+    "certificationTargetExcludeContent": null,
+    "minorPurchasable": false,
+    "productInfoProvidedNoticeView": null,
+    "productAttributes": null,
+    "productDeliveryInfo": null,
+    "claimDeliveryInfo": null,
+    "benefitsView": null,
+    "benefitsPolicy": null,
+    "mobileBenefitsPolicy": null,
+    "saleAmount": null,
+    "reviewAmount": null,
+    "averageDeliveryLeadTime": null,
+    "preOrder": null,
+    "sellerTags": null,
+    "bbsSeq": 0,
+    "galleryImages": null,
+    "materialImages": null,
+    "tagImages": null,
+    "barcodeImages": null,
+    "soldout": false,
+    "viewAttributes": null,
+    "additionalAttributes": null,
+    "eCouponCategory": false,
+    "cultureCategory": false,
+    "mobileDiscountRatio": 0,
+    "cultureCostIncomeDeductionRate": null,
+    "isRestrictCart": false,
+    "channelProductVideos": [],
+    "productVideos": [],
+    "detailAttributes": null,
+    "commentCount": 0,
+    "interestFreePlans": null,
+    "productVideoAuth": null,
+    "userNickname": null,
+    "relatedProductsIds": [],
+    "isPayRestrictCategory": false,
+    "isOrderRestrictCategory": false,
+    "isPointPlusMember": false,
+    "hopeDelivery": null,
+    "discountedSalePrice": 0,
+    "reviewEvent": null,
+    "rmidByUser": null,
+    "orderDeliveryAttributeType": null,
+    "orderScheduledChannelType": null
+  },
+  "productListSetting": {
+    "channelNo": 0,
+    "imageShapeType": "SQUARE",
+    "imageDisplayType": "REPRESENTATIVE",
+    "productUnitAddInfo": {
+      "reviewRatingVisible": true,
+      "reviewCountVisible": true,
+      "colorChipVisible": false,
+      "detailForPcVisible": true,
+      "cartVisible": false,
+      "bestOrNewTagVisible": true,
+      "productAttributeTagVisible": true
+    },
+    "productSortOption": {
+      "detailFilterVisible": true,
+      "sortOrderVisible": true,
+      "displayTypeVisible": true
+    }
+  },
+  "productBenefitList": {},
+  "productBestReviews": {
+    "exceptionalStorepickReviewIds": []
+  },
+  "productGift": {
+    "giftParams": {},
+    "giftButton": {
+      "isLoading": true,
+      "type": null,
+      "friendInfo": null
+    }
+  },
+  "productReviewContentSummaryTags": {
+    "PRODUCT": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    },
+    "REVIEW_DIALOG": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    }
+  },
+  "productReviewGalleryAttaches": {
+    "PRODUCT": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    },
+    "REVIEW_DIALOG": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    }
+  },
+  "productReviews": {
+    "PRODUCT": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    },
+    "REVIEW_DIALOG": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    }
+  },
+  "productSizeRecommendation": {
+    "hasValidRecommendation": false,
+    "userRepSize": null,
+    "sizeShowing": [],
+    "sizeRecommendationMap": null
+  },
+  "promotionManagement": {
+    "channelNo": null,
+    "storeHomePromotionManagement": {
+      "storeHomePopupExposure": false,
+      "storeHomePopupExposureConfig": {
+        "promotionPageNo": null,
+        "selectType": "AUTO",
+        "image": {
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "left": 0,
+          "url": "",
+          "originalUrl": "",
+          "property": ""
+        },
+        "periodDisplay": false
+      },
+      "promotionPagePreference": false,
+      "promotionPagePreferenceConfig": {
+        "periodDisplay": false
+      }
+    },
+    "storeEverywherePromotionManagement": {
+      "storeUpperBannerExposure": false,
+      "storeUpperBannerExposureConfig": {
+        "linkType": "PROMOTION_PAGE",
+        "periodDisplay": false
+      },
+      "searchBarBannerExposure": false,
+      "searchBarBannerExposureConfig": {
+        "image": {
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "left": 0,
+          "url": "",
+          "originalUrl": "",
+          "property": ""
+        },
+        "linkType": "PROMOTION_PAGE",
+        "periodDisplay": false
+      }
+    }
+  },
+  "qna": {
+    "contents": [],
+    "page": 0,
+    "size": 0,
+    "totalElements": 0,
+    "totalPages": 0
+  },
+  "recentOtherProduct": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "isLoaded": false
+  },
+  "recentlyViewedProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "page": 1,
+    "hasMore": false,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "isLoaded": false
+  },
+  "renderSequence": "topBanner",
+  "rental": {
+    "policies": {},
+    "affiliateCards": {},
+    "contractConditionId": null
+  },
+  "reviewDetail": null,
+  "reviewEvent": {
+    "list": {
+      "initialized": false,
+      "contents": []
+    },
+    "detail": null
+  },
+  "reviewLike": {},
+  "reviewsFilter": {
+    "selectedSort": "REVIEW_RANKING",
+    "selectedFeature": "ALL",
+    "selectedScore": "ALL",
+    "selectedTopic": null,
+    "selectedTag": null,
+    "selectedOptions": [],
+    "selectedOptionsTemp": [],
+    "selectedCustomFilterOptions": [],
+    "selectedCustomFilterOptionsTemp": [],
+    "registeredCustomFilter": {
+      "active": false
+    },
+    "registeredCustomFilterTemp": {
+      "active": false
+    }
+  },
+  "scrollKept": {
+    "isScrollKept": false,
+    "keptScrollHeight": null
+  },
+  "seViewerContent": {
+    "isLoadedCompleted": {
+      "content": false,
+      "notice": false
+    },
+    "content": null,
+    "notices": {
+      "channelNoticeContent": null,
+      "productNoticeContent": null
+    }
+  },
+  "searchFilter": {
+    "completed": {
+      "filters": [],
+      "priceRange": null
+    },
+    "draft": {
+      "filters": [],
+      "priceRange": null,
+      "inputPriceRange": null,
+      "count": 0,
+      "countStatus": "idle"
+    },
+    "defaultPriceRange": {
+      "min": 0,
+      "max": 0
+    },
+    "exposure": {
+      "TODAY_DELIVERY": true,
+      "HOPE_DELIVERY": true,
+      "ARRIVAL_GUARANTEE": true,
+      "FREE_RETURN_INSURANCE": true,
+      "PC_DISCOUNT": true,
+      "MOBILE_DISCOUNT": true,
+      "ORDER_AVAILABLE": true,
+      "FREE_DELIVERY": true,
+      "PRE_ORDER": true,
+      "REGULAR_SUBSCRIPTION": true
+    },
+    "appliedFilter": null
+  },
+  "searchFormLayer": {
+    "keywordSuggestions": [],
+    "storePopular": null
+  },
+  "selectedOptions": {
+    "product": {},
+    "coordi": {},
+    "delivery": {},
+    "textOptions": null,
+    "simpleOptions": null,
+    "combinationOptions": null,
+    "standardOptions": null,
+    "supplementProducts": null,
+    "colorOptions": null,
+    "sizeOptions": null,
+    "hopeDeliveryOptions": {},
+    "purchaseMethodTypes": {},
+    "subscriptionDeliveryOptions": {}
+  },
+  "selectiveLive": {
+    "channel": null,
+    "productMap": {},
+    "productDiscountBroadcastMap": {}
+  },
+  "serverLocationPath": "/hunhunsusan/products/4772009430",
+  "serverReferer": {
+    "referNaver": false,
+    "referer": null,
+    "shoppingAppReferer": null
+  },
+  "serverRenderStatus": {
+    "isError": false
+  },
+  "serverRendered": true,
+  "shoppingStory": {
+    "list": {
+      "contents": [],
+      "page": 1,
+      "totalElements": 0
+    },
+    "detail": {
+      "id": null,
+      "postTitle": "",
+      "readCount": 0,
+      "regDate": "",
+      "mobileRenderContent": "",
+      "editorType": null
+    }
+  },
+  "simpleProductForDetailPage": {
+    "id": 4772009430,
+    "channelServiceType": "STOREFARM",
+    "channelProductDisplayStatusType": "ON",
+    "category": {
+      "wholeCategoryId": "50000006>50000159>50001050>50004734",
+      "wholeCategoryName": "식품>수산물>젓갈/장류>게장",
+      "categoryId": "50004734",
+      "categoryName": "게장"
+    },
+    "name": "한입 양념게장 1kg (절단꽃게, 양념꽃게장)",
+    "dispName": "한입 양념게장 1kg (절단꽃게, 양념꽃게장)",
+    "channel": {
+      "channelNo": 500146356,
+      "accountNo": 500146356,
+      "channelUid": "2sWDvp64CLJ5QOopQ6hmo",
+      "accountId": "hunhunsusan",
+      "channelName": "훈훈수산"
+    },
+    "storeKeepExclusiveProduct": false,
+    "productNo": 4758949827,
+    "salePrice": 19900,
+    "saleType": "NEW",
+    "productStatusType": "SALE",
+    "authenticationType": "NORMAL",
+    "seoInfo": {
+      "pageTitle": "밥 강도 한입 양념게장 ! 지금 훈훈수산에서 만나보세요~",
+      "metaDescription": "훈훈수산 양념게장 출시!",
+      "sellerTags": [
+        {
+          "text": "양념게장"
+        },
+        {
+          "text": "양념꽃게장"
+        },
+        {
+          "text": "한입양념게장"
+        },
+        {
+          "text": "절단꽃게장"
+        },
+        {
+          "text": "절단꽃게"
+        },
+        {
+          "text": "꽃게장"
+        }
+      ]
+    },
+    "optionUsable": false,
+    "supplementProductUsable": true,
+    "naverShoppingSearchInfo": {
+      "brandId": 4325991,
+      "manufacturerName": "상세페이지 참조",
+      "brandName": "훈훈수산",
+      "modelName": "123-SPECIAL"
+    },
+    "purchaseReviewInfo": {
+      "purchaseReviewExposure": true
+    },
+    "minorPurchasable": true,
+    "isRestrictCart": false,
+    "benefitsView": {
+      "discountedSalePrice": 15800,
+      "mobileDiscountedSalePrice": 15800,
+      "sellerImmediateDiscountAmount": 4100,
+      "mobileSellerImmediateDiscountAmount": 4100,
+      "managerImmediateDiscountAmount": 0,
+      "mobileManagerImmediateDiscountAmount": 0,
+      "discountedRatio": 20,
+      "mobileDiscountedRatio": 20,
+      "sellerPurchasePoint": 0,
+      "mobileSellerPurchasePoint": 0,
+      "sellerCustomerManagementPoint": 0,
+      "mobileSellerCustomerManagementPoint": 0,
+      "managerPurchasePoint": 158,
+      "mobileManagerPurchasePoint": 158,
+      "managerPurchaseExtraPoint": 0,
+      "mobileManagerPurchaseExtraPoint": 0,
+      "generalPurchaseReviewPoint": 50,
+      "premiumPurchaseReviewPoint": 100,
+      "storeMemberReviewPoint": 0,
+      "managerGeneralPurchaseReviewPoint": 50,
+      "managerPremiumPurchaseReviewPoint": 150,
+      "presentContent": "오픈 특가 할인 이벤트중",
+      "givePresent": true,
+      "textReviewPoint": 50,
+      "photoVideoReviewPoint": 100,
+      "afterUseTextReviewPoint": 50,
+      "afterUsePhotoVideoReviewPoint": 100,
+      "managerTextReviewPoint": 50,
+      "managerPhotoVideoReviewPoint": 150,
+      "managerAfterUseTextReviewPoint": 0,
+      "managerAfterUsePhotoVideoReviewPoint": 0,
+      "dispDiscountedSalePrice": 15800,
+      "dispDiscountedRatio": 20
+    },
+    "reviewAmount": {
+      "totalReviewCount": 12891,
+      "premiumReviewCount": 0,
+      "averageReviewScore": 4.73,
+      "productSatisfactionPercent": 0
+    },
+    "displayable": true,
+    "usableDelivery": true,
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20260401_113/1775021466370JwlDl_JPEG/64902830290714336_904044094.jpg",
+    "representativeImageWidth": 1000,
+    "representativeImageHeight": 1000,
+    "optionalImageUrls": [
+      "https://shop-phinf.pstatic.net/20260401_83/17750122678541Xcal_JPEG/55626041190043096_1969745105.jpg",
+      "https://shop-phinf.pstatic.net/20260113_143/1768290794957AsW67_JPEG/81780053283238358_1238539166.jpg",
+      "https://shop-phinf.pstatic.net/20260401_272/1775012268470b3BYG_JPEG/55626041805435665_2053231008.jpg",
+      "https://shop-phinf.pstatic.net/20260113_212/1768290803184LYwya_JPEG/78439252948982716_711507748.jpg",
+      "https://shop-phinf.pstatic.net/20260113_268/176829082224706URW_JPEG/17808061387027443_749926168.jpg"
+    ],
+    "productDeliveryInfo": {
+      "deliveryFeeType": "PAID",
+      "baseFee": 4000,
+      "deliveryAttributeType": "SELLER_GUARANTEE",
+      "deliveryBundleGroup": {
+        "id": 265853
+      },
+      "installationFee": false,
+      "deliveryMethodTypes": [
+        "DELIVERY"
+      ],
+      "deliveryFeePayType": "PREPAID",
+      "deliveryCompany": {
+        "id": "HANJIN",
+        "name": "한진택배"
+      }
+    },
+    "detailContents": {
+      "detailContentText": "인 허가증 및 검사성적서 식품 제조 허가를 받은 시설에서 청결하게 제조합니다. 언제나 안심하고 드실 수 있도록 위생관리에 최선을 다하겠습니다 앙념까지 쪽쪽! 손이 계속가는 훈훈수산 국내산 한입 양념게장 국내산 한입 양념게장 1kg(9쪽 내외) *패키지 및 포장은 변경될 수 있습니다. CHECK POINT 1. 국내산 꽃게로 더 맛있어졌어요! 2. 깔끔하게 손질해 간편해요! 3. 신선하고 좋은 원물을 사용했어요! 4. 훈훈만의 특제 소스로 만들었어요! Point 01. 국내산 꽃게로 더 맛있어졌어요! 믿을 수 있는 국내산 꽃게로 만들",
+      "editorType": "SEONE"
+    },
+    "enableCart": true,
+    "freeDelivery": false,
+    "todayDelivery": false,
+    "regularSubscription": false,
+    "arrivalGuarantee": true,
+    "subscriptionBenefitContent": [],
+    "rmids": [
+      "1_7S",
+      "2_7T",
+      "3_7U",
+      "4_7V",
+      "7_7W"
+    ],
+    "rentalOneTimeFee": false,
+    "stockQuantity": 93496,
+    "benefitsPolicy": {
+      "sellerImmediateDiscountPolicyNo": "SE_4758949827",
+      "sellerImmediateDiscountValueUnit": "WON",
+      "sellerImmediateDiscountValue": 4100
+    },
+    "mobileBenefitsPolicy": {
+      "sellerImmediateDiscountPolicyNo": "SE_4758949827",
+      "sellerImmediateDiscountValueUnit": "WON",
+      "sellerImmediateDiscountValue": 4100
+    },
+    "dispSalePrice": 19900,
+    "claimDeliveryInfo": {
+      "freeReturnInsurance": false
+    },
+    "epInfo": {
+      "syncNvMid": 82316531567,
+      "naverShoppingRegistration": true,
+      "naverShoppingExposure": true
+    },
+    "affiliateYn": true,
+    "adultAuthorizationType": "NOT_LOGIN",
+    "authorizationDisplay": "NORMAL",
+    "orderDeliveryAttributeType": "SELLER_GUARANTEE",
+    "orderScheduledChannelType": null
+  },
+  "productDetailBroadcast": {
+    "storeBroadcastChannelAuth": {
+      "id": null,
+      "serviceId": "",
+      "serviceName": "",
+      "broadcasterId": "",
+      "channelUid": "",
+      "broadcastAuthority": false,
+      "shortclipAuthority": false,
+      "grade": ""
+    },
+    "broadcastOnAir": {
+      "isFetched": false,
+      "data": null
+    },
+    "broadcastStandBy": {
+      "isFetched": false,
+      "data": null
+    }
+  },
+  "storePromotionPage": {
+    "channelNo": null,
+    "id": null,
+    "name": null,
+    "allListDisplay": true,
+    "periodDisplay": false,
+    "periodDisplayEndDate": null,
+    "periodDisplayStartDate": null,
+    "template": "BASIC",
+    "skinType": "GRAY",
+    "basic": null,
+    "custom": null,
+    "lookbook": null,
+    "product": null,
+    "story": null,
+    "display": true,
+    "createdDate": null,
+    "storePromotionPageStatus": "ON"
+  },
+  "storePromotionPageOnStatus": {
+    "storePromotionPageStatus": "SUSPENSION",
+    "exposeReturnToPromotionOnCategory": false,
+    "exposeReturnToPromotionOnDetail": false,
+    "expandedStorePromotionAccordion": null
+  },
+  "talktalk": {
+    "marketingMessage": null
+  },
+  "talktalkSearch": {
+    "isError": false,
+    "keyword": null,
+    "categoryKey": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "selectedProductNos": [],
+    "hasMore": false
+  },
+  "toast": {
+    "isVisible": false,
+    "type": null,
+    "data": null,
+    "dialogToastRootId": null
+  },
+  "userCollectItems": [],
+  "widgetContents": {
+    "advancedPromotionWidget": {
+      "benefitConfig": {},
+      "lookbookConfig": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": [],
+          "simpleCatalogs": []
+        }
+      },
+      "preOrderConfig": {},
+      "reviewEventConfig": {
+        "eventDetails": {},
+        "simpleProducts": {}
+      },
+      "videoConfig": {}
+    },
+    "bestProductWidget": {
+      "ssr": false,
+      "data": {
+        "bestProducts": {
+          "REALTIME": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "DAILY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "WEEKLY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "MONTHLY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          }
+        },
+        "allCategoryProducts": {
+          "simpleProducts": [],
+          "simpleCatalogs": []
+        },
+        "hasBestProducts": false
+      }
+    },
+    "bestReviewWidget": {
+      "ssr": false,
+      "data": {
+        "reviewProducts": [],
+        "reviewCatalogs": []
+      }
+    },
+    "categoryProductWidget": {
+      "ssr": false,
+      "data": {}
+    },
+    "couponPointProductWidget": {
+      "couponPointProductWidget": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget1": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget2": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget3": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget4": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      }
+    },
+    "customBannerWidget": {},
+    "customProductWidget": {},
+    "exhibitionBannerWidget": {
+      "exhibitions": []
+    },
+    "marketingLayerProductWidget": {},
+    "newProductWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    },
+    "promotionManageWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    },
+    "relationProductWidget": {
+      "ssr": false,
+      "data": {
+        "manual": [],
+        "auto": [],
+        "mappingProducts": {}
+      }
+    },
+    "shoppingStoryWidget": {
+      "ssr": false,
+      "data": {
+        "shoppingStories": []
+      }
+    },
+    "storePromotionPageWidget": {
+      "basicImageWidget": {
+        "products": {}
+      },
+      "customBannerWidget": {
+        "products": {}
+      },
+      "gridImageWidget": {
+        "products": {}
+      },
+      "mainProductWidget": {},
+      "newProductListWidget": {
+        "sortedProductNoMap": {},
+        "products": {},
+        "firstRule": {}
+      }
+    },
+    "timeSaleProductWidget": {},
+    "wholeProductWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    }
+  },
+  "view": {
+    "type": "pc"
+  }
+}

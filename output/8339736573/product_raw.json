@@ -1,0 +1,3822 @@
+{
+  "abt": {},
+  "channelProductVertical": {
+    "verticals": [],
+    "isFetched": false
+  },
+  "consumerSurveys": [],
+  "deliverySavingProduct": {
+    "sortType": "RECENT",
+    "simpleProducts": [],
+    "isFetched": false
+  },
+  "directCount": 0,
+  "forYouProduct": {
+    "recInfo": null,
+    "recItems": [],
+    "simpleProducts": [],
+    "currentPage": 1,
+    "totalCount": 0
+  },
+  "fulfillment": {
+    "rmidStatus": "INIT",
+    "rmids": [],
+    "sellerDeliveryPlans": {}
+  },
+  "groupProduct": {
+    "products": [],
+    "originProductNos": [],
+    "groupId": null,
+    "groupProductName": null,
+    "reviewAmount": null,
+    "standardPurchaseOptionConfig": null,
+    "displayConfig": null
+  },
+  "keepCartRecommend": {
+    "recommendProducts": {
+      "SIMILAR": {
+        "products": []
+      },
+      "BUNDLE": {
+        "products": []
+      },
+      "BUNDLE_DELIVERY": {
+        "products": []
+      }
+    },
+    "keepProductType": null,
+    "cartProductType": null,
+    "recommendType": null,
+    "add_cart_action_uid": null,
+    "shown": false,
+    "hasShown": false,
+    "isFetched": false
+  },
+  "live": {
+    "broadcasts": [],
+    "representShortclip": null,
+    "recentShortclips": null
+  },
+  "marketingMessage": {
+    "isFetched": {
+      "PURCHASE": false,
+      "PET_MEMBERSHIP": false,
+      "BABY_MEMBERSHIP": false,
+      "SHOPPING_FESTA": false
+    },
+    "messages": []
+  },
+  "myAddress": {
+    "districtNameText": "",
+    "zipCode": "",
+    "addressName": "",
+    "buildingManagementNo": "",
+    "hasShippingAddr": false,
+    "isError": false,
+    "defaultShippingAddress": {
+      "districtNameText": "서울시 강남구",
+      "zipCode": "06236",
+      "addressName": "",
+      "roadNameText": "테헤란로 142"
+    }
+  },
+  "naverMember": {
+    "isLogin": false,
+    "adultAuthorizationType": "NOT_LOGIN",
+    "member": null
+  },
+  "naverMembership": {
+    "isSubscribed": false,
+    "isFamilyMembership": false,
+    "payMembership": null,
+    "expectBenefit": null,
+    "lifeCycles": {
+      "isLifeCyclePet": null,
+      "isLifeCycleBaby": null
+    }
+  },
+  "productBenefit": {
+    "point": {
+      "pointResult": null,
+      "pointExtra": {
+        "inflowPoint": {
+          "normalInflowPoints": [],
+          "membershipInflowPoints": []
+        },
+        "reviewPoint": {
+          "total": 0,
+          "textReview": 0,
+          "photoVideoReview": 0,
+          "afterUseTextReview": 0,
+          "afterUsePhotoVideoReview": 0,
+          "storeMemberReview": 0
+        },
+        "sellerPurchasePoint": {
+          "isSpecialBadge": false,
+          "sellerPurchaseDiffDays": ""
+        },
+        "membershipPoint": {
+          "membershipExpectedPoint": 0,
+          "membershipDayPolicyName": "",
+          "expectedTotalSuperPoint": 0
+        }
+      },
+      "rentalPointExtra": null
+    },
+    "isCustomReviewPoint": false,
+    "customTextPoint": null,
+    "customPhotoVideoPoint": null,
+    "optimalDiscount": {
+      "fetched": false
+    },
+    "optimalDiscountResult": null,
+    "simulator": {
+      "fetched": false,
+      "isLayerOpened": false,
+      "showDetail": false,
+      "useProductOption": false,
+      "point": {
+        "pointResult": null,
+        "pointExtra": {
+          "inflowPoint": {
+            "normalInflowPoints": [],
+            "membershipInflowPoints": []
+          },
+          "reviewPoint": {
+            "total": 0,
+            "textReview": 0,
+            "photoVideoReview": 0,
+            "afterUseTextReview": 0,
+            "afterUsePhotoVideoReview": 0,
+            "storeMemberReview": 0
+          },
+          "sellerPurchasePoint": {
+            "isSpecialBadge": false,
+            "sellerPurchaseDiffDays": ""
+          },
+          "membershipPoint": {
+            "membershipExpectedPoint": 0,
+            "membershipDayPolicyName": "",
+            "expectedTotalSuperPoint": 0
+          }
+        },
+        "rentalPointExtra": null
+      },
+      "productBenefit": {
+        "benefitsPolicy": null,
+        "benefitsView": null
+      },
+      "productInfo": null
+    },
+    "promotion": null,
+    "isFetched": false
+  },
+  "productDelivery": {
+    "isRestrictedRegionFetched": false,
+    "restrictedRegion": null
+  },
+  "productReviewSummary": {
+    "PRODUCT": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    },
+    "REVIEW_DIALOG": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "productReviewInfo": null,
+      "recentProductReviewInfo": null,
+      "reviewEvaluations": [],
+      "reviewTopics": [],
+      "userInfo": null,
+      "generalReviews": null,
+      "photoVideoReviews": null,
+      "bestReviews": null,
+      "imageAnalysisType": null,
+      "summaryCardReviewInfo": null,
+      "reviewThumbnailDisplayType": "SQUARE",
+      "sizeRecommend": null
+    }
+  },
+  "recommendTabVisible": {
+    "hasRecommendProduct": false
+  },
+  "relationProducts": {
+    "isFetched": false,
+    "coordiProducts": [],
+    "togetherProducts": [],
+    "similarProducts": [],
+    "togetherImageProducts": []
+  },
+  "serviceConfig": null,
+  "subVerticalMeta": {},
+  "targetCondition": {
+    "type": "NONE",
+    "targetConditionActionDetails": []
+  },
+  "verticalInventoryItems": {},
+  "wtm": {
+    "wtmDryrunRulesEnc": null
+  },
+  "commonSetting": {
+    "channelNo": 500166437,
+    "usePremiumThemeColor": false,
+    "colorType": "CUSTOM_COLOR",
+    "colorCode": "#E71919",
+    "fontFamily": "SYSTEM",
+    "fontStyle": "MEDIUM",
+    "componentStyle": "ROUND"
+  },
+  "productDetailSetting": {
+    "displayConfig": {
+      "topNoticeBannerManagement": {
+        "useTopNoticeBanner": false,
+        "bannerStyle": "LIGHT",
+        "benefitTypeText": "",
+        "benefitDescription": "",
+        "periodDisplay": false,
+        "bannerExposureTargetType": "PRODUCT",
+        "mappingProductNos": [],
+        "mappingCategoryIds": [],
+        "mappingCategoryType": "",
+        "mappingPromotionPageNos": []
+      },
+      "representativeImageManagement": {
+        "marketingMessageManagement": {
+          "usePurchased": true,
+          "basisPurchased": 10,
+          "usePurchasedIn2Y": true,
+          "useRepurchased": true,
+          "basisRepurchased": 10,
+          "useBestProduct": true,
+          "useNewProduct": true
+        },
+        "mediaPreference": "VIDEO_PREFERRED",
+        "useBestReview": true,
+        "useShoppingLiveOnAirExposure": true
+      },
+      "useSummaryCardReview": true,
+      "useOtherCompositionProducts": true,
+      "useSimilarProducts": true,
+      "useAitems": true,
+      "useShortClip": true,
+      "usePublicQnA": true,
+      "useTogetherProducts": true,
+      "useBundleDeliveryProducts": true,
+      "useCategoryOtherProducts": true,
+      "useSellerBestProducts": true,
+      "useInterestProducts": true,
+      "useForYouProducts": true
+    },
+    "isTargetTopNoticeBanner": false
+  },
+  "addressBook": {
+    "accountNo": null,
+    "addressBookType": null,
+    "addressInfo": null,
+    "alias": null,
+    "id": null,
+    "possibleOversea": null,
+    "modAuditInfo": null,
+    "phoneNumber1": null,
+    "phoneNumber2": null,
+    "regAuditInfo": null,
+    "regDate": null,
+    "modDate": null
+  },
+  "benefit": {
+    "user": null,
+    "customerBenefits": null,
+    "basicBenefits": null,
+    "sortedHomeBenefits": null
+  },
+  "benefitById": {},
+  "benefitsV2": [],
+  "brandStatuses": [],
+  "bsProductCollection": {
+    "newProducts": [],
+    "bestProducts": [],
+    "bestReviewProducts": []
+  },
+  "bundle": {
+    "bundleGroupId": null,
+    "previousProductId": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "sort": null,
+    "page": 1,
+    "pageSize": 40,
+    "infiniteStatus": null,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "cart": {
+    "totalCount": 0
+  },
+  "cartProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "isLoaded": false
+  },
+  "categoryNames": {},
+  "categoryProducts": {
+    "key": null,
+    "isError": false,
+    "simpleProducts": [],
+    "simpleCatalogs": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "mobileListDisplayType": null,
+    "sort": null,
+    "page": 1,
+    "pageSize": 20,
+    "recommendSimpleProducts": [],
+    "recommendSimpleCatalogs": [],
+    "swipeGuideTargetIds": [],
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "isDeduplicateGroupEpId": false,
+    "isFetched": false
+  },
+  "categorySetting": {
+    "data": null,
+    "isFetched": false
+  },
+  "categorySettingContents": {
+    "categoryProductDefaultImageUrlMap": null,
+    "visibleQuickLinks": []
+  },
+  "categoryMenu": {
+    "firstCategories": [],
+    "categoryDisplayType": null,
+    "storeCategoryTree": null,
+    "validMenu": {
+      "isBestValid": false,
+      "isPromotionValid": false,
+      "isLiveValid": false,
+      "isLoungeValid": false,
+      "isExhibitionValid": false,
+      "isArrivalGuaranteeValid": false,
+      "isNewProductValid": false
+    }
+  },
+  "channel": {
+    "id": "500166437",
+    "channelId": "6z7R939suAJyCRu3LkbbZY",
+    "channelUid": "2sWDvsalXjgzZ59L2IetC",
+    "channelServiceType": "STOREFARM",
+    "channelExternalStatusType": "NORMAL",
+    "exhibitionYn": true,
+    "channelName": "브이티코스메틱",
+    "url": "vtcosmetics",
+    "representImageInfoList": [
+      {
+        "imageUrl": "https://shop-phinf.pstatic.net/20200825_161/1598324973526VHKpR_JPEG/35684808057902807_2098280531.jpg",
+        "imageName": "35684808057902807_2098280531.jpg",
+        "imageClass": "STORE_REPRESENTATIVE",
+        "width": 640,
+        "height": 640,
+        "fileSize": 82436,
+        "sortOrder": 0,
+        "representative": false
+      }
+    ],
+    "talkAccountId": "w4u0mn",
+    "talkExposureYn": true,
+    "description": "세계가 사랑한 LIFE BEAUTY, 브이티코스메틱 공식 스토어",
+    "contactInfo": {
+      "displayTelNo": true,
+      "disabledDomesticTelNo": false,
+      "telNo": {
+        "countryCode": "********",
+        "phoneNo": "********",
+        "formattedNumber": "********"
+      },
+      "overseaTelNo": {
+        "countryCode": "********",
+        "phoneNo": "",
+        "formattedNumber": ""
+      },
+      "onlineSales": false,
+      "offlineSales": false
+    },
+    "representType": "DOMESTIC_BUSINESS",
+    "identity": "********",
+    "representName": "(주)브이티코스메틱",
+    "representativeName": "강승곤,정철",
+    "businessType": "CORPORATION",
+    "declaredToOnlineMarkettingNumber": "********",
+    "businessAddressInfo": {
+      "address": "********",
+      "apiType": "********",
+      "basicAddress": "********",
+      "fullAddressInfo": "********",
+      "hasJibunAddress": true,
+      "hasRoadNameAddress": true,
+      "jibunAddress": "********",
+      "latitude": "********",
+      "longitude": "********",
+      "massiveAddress": "",
+      "naverMapCode": "********",
+      "newZipCode": "********",
+      "oldZipCode": "********",
+      "overseas": false,
+      "placeId": "********",
+      "representAddressType": "********",
+      "roadGroupId": "********",
+      "zipCode": "********"
+    },
+    "accountNo": 500166437,
+    "accountId": "vant365xvt",
+    "accountUid": "ncp_2sSEwsP7WT55iMHixvfmE",
+    "mallSeq": 372698,
+    "storeExposureInfo": {
+      "exposureInfo": {
+        "NAVERBLOG": [
+          "vtcosmetics_kr"
+        ],
+        "INSTAGRAM": [
+          "vtcosmetics_official"
+        ]
+      }
+    },
+    "chrgrEmail": "********",
+    "naverPayNo": 500166437,
+    "payReferenceKey": "500166437",
+    "actionGrade": "FIRST",
+    "saleCount": 3364,
+    "naSiteId": "s_361765852350388020",
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20200825_161/1598324973526VHKpR_JPEG/35684808057902807_2098280531.jpg",
+    "additionalImageInfoList": [],
+    "isBusiness": true,
+    "representTelephoneNumber": "********",
+    "isDomesticPhoneNumber": true,
+    "domesticTelephoneNumberReported": false,
+    "isDomesticTelephoneNumberReportable": true,
+    "domesticTelephoneNumberCertified": true,
+    "brandPotentialActions": [
+      "BRAND_STORE",
+      "BRAND_ANALYTICS",
+      "BRAND_TAB",
+      "BRAND_ANALYTICS_PLUS",
+      "BRAND_CATALOG",
+      "AUTHORIZED_MALL"
+    ],
+    "brandStoreName": "브이티코스메틱",
+    "brandUrl": "vtcosmetics",
+    "brandMallSeq": 372698,
+    "brandIds": [
+      "224863"
+    ],
+    "hasAnyLuxuryBrandYn": false,
+    "brandDisplayReinforceYn": true,
+    "blogExposureYn": false,
+    "regularSubscriptionYn": true,
+    "arrivalGuaranteeUseYn": true,
+    "sellerGuaranteeUseYn": false,
+    "brandLoungeName": "VT",
+    "loungeOperateYn": true,
+    "loungeNotifyReceiveAgreeYn": true,
+    "consumerSurveyYn": false,
+    "useAccountLogisticsDeliveryTypes": [
+      "ARRIVAL_GUARANTEE"
+    ],
+    "metaCollaborativeAdsCommerceSolutionYn": true,
+    "brandPackagePremiumYn": true,
+    "affiliateCommerceYn": true,
+    "newShoppingMarketingExposureYn": true,
+    "brandStoreChargeAgreeYn": true,
+    "storeExhibitionType": "BRAND_STORE",
+    "catalogBrandStoreExhibitionYn": false,
+    "adVoostYn": true,
+    "representativeBirthDay": "********",
+    "storeOpenDuration": "오픈 10년된 스토어"
+  },
+  "datalab": {
+    "ratings": [],
+    "ratioFemale": 0,
+    "ratioMale": 0,
+    "sequence": 0,
+    "tag": [],
+    "type": ""
+  },
+  "delivery": {
+    "todayDispatch": null
+  },
+  "detailReviews": {},
+  "embedAuxModalCount": 0,
+  "eventDetails": {},
+  "exhibition": {
+    "exhibitions": [],
+    "exhibition": null,
+    "sections": null,
+    "productsMap": {}
+  },
+  "frequentlyPaidProducts": {
+    "isHeavyUser": false,
+    "items": [],
+    "itemCount": 0,
+    "isLoaded": false
+  },
+  "globalPopupLayer": {
+    "element": null,
+    "executeFunctionAtClose": null,
+    "classNames": null,
+    "overElement": {
+      "element": null,
+      "executeFunctionAtClose": null,
+      "classNames": null
+    },
+    "keepPopupOnPush": false,
+    "isTransparent": null,
+    "importantScrollPosition": false
+  },
+  "gnbTextColor": "BLACK",
+  "header": {
+    "headerHeight": 0
+  },
+  "homeSetting": {
+    "channelNo": 500166437,
+    "widgets": {
+      "gnbWidget": {
+        "visible": true,
+        "order": 0,
+        "type": "GNB",
+        "gnbType": "EXPANSION",
+        "nameType": "LOGO",
+        "textColor": "WHITE",
+        "logo": {
+          "url": "https://shop-phinf.pstatic.net/20240313_25/1710310704345AbH7v_PNG/logo_b.png",
+          "property": "600:80",
+          "width": 600,
+          "height": 80,
+          "originalUrl": "https://shop-phinf.pstatic.net/20240313_25/1710310704345AbH7v_PNG/logo_b.png",
+          "top": 0,
+          "left": 0
+        },
+        "expansionTypeLogo": {
+          "url": "https://shop-phinf.pstatic.net/20240313_284/1710310687199SlPIH_PNG/logo_w.png",
+          "property": "600:80",
+          "width": 600,
+          "height": 80,
+          "originalUrl": "https://shop-phinf.pstatic.net/20240313_284/1710310687199SlPIH_PNG/logo_w.png",
+          "top": 0,
+          "left": 0
+        }
+      },
+      "promotionManageWidget": {
+        "visible": true,
+        "order": 1,
+        "type": "PROMOTION_MANAGE",
+        "generalPromotion": {
+          "displayType": "NORMAL_BIG",
+          "items": [
+            {
+              "id": 12,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260908_87/1788852135086PbuPn_JPEG/%B3%D7%C0%CC%B9%F6_%BB%E7%B3%AA%BE%E0%BB%E7%B0%F8%B1%B8_%B8%DE%C0%CE%B9%E8%B3%CA_MO%28text%29.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260908_87/1788852135086PbuPn_JPEG/%B3%D7%C0%CC%B9%F6_%BB%E7%B3%AA%BE%E0%BB%E7%B0%F8%B1%B8_%B8%DE%C0%CE%B9%E8%B3%CA_MO%28text%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260908_115/17888521430095YxAr_JPEG/%B3%D7%C0%CC%B9%F6_%BB%E7%B3%AA%BE%E0%BB%E7%B0%F8%B1%B8_%B8%DE%C0%CE%B9%E8%B3%CA_PC%28text%29.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260908_115/17888521430095YxAr_JPEG/%B3%D7%C0%CC%B9%F6_%BB%E7%B3%AA%BE%E0%BB%E7%B0%F8%B1%B8_%B8%DE%C0%CE%B9%E8%B3%CA_PC%28text%29.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://brand.naver.com/vtcosmetics/products/13751487225",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 13,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260907_69/1788741523892GYxx0_JPEG/%B3%D7%C0%CC%B9%F6_9%BF%F9_%C3%DF%BC%AE_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_MO.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260907_69/1788741523892GYxx0_JPEG/%B3%D7%C0%CC%B9%F6_9%BF%F9_%C3%DF%BC%AE_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_MO.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260907_47/1788741536736WMQBG_JPEG/%B3%D7%C0%CC%B9%F6_9%BF%F9_%C3%DF%BC%AE_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_PC.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260907_47/1788741536736WMQBG_JPEG/%B3%D7%C0%CC%B9%F6_9%BF%F9_%C3%DF%BC%AE_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_PC.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://brand.naver.com/vtcosmetics/shoppingstory/detail?id=5002916766",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 7,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260722_125/178469784809878U5B_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_MO_01.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260722_125/178469784809878U5B_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_MO_01.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260722_125/1784697955917SsIAX_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_PC_01.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260722_125/1784697955917SsIAX_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_PC_01.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 13590991910,
+              "linkUrl": "https://brand.naver.com/vtcosmetics/shoppingstory/detail?id=5002032403",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 11,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_256/17809836633646d0Dr_JPEG/%C6%DB%B9%D6%BE%DA%C7%C3_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_MO.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_256/17809836633646d0Dr_JPEG/%C6%DB%B9%D6%BE%DA%C7%C3_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_MO.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_151/1780983668908Q4ewL_JPEG/%C6%DB%B9%D6%BE%DA%C7%C3_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_PC.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_151/1780983668908Q4ewL_JPEG/%C6%DB%B9%D6%BE%DA%C7%C3_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_PC.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 11429258581,
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 1,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_129/1780983542810wHSFj_JPEG/%B8%AE%B5%E9%BC%A6_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_MO.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_129/1780983542810wHSFj_JPEG/%B8%AE%B5%E9%BC%A6_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_MO.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_106/1780983548406acC9g_JPEG/%B8%AE%B5%E9%BC%A6_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_PC.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_106/1780983548406acC9g_JPEG/%B8%AE%B5%E9%BC%A6_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_PC.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "URL",
+              "linkUrl": "https://brand.naver.com/vtcosmetics/category/da2057a7ec824bb58eb4ef5d15742b03?cp=1",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "BLACK_BOX",
+              "firstButton": {
+                "text": "자세히 보기",
+                "urlLink": "https://smartstore.naver.com/vtcosmetics/category/da2057a7ec824bb58eb4ef5d15742b03?cp=1"
+              },
+              "secondButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_3",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 2,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_297/1780983637017MHiG5_JPEG/%C5%A9%B6%F3%C0%CC%BF%C0%BD%BA%C5%B2%C6%D1_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_MO.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_297/1780983637017MHiG5_JPEG/%C5%A9%B6%F3%C0%CC%BF%C0%BD%BA%C5%B2%C6%D1_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_MO.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_76/1780983644422zzUu5_JPEG/%C5%A9%B6%F3%C0%CC%BF%C0%BD%BA%C5%B2%C6%D1_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_PC.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_76/1780983644422zzUu5_JPEG/%C5%A9%B6%F3%C0%CC%BF%C0%BD%BA%C5%B2%C6%D1_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_PC.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 12153461581,
+              "linkUrl": "https://brand.naver.com/vtcosmetics/shoppingstory/detail?id=5002025513",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_BOX",
+              "firstButton": {
+                "text": "자세히 보기",
+                "urlLink": "https://smartstore.naver.com/vtcosmetics/search?q=%EC%8B%9C%EB%84%88%EC%A7%80%20%EB%A6%AC%ED%8E%98%EC%96%B4%20%ED%81%AC%EB%A6%BC"
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_2",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 14,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260722_45/1784697882316soWRf_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_MO_03.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260722_45/1784697882316soWRf_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_MO_03.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260722_278/1784697888730PasPu_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_PC_03.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260722_278/1784697888730PasPu_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_PC_03.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 11862830318,
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 10,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_267/1780983499569fAzYh_JPEG/%B7%B9%C6%BC%BF%A1%C0%CC%BF%A1%BC%BE%BD%BA_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_MO.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_267/1780983499569fAzYh_JPEG/%B7%B9%C6%BC%BF%A1%C0%CC%BF%A1%BC%BE%BD%BA_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_MO.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260609_114/178098351113615ln1_JPEG/%B7%B9%C6%BC%BF%A1%C0%CC%BF%A1%BC%BE%BD%BA_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_PC.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260609_114/178098351113615ln1_JPEG/%B7%B9%C6%BC%BF%A1%C0%CC%BF%A1%BC%BE%BD%BA_%B3%D7%C0%CC%B9%F6_%B8%DE%C0%CE%B9%E8%B3%CA_PC.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "BLACK",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 9439920237,
+              "linkUrl": "https://brand.naver.com/vtcosmetics/shoppingstory/detail?id=5002348001",
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            },
+            {
+              "id": 15,
+              "visible": true,
+              "mobileImage": {
+                "url": "https://shop-phinf.pstatic.net/20260722_265/1784697978143WjkTv_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_MO_02.jpg",
+                "property": "750:1308",
+                "width": 750,
+                "height": 1308,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260722_265/1784697978143WjkTv_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_MO_02.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "pcImage": {
+                "url": "https://shop-phinf.pstatic.net/20260722_260/1784697983964B2BXm_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_PC_02.jpg",
+                "property": "1920:860",
+                "width": 1920,
+                "height": 860,
+                "originalUrl": "https://shop-phinf.pstatic.net/20260722_260/1784697983964B2BXm_JPEG/%B3%D7%C0%CC%B9%F6_7%BF%F9_ADP_%B1%E2%C8%B9%C0%FC_%BD%BA%C5%E4%BE%EE%BB%F3%B4%DC_PC_02.jpg",
+                "top": 0,
+                "left": 0
+              },
+              "imageRegistrationType": "NORMAL",
+              "singleSourceMobileImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "singleSourcePcImage": {
+                "url": "",
+                "property": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "imageDimType": "NONE",
+              "textColor": "WHITE",
+              "title": "",
+              "description": "",
+              "linkType": "PRODUCT",
+              "productNo": 13623241873,
+              "buttonUsageType": "NONE",
+              "buttonDesignType": "WHITE_LINE",
+              "firstButton": {
+                "text": "자세히보기",
+                "urlLink": ""
+              },
+              "secondButton": {
+                "text": "사전예약하기",
+                "urlLink": ""
+              },
+              "verticalAlign": "BOTTOM",
+              "horizontalAlign": "LEFT",
+              "titleTextSize": "TITLE_LEVEL_4",
+              "contentTextSize": "CONTENT_LEVEL_3"
+            }
+          ]
+        },
+        "advancedPromotion": {
+          "mainItem": {
+            "type": "VIDEO",
+            "lookBookConfig": {
+              "lookBookStyle": "NORMAL",
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "frame": "IMAGE",
+              "backgroundColor": "#000000",
+              "newLabelType": "SQUARE",
+              "newLabelColor": "#000000",
+              "newLabelTextColor": "WHITE",
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "mobileImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "mobileImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "pcImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "pcImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageRegistrationType": "NORMAL",
+                  "singleSourceMobileImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "singleSourcePcImage1": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageDimType1": "NONE",
+                  "singleSourceMobileImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "singleSourcePcImage2": {
+                    "url": "",
+                    "width": 0,
+                    "height": 0,
+                    "originalUrl": "",
+                    "top": 0,
+                    "left": 0
+                  },
+                  "imageDimType2": "NONE",
+                  "lookBookLinkType1": "PROMOTION_PAGE",
+                  "lookBookLinkType2": "PROMOTION_PAGE",
+                  "periodDisplayLinked": false,
+                  "title": "잘 만든 룩북",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 컨셉 또는 특장점을 풀어보세요.",
+                  "titleDescriptionColor": "WHITE",
+                  "strongTitleMode": "NONE",
+                  "titleDescriptionVerticalAlign": "BOTTOM",
+                  "titleDescriptionHorizontalAlign": "LEFT",
+                  "titleTextSize": "TITLE_LEVEL_4",
+                  "contentTextSize": "CONTENT_LEVEL_3"
+                }
+              ]
+            },
+            "videoConfig": {
+              "mobileVideo": {
+                "directory": "/shopnseller_2025_12_24_1660",
+                "vid": "EC5B4886B691CAC06B4557707F7CE007402B",
+                "width": 1080,
+                "height": 1920,
+                "name": "p84FXC92WN_03.jpg",
+                "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2025_12_24_1660/p84FXC92WN_03.jpg",
+                "size": 148945123,
+                "duration": 46
+              },
+              "pcVideo": {
+                "directory": "/shopnseller_2025_12_24_1498",
+                "vid": "757B4311AF27910CBDE6A335DBF88441F680",
+                "width": 1920,
+                "height": 1080,
+                "name": "zO0DA31iPS_03.jpg",
+                "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2025_12_24_1498/zO0DA31iPS_03.jpg",
+                "size": 618969141,
+                "duration": 45
+              },
+              "videoStyle": "FRAME",
+              "videoFit": "VIDEO",
+              "playerMode": "AUTO_PLAY",
+              "simpleDescriptionFont": "DEFAULT",
+              "simpleDescriptionSize": "BASIC",
+              "simpleDescription": "",
+              "isProductDisplay": true,
+              "productNos": [
+                8339736410,
+                8339736573,
+                9476198921,
+                11862830318,
+                11330343437,
+                8339736703
+              ],
+              "titleDescriptionFont": "DEFAULT",
+              "titleDescriptionSize": "BASIC",
+              "titleDescriptionAlign": "LEFT",
+              "titleDescriptionColor": "WHITE",
+              "title": "제목을 입력하세요.",
+              "description": "동영상이 어떤 컨셉, 주제, 목적 등을\n담고 있는지 설명할 수 있습니다."
+            },
+            "liveConfig": {
+              "style": "VIDEO",
+              "playerMode": "MANUAL_PLAY",
+              "backgroundColor": "#000000",
+              "logoColor": "WHITE",
+              "textFont": "DEFAULT",
+              "textSize": "BASIC",
+              "textColor": "WHITE"
+            },
+            "benefitConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "benefitType": "COUPON_POINT",
+                  "couponPointConfig": {
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "신상품 할인 쿠폰",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "productSelectionType": "AUTO",
+                    "productNos": []
+                  },
+                  "giftConfig": {
+                    "giftType": "PRODUCT",
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "사은품 증정 이벤트",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "labelColor": "#000000",
+                    "labelTextColor": "WHITE",
+                    "giftDescription": "이벤트 내용을 입력하세요.",
+                    "giftDescriptionColor": "WHITE",
+                    "periodExposure": false,
+                    "productNos": []
+                  }
+                },
+                {
+                  "id": 2,
+                  "visible": true,
+                  "benefitType": "GIFT",
+                  "couponPointConfig": {
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "신상품 할인 쿠폰",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "productSelectionType": "AUTO",
+                    "productNos": []
+                  },
+                  "giftConfig": {
+                    "giftType": "PRODUCT",
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "사은품 증정 이벤트",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "labelColor": "#000000",
+                    "labelTextColor": "WHITE",
+                    "giftDescription": "이벤트 내용을 입력하세요.",
+                    "giftDescriptionColor": "WHITE",
+                    "periodExposure": false,
+                    "productNos": []
+                  }
+                }
+              ]
+            },
+            "preOrderConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "visible": true,
+                  "id": 1,
+                  "ddayExposureType": "PLANE",
+                  "preOrderItemStyle": "FULL",
+                  "backGroundColor": "#000000",
+                  "title": "사전 예약구매",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여 예약구매 상품에 대해 홍보해보세요.",
+                  "titleDescriptionFontHorizontalAlign": "CENTER",
+                  "titleDescriptionFontVerticalAlign": "BOTTOM",
+                  "titleDescriptionFontColor": "WHITE"
+                }
+              ]
+            },
+            "reviewEventConfig": {
+              "imageSize": "LARGE",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "DEFAULT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "backgroundConfig": {
+                    "style": "COLOR_THEME",
+                    "color": "#000000"
+                  },
+                  "titleDescriptionColor": "WHITE",
+                  "title": "리뷰 이벤트",
+                  "description": "이미지 위의 오버레이 텍스트를 활용하여 리뷰 이벤트에 대해 홍보해보세요.",
+                  "productSelectionType": "AUTO",
+                  "productNos": []
+                }
+              ]
+            }
+          },
+          "customItem1": {
+            "id": 1,
+            "visible": false,
+            "order": 1,
+            "type": "BENEFIT",
+            "benefitConfig": {
+              "imageSize": "SMALL",
+              "itemSortMode": "REGISTRATION",
+              "textConfig": {
+                "textFont": "MONSTSERRAT",
+                "textSize": "BASIC"
+              },
+              "items": [
+                {
+                  "id": 1,
+                  "visible": true,
+                  "benefitType": "COUPON_POINT",
+                  "couponPointConfig": {
+                    "benefitKey": 43528003,
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#ffffff"
+                    },
+                    "title": "BACK TO\nMY ROUTINE",
+                    "description": "",
+                    "titleDescriptionColor": "BLACK",
+                    "productSelectionType": "MANUAL",
+                    "productNos": []
+                  },
+                  "giftConfig": {
+                    "giftType": "PRODUCT",
+                    "backgroundConfig": {
+                      "style": "COLOR_THEME",
+                      "color": "#000000"
+                    },
+                    "title": "사은품 증정 이벤트",
+                    "description": "이미지 위의 오버레이 텍스트를 활용하여\n신제품 전용 혜택에 대해 홍보해보세요.",
+                    "titleDescriptionColor": "WHITE",
+                    "labelColor": "#000000",
+                    "labelTextColor": "WHITE",
+                    "giftDescription": "이벤트 내용을 입력하세요.",
+                    "giftDescriptionColor": "WHITE",
+                    "periodExposure": false,
+                    "productNos": []
+                  }
+                }
+              ]
+            }
+          },
+          "customItem2": {
+            "id": 2,
+            "visible": true,
+            "order": 99
+          }
+        },
+        "promotionType": "GENERAL"
+      },
+      "marketingLayerWidget": {
+        "visible": true,
+        "order": 2,
+        "type": "MARKETING_LAYER",
+        "marketingLayerType": "MAIN_PRODUCT",
+        "mainProductMarketingLayer": {
+          "productNos": [
+            8339736410,
+            9476198921,
+            8339736573,
+            11862830318,
+            8339736703,
+            11867506375
+          ],
+          "title": "VT X 올데이 프로젝트",
+          "periodDisplay": false,
+          "periodDisplayStartDate": "1970-01-01T00:00:00Z",
+          "periodDisplayEndDate": "1970-01-01T00:00:00Z"
+        },
+        "promotionMarketingLayer": {
+          "title": "트러블 피부 진정 케어",
+          "description": "갈릭 리들샷 ~50%",
+          "linkType": "URL",
+          "mappingUrl": "https://brand.naver.com/vtcosmetics/shoppingstory/detail?id=5002146286",
+          "periodDisplay": false
+        }
+      },
+      "timeSaleProductWidget": {
+        "visible": false,
+        "order": 3,
+        "type": "TIME_SALE_PRODUCT",
+        "timeSaleDisplayStyle": "HIGHLIGHT",
+        "titleSettings": {
+          "title": "오늘 끝딜 ⚡",
+          "subTitle": "딱 24시간 하루 혜택1!"
+        },
+        "topBannerSettings": {
+          "useTopBanner": true,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "timeSaleStartDate": "2026-09-09T02:00:00Z",
+        "timeSaleEndDate": "2026-09-10T01:59:00Z",
+        "displayStartDay": "TIME_SALE_START_DAY",
+        "displaySizeType": "LARGE",
+        "viewType": "SWIPING",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": false,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": false,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "제품 자세히 보기",
+          "linkType": "SHOPPING_STORY",
+          "mappingShoppingStoryId": 5002146286
+        },
+        "productNos": [
+          13675149916
+        ],
+        "displayCount": 6
+      },
+      "customProductWidget3": {
+        "visible": true,
+        "movable": true,
+        "order": 4,
+        "type": "CUSTOM_PRODUCT",
+        "titleSettings": {
+          "title": "VT X 9월 슈퍼적립💜",
+          "subTitle": "추가 적립금을 확인하세요!"
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "V_RECT",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "productNos": [
+          12153461581,
+          11429258581,
+          11425224508,
+          11425254761,
+          9439893964,
+          13662690778,
+          13590968676,
+          11427602703,
+          9439920237,
+          5249928943,
+          13590991910,
+          13532765631,
+          13623241873,
+          9439946993
+        ],
+        "displayCount": 12
+      },
+      "benefitBannerWidget": {
+        "visible": true,
+        "order": 5,
+        "type": "BENEFIT_BANNER",
+        "displayStyle": "SIMPLE"
+      },
+      "shoppingStoryWidget": {
+        "visible": true,
+        "order": 6,
+        "type": "SHOPPING_STORY",
+        "shoppingStoryType": "MAGAZINE",
+        "titleSettings": {
+          "title": "EVENT",
+          "subTitle": ""
+        },
+        "selectType": "AUTO",
+        "shoppingStoryIds": [
+          5002395423
+        ]
+      },
+      "videoWidget4": {
+        "visible": true,
+        "movable": true,
+        "order": 7,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "☁️ Air Cloud ☁️",
+          "subTitle": "가벼움의 선(SUN)을 넘다"
+        },
+        "playerModeType": "AUTO_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2026_07_22_2269",
+          "vid": "F949B79DDC6208374271185158158FA1F14E",
+          "width": 1920,
+          "height": 1080,
+          "name": "WfGiRCCaPZ_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2026_07_22_2269/WfGiRCCaPZ_03.jpg",
+          "size": 291262676,
+          "duration": 53
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2026_07_22_1441",
+          "vid": "1C7FA71578EA39365E9305434E8F952FC340",
+          "width": 1920,
+          "height": 1080,
+          "name": "bLMxLxWhLr_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2026_07_22_1441/bLMxLxWhLr_03.jpg",
+          "size": 291262676,
+          "duration": 53
+        }
+      },
+      "customProductWidget4": {
+        "visible": true,
+        "movable": true,
+        "order": 8,
+        "type": "CUSTOM_PRODUCT",
+        "titleSettings": {
+          "title": "",
+          "subTitle": "바르지 않은 듯 가볍고  산뜻하게 "
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "V_RECT",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "productNos": [
+          13590991910,
+          13623241873,
+          13590968676
+        ],
+        "displayCount": 12
+      },
+      "videoWidget3": {
+        "visible": false,
+        "movable": true,
+        "order": 9,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "글루카뮨",
+          "subTitle": ""
+        },
+        "playerModeType": "AUTO_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2025_02_28_1163",
+          "vid": "E5CF75B7C16D2F5CA5C2693FC12A4E395EB3",
+          "width": 1920,
+          "height": 1080,
+          "name": "ntMJnC5aAX_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2025_02_28_1163/ntMJnC5aAX_03.jpg",
+          "size": 25813384,
+          "duration": 15
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2025_02_28_764",
+          "vid": "36FAD3F84F3747A826D103C3762740BCFB47",
+          "width": 1920,
+          "height": 1080,
+          "name": "7Ki06yRjxc_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2025_02_28_764/7Ki06yRjxc_03.jpg",
+          "size": 25813384,
+          "duration": 15
+        }
+      },
+      "customBannerWidget1": {
+        "visible": false,
+        "movable": true,
+        "order": 10,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "SMALL",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20240430_185/1714466994978Yg0xq_JPEG/%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_5%BF%F9%B1%B8%B8%C5%B1%DD%BE%D7_%B6%EC%B9%E8%B3%CA_MO.jpg",
+              "property": "750:470",
+              "width": 750,
+              "height": 470,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240430_185/1714466994978Yg0xq_JPEG/%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_5%BF%F9%B1%B8%B8%C5%B1%DD%BE%D7_%B6%EC%B9%E8%B3%CA_MO.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20240430_55/1714467004291rdjmS_JPEG/%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_5%BF%F9%B1%B8%B8%C5%B1%DD%BE%D7_%B6%EC%B9%E8%B3%CA_PC.jpg",
+              "property": "1920:500",
+              "width": 1920,
+              "height": 500,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240430_55/1714467004291rdjmS_JPEG/%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_5%BF%F9%B1%B8%B8%C5%B1%DD%BE%D7_%B6%EC%B9%E8%B3%CA_PC.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://brand.naver.com/vtcosmetics/shoppingstory/detail?id=5001216750&page=1",
+            "textColor": "BLACK",
+            "title": "5월 구매금액 사은품",
+            "description": "24.05.01 - 05.31",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "bestProductWidget": {
+        "visible": true,
+        "order": 11,
+        "type": "BEST_PRODUCT",
+        "titleSettings": {
+          "title": "BEST",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "bestProductExposureType": "ALL",
+        "defaultAggregationType": "REALTIME",
+        "selectedAggregationType": "REALTIME",
+        "aggregationType": "DAILY",
+        "displayCount": 12
+      },
+      "newProductWidget": {
+        "visible": true,
+        "order": 12,
+        "type": "NEW_PRODUCT",
+        "titleSettings": {
+          "title": "신상품",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": false,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "displayCount": 12
+      },
+      "customProductWidget": {
+        "visible": true,
+        "order": 13,
+        "type": "CUSTOM_PRODUCT",
+        "titleSettings": {
+          "title": "쿨케어 팩 패드💦",
+          "subTitle": "SKIN PACK"
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "V_RECT",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "productNos": [
+          12153461581,
+          11427602703,
+          11425254761,
+          11425224508,
+          13675149916,
+          13674976467
+        ],
+        "displayCount": 12
+      },
+      "categoryQuickLinkWidget": {
+        "visible": false,
+        "order": 14,
+        "type": "CATEGORY_QUICKLINK",
+        "titleSettings": {
+          "title": "",
+          "subTitle": ""
+        },
+        "showType": "IMAGE_TEXT",
+        "displaySizeType": "MEDIUM",
+        "quickLinks": [
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "da2057a7ec824bb58eb4ef5d15742b03",
+            "title": "리들샷 오리지널",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20240313_144/1710318416886qzLMt_JPEG/C4ABC5D7B0EDB8AE_C4FC_B8B5C5A9_01.jpg",
+              "property": "1413:1413",
+              "width": 1413,
+              "height": 1413,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240313_120/1710318411299IHYVo_JPEG/%C4%AB%C5%D7%B0%ED%B8%AE_%C4%FC_%B8%B5%C5%A9_01.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "d6ff02b7f58f4ab78db02e6e16dfc8c3",
+            "title": "피디알엔",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20240627_16/17194586632744kuLc_JPEG/%C4%AB%C5%D7%B0%ED%B8%AE-%C4%FC-%B8%B5%C5%A9_05.jpg",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240627_16/17194586632744kuLc_JPEG/%C4%AB%C5%D7%B0%ED%B8%AE-%C4%FC-%B8%B5%C5%A9_05.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "fa7a2ffac21f48c9be81d8db43397576",
+            "title": "티엑스토닝",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20240827_236/1724719166191Kwtso_JPEG/240827_%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_%C4%AB%C5%D7%B0%ED%B8%AE%C4%FC%B8%B5%C5%A9_TX.jpg",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240827_236/1724719166191Kwtso_JPEG/240827_%BD%BA%B8%B6%C6%AE%BD%BA%C5%E4%BE%EE_%C4%AB%C5%D7%B0%ED%B8%AE%C4%FC%B8%B5%C5%A9_TX.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "02387418290347b29dedf47c56c8921c",
+            "title": "리들샷 시너지",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20240313_169/1710318428986tISyG_JPEG/C4ABC5D7B0EDB8AE_C4FC_B8B5C5A9_02.jpg",
+              "property": "1414:1414",
+              "width": 1414,
+              "height": 1414,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240313_72/1710318423837Hv7RJ_JPEG/%C4%AB%C5%D7%B0%ED%B8%AE_%C4%FC_%B8%B5%C5%A9_02.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "e5475dac857942af9a6f9f7f5cf33c99",
+            "title": "리들샷 리프팅",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20240313_217/1710318440292nfKCR_JPEG/C4ABC5D7B0EDB8AE_C4FC_B8B5C5A9_03.jpg",
+              "property": "1414:1414",
+              "width": 1414,
+              "height": 1414,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240313_52/17103184359909LdOR_JPEG/%C4%AB%C5%D7%B0%ED%B8%AE_%C4%FC_%B8%B5%C5%A9_03.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          },
+          {
+            "categoryType": "DISPLAY",
+            "categoryId": "ae8d55abd56d40a89449247d455127c9",
+            "title": "리들샷 비타-라이트",
+            "textImage": {
+              "url": "https://shop-phinf.pstatic.net/20240326_210/1711434966048LM4E7_JPEG/%C4%AB%C5%D7%B0%ED%B8%AE_%C4%FC_%B8%B5%C5%A9_04.jpg",
+              "property": "678:678",
+              "width": 678,
+              "height": 678,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240326_210/1711434966048LM4E7_JPEG/%C4%AB%C5%D7%B0%ED%B8%AE_%C4%FC_%B8%B5%C5%A9_04.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "logoImage": {}
+          }
+        ]
+      },
+      "videoWidget2": {
+        "visible": false,
+        "movable": true,
+        "order": 15,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "TX-토닝",
+          "subTitle": ""
+        },
+        "playerModeType": "AUTO_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2024_08_26_25",
+          "vid": "F214E763C4896E2FDEC3E19CDE83643592A8",
+          "width": 1920,
+          "height": 1080,
+          "name": "gOY7qCl82X_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2024_08_26_25/gOY7qCl82X_03.jpg",
+          "size": 99258094,
+          "duration": 31
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2024_08_26_15",
+          "vid": "B4BAB9420E422B7DAE2564BAEDD96BED6A22",
+          "width": 1920,
+          "height": 1080,
+          "name": "uzeMqs0Gtg_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2024_08_26_15/uzeMqs0Gtg_03.jpg",
+          "size": 99258094,
+          "duration": 31
+        }
+      },
+      "customProductWidget2": {
+        "visible": false,
+        "movable": true,
+        "order": 16,
+        "type": "CUSTOM_PRODUCT",
+        "titleSettings": {
+          "title": "",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "V_RECT",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "productNos": [
+          10712566755,
+          10712912716,
+          10713015382,
+          10712989398,
+          10712878788,
+          10712875878
+        ],
+        "displayCount": 12
+      },
+      "customBannerWidget": {
+        "visible": false,
+        "order": 17,
+        "type": "CUSTOM_BANNER",
+        "viewType": "SWIPING",
+        "bannerShapeType": "WIDE",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "https://shop-phinf.pstatic.net/20240313_31/1710311831111XAh4T_JPEG/MO_%B6%EC%B9%E8%B3%CA.jpg",
+              "property": "750:180",
+              "width": 750,
+              "height": 180,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240313_31/1710311831111XAh4T_JPEG/MO_%B6%EC%B9%E8%B3%CA.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "pcImage": {
+              "url": "https://shop-phinf.pstatic.net/20240313_27/1710311838040aD9Ds_JPEG/PC_%B6%EC%B9%E8%B3%CA.jpg",
+              "property": "1920:170",
+              "width": 1920,
+              "height": 170,
+              "originalUrl": "https://shop-phinf.pstatic.net/20240313_27/1710311838040aD9Ds_JPEG/PC_%B6%EC%B9%E8%B3%CA.jpg",
+              "top": 0,
+              "left": 0
+            },
+            "linkType": "URL",
+            "linkUrl": "https://smartstore.naver.com/vtcosmetics/review-event/list?cp=1",
+            "textColor": "WHITE",
+            "title": "",
+            "description": "",
+            "buttonUsageType": "NONE",
+            "buttonDesignType": "WHITE_LINE",
+            "firstButton": {
+              "text": "자세히보기",
+              "urlLink": ""
+            },
+            "secondButton": {
+              "text": "자세히보기",
+              "urlLink": ""
+            },
+            "verticalAlign": "BOTTOM",
+            "horizontalAlign": "LEFT"
+          }
+        ]
+      },
+      "bestReviewWidget": {
+        "visible": true,
+        "order": 18,
+        "type": "BEST_REVIEW",
+        "titleSettings": {
+          "title": "REVIEW",
+          "subTitle": ""
+        },
+        "reviewType": "REVIEW",
+        "productNos": [
+          8339736410,
+          9476198921,
+          9475648816,
+          5745434792,
+          8339736703
+        ],
+        "selectType": "AUTO"
+      },
+      "exhibitionBannerWidget": {
+        "visible": false,
+        "order": 19,
+        "type": "EXHIBIT_BANNER",
+        "selectType": "AUTO",
+        "viewType": "SWIPING",
+        "bannerShapeType": "LARGE",
+        "banners": []
+      },
+      "videoWidget": {
+        "visible": true,
+        "order": 20,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "REEDLE SHOT",
+          "subTitle": ""
+        },
+        "playerModeType": "AUTO_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2024_03_15_1",
+          "vid": "25EFCA3E9711AA32260924E10033CB9032CF",
+          "width": 1920,
+          "height": 1080,
+          "name": "94c0e0b1-e285-11ee-a58b-b4055dcfbc7f_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2024_03_15_1/94c0e0b1-e285-11ee-a58b-b4055dcfbc7f_03.jpg",
+          "size": 72809722,
+          "duration": 29
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2024_03_15_16",
+          "vid": "2D20AE1CE886D78022C4528E2FCBA8005B17",
+          "width": 1920,
+          "height": 1080,
+          "name": "93283f50-e285-11ee-a58b-b4055dcfbc7f_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2024_03_15_16/93283f50-e285-11ee-a58b-b4055dcfbc7f_03.jpg",
+          "size": 72809722,
+          "duration": 29
+        }
+      },
+      "categoryProductWidget": {
+        "visible": true,
+        "order": 21,
+        "type": "CATEGORY_PRODUCT",
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "V_RECT",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "sortType": "SELL_COUNT_DESC",
+        "categoryDisplayProps": [
+          {
+            "categoryId": "da2057a7ec824bb58eb4ef5d15742b03",
+            "titleSettings": {
+              "title": "VT 피부 관리 공식",
+              "subTitle": " - 리들샷 오리지널 -"
+            },
+            "topBannerSettings": {
+              "useTopBanner": false,
+              "pcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "mobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "useImageDim": true,
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": ""
+            },
+            "shortcutButtonSettings": {
+              "useShortcutButton": false,
+              "buttonName": "전체보기",
+              "linkType": "CATEGORY"
+            },
+            "displayCount": 12,
+            "categoryType": "DISPLAY"
+          },
+          {
+            "categoryId": "d6ff02b7f58f4ab78db02e6e16dfc8c3",
+            "titleSettings": {
+              "title": "수분 광채 피부 완성",
+              "subTitle": "- 피디알엔 라인 -"
+            },
+            "topBannerSettings": {
+              "useTopBanner": false,
+              "pcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "mobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "useImageDim": true,
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": ""
+            },
+            "shortcutButtonSettings": {
+              "useShortcutButton": false,
+              "buttonName": "전체보기",
+              "linkType": "CATEGORY"
+            },
+            "displayCount": 12,
+            "categoryType": "DISPLAY"
+          },
+          {
+            "categoryId": "f8fdd54e0951450cb0528ef634194d22",
+            "titleSettings": {
+              "title": "피부 고민 맞춤형 앰플",
+              "subTitle": "- 시카 엑소좀 라인 -"
+            },
+            "topBannerSettings": {
+              "useTopBanner": false,
+              "pcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "mobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "useImageDim": true,
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": ""
+            },
+            "shortcutButtonSettings": {
+              "useShortcutButton": false,
+              "buttonName": "전체보기",
+              "linkType": "CATEGORY"
+            },
+            "displayCount": 12,
+            "categoryType": "DISPLAY"
+          },
+          {
+            "categoryId": "7cca4de2ed06458684212fbcf95ed6c5",
+            "titleSettings": {
+              "title": "고함량 모공 케어 에센스",
+              "subTitle": "- 시카 레티-에이 라인 -"
+            },
+            "topBannerSettings": {
+              "useTopBanner": false,
+              "pcImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "mobileImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              },
+              "useImageDim": true,
+              "useAltText": false,
+              "altTextTitle": "",
+              "altTextDescription": ""
+            },
+            "shortcutButtonSettings": {
+              "useShortcutButton": false,
+              "buttonName": "전체보기",
+              "linkType": "CATEGORY"
+            },
+            "displayCount": 12,
+            "categoryType": "DISPLAY"
+          }
+        ]
+      },
+      "videoWidget1": {
+        "visible": false,
+        "movable": true,
+        "order": 22,
+        "type": "VIDEO",
+        "titleSettings": {
+          "title": "VITA-LIGHT",
+          "subTitle": ""
+        },
+        "playerModeType": "AUTO_PLAY",
+        "pcVideo": {
+          "directory": "/shopnseller_2024_03_28_15",
+          "vid": "D95720DAA23F6D2F2765B915120ECAA4C9CF",
+          "width": 1920,
+          "height": 1080,
+          "name": "fcd964d8-ecc2-11ee-957e-b4055da54aa7_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2024_03_28_15/fcd964d8-ecc2-11ee-957e-b4055da54aa7_03.jpg",
+          "size": 29147903,
+          "duration": 29
+        },
+        "mobileVideo": {
+          "directory": "/shopnseller_2024_03_28_0",
+          "vid": "6222AAF244528714F021955B677C4B8B7FA2",
+          "width": 1920,
+          "height": 1080,
+          "name": "22e980ec-ecc3-11ee-9b6a-a0369ffda1cc_03.jpg",
+          "url": "https://phinf.pstatic.net/image.nmv/shopnseller_2024_03_28_0/22e980ec-ecc3-11ee-9b6a-a0369ffda1cc_03.jpg",
+          "size": 29147903,
+          "duration": 29
+        }
+      },
+      "customProductWidget1": {
+        "visible": false,
+        "movable": true,
+        "order": 23,
+        "type": "CUSTOM_PRODUCT",
+        "titleSettings": {
+          "title": "",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "SWIPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "V_RECT",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "productNos": [
+          10133661408,
+          10133210181,
+          10133199229,
+          10097482520,
+          10133781175,
+          10133762532,
+          11382347593,
+          11044027058,
+          10139682301,
+          10139243398
+        ],
+        "displayCount": 12
+      },
+      "brandDescriptionWidget": {
+        "visible": true,
+        "order": 24,
+        "type": "BRAND_DESCRIPTION",
+        "brandDescriptionType": "COLOR",
+        "brandNameType": "LOGO",
+        "textColor": "WHITE",
+        "mobileBackgroundImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "pcBackgroundImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "brandNameLogoImage": {
+          "url": "https://shop-phinf.pstatic.net/20240311_284/1710125719500P7awK_PNG/VT-logo%28W%29.png",
+          "property": "400:100",
+          "width": 400,
+          "height": 100,
+          "originalUrl": "https://shop-phinf.pstatic.net/20240311_284/1710125719500P7awK_PNG/VT-logo%28W%29.png",
+          "top": 0,
+          "left": 0
+        },
+        "mobileContent": "브이티코스메틱",
+        "pcContent": "브이티코스메틱"
+      },
+      "relationProductWidget": {
+        "visible": false,
+        "order": 25,
+        "type": "RELATION_PRODUCT",
+        "titleSettings": {
+          "title": "ㅇㄹㄷㄹㄴ",
+          "subTitle": ""
+        },
+        "selectType": "MANUAL",
+        "viewType": "SWIPING",
+        "relationProductNos": []
+      },
+      "wholeProductWidget": {
+        "visible": true,
+        "order": 26,
+        "type": "WHOLE_PRODUCT",
+        "titleSettings": {
+          "title": "전체상품",
+          "subTitle": ""
+        },
+        "topBannerSettings": {
+          "useTopBanner": false,
+          "pcImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "mobileImage": {
+            "url": "",
+            "width": 0,
+            "height": 0,
+            "originalUrl": "",
+            "top": 0,
+            "left": 0
+          },
+          "useImageDim": true,
+          "useAltText": false,
+          "altTextTitle": "",
+          "altTextDescription": ""
+        },
+        "viewType": "DROPPING",
+        "displaySizeType": "MEDIUM",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": true,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "sortType": "REVIEW_COUNT_DESC",
+        "displayCount": 50
+      },
+      "couponPointProductWidget": {
+        "visible": true,
+        "order": 27,
+        "type": "COUPON_POINT_PRODUCT",
+        "titleSettings": {
+          "title": "쿠폰 혜택 상품",
+          "subTitle": ""
+        },
+        "displaySizeType": "MEDIUM",
+        "viewType": "SWIPING",
+        "thumbnailShapeType": "SQUARE",
+        "brandProductProp": {
+          "brandNameExposure": true,
+          "productNameExposure": true,
+          "priceExposure": true,
+          "discountRateExposure": true,
+          "reviewValueExposure": true,
+          "reviewCountExposure": true,
+          "standardOptionExposure": true,
+          "officialSellerBenefitExposure": true
+        },
+        "shortcutButtonSettings": {
+          "useShortcutButton": false,
+          "buttonName": "전체보기",
+          "linkType": "CATEGORY"
+        },
+        "selectType": "AUTO",
+        "productNos": []
+      },
+      "footerWidget": {
+        "visible": true,
+        "order": 28,
+        "type": "FOOTER",
+        "pcImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "mobileImage": {
+          "url": "",
+          "width": 0,
+          "height": 0,
+          "originalUrl": "",
+          "top": 0,
+          "left": 0
+        },
+        "useAltText": false,
+        "altTextTitle": "",
+        "altTextDescription": ""
+      }
+    },
+    "hasFreeReturnInsuranceProduct": false,
+    "isLoading": false,
+    "isSaving": false,
+    "error": null
+  },
+  "interestProductRemind": {
+    "remindType": null
+  },
+  "isEmbedStorePromotionPage": false,
+  "isPreview": false,
+  "keepStore": {
+    "count": 0,
+    "kept": null,
+    "newsInterlock": null
+  },
+  "keptCatalogs": {},
+  "keptProducts": {},
+  "keptRelationProducts": {},
+  "keywordSearch": {
+    "keyword": null,
+    "normalizedKeywordInfo": {
+      "originQuery": "",
+      "normalizedKeyword": ""
+    },
+    "sort": null,
+    "listDisplayType": null,
+    "simpleProducts": [],
+    "simpleCatalogs": [],
+    "totalCount": 0,
+    "page": 1,
+    "pageSize": 20,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "querySummaryInfo": {
+      "isQR": null,
+      "isPartialSearch": null,
+      "orgQueryTotal": null
+    }
+  },
+  "layoutStatus": {
+    "isActiveStoreTopBanner": false
+  },
+  "logisticsProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "sort": null,
+    "listDisplayType": null,
+    "page": 1,
+    "pageSize": 40,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "loungeBenefit": [],
+  "loungeConfig": {
+    "channelNo": 0,
+    "join": {
+      "additionalInfoPageEnabled": true
+    },
+    "home": {
+      "widgets": {
+        "gradeWidget": {
+          "type": "GRADE",
+          "visible": true,
+          "order": 1
+        },
+        "noticeWidget": {
+          "type": "NOTICE",
+          "visible": true,
+          "order": 2
+        },
+        "benefitWidget": {
+          "type": "BENEFIT",
+          "visible": true,
+          "order": 3
+        },
+        "storyWidget": {
+          "type": "STORY",
+          "visible": true,
+          "order": 4
+        }
+      }
+    }
+  },
+  "loungeJoin": {
+    "externalProvisions": null,
+    "externalProvision": null,
+    "collectedItems": null,
+    "reportedItemIds": []
+  },
+  "loungeMember": {
+    "sellerNo": null,
+    "memberIdNo": null,
+    "memberId": null,
+    "gradeType": null,
+    "grade": null,
+    "gradeApplyDateTime": null,
+    "name": null,
+    "sex": null,
+    "birthday": null,
+    "status": null,
+    "joinDateTime": null,
+    "leaveDateTime": null,
+    "attendanceCount": 0,
+    "lastAttendanceDate": null,
+    "promotionNotification": null,
+    "sexAgreementDateTime": null,
+    "sexAgreementCancelDateTime": null,
+    "birthdayAgreementDateTime": null,
+    "birthdayAgreementCancelDateTime": null,
+    "contactTelephoneAgreementDateTime": null,
+    "contactTelephoneAgreementCancelDateTime": null,
+    "realtimeSummaryInfo": null,
+    "accumulateSummaryInfo": null,
+    "predictSummaryInfo": null,
+    "agreements": [],
+    "isMember": false,
+    "rejoinPossibleDate": null,
+    "attendanceRequestState": null,
+    "agreeSex": false,
+    "agreeBirthday": false,
+    "agreeContactPhone": false
+  },
+  "loungeMy": {
+    "myCommentActivities": null,
+    "myPollActivities": null
+  },
+  "loungeNotice": {
+    "pages": null,
+    "detail": null,
+    "newestPost": null
+  },
+  "loungeSimpleMember": {
+    "sellerNo": null,
+    "memberIdNo": null,
+    "memberId": null,
+    "gradeType": null,
+    "grade": null,
+    "gradeApplyDateTime": null,
+    "name": null,
+    "sex": null,
+    "birthday": null,
+    "status": null,
+    "joinDateTime": null,
+    "leaveDateTime": null,
+    "attendanceCount": 0,
+    "lastAttendanceDate": null,
+    "promotionNotification": null,
+    "sexAgreementDateTime": null,
+    "sexAgreementCancelDateTime": null,
+    "birthdayAgreementDateTime": null,
+    "birthdayAgreementCancelDateTime": null,
+    "isMember": false,
+    "rejoinPossibleDate": null,
+    "agreeSex": false,
+    "agreeBirthday": false
+  },
+  "loungeStory": {
+    "pages": null,
+    "detail": null
+  },
+  "menuSetting": {
+    "topMenus": {
+      "promotionMenu": {
+        "visible": false,
+        "order": 0,
+        "type": "PROMOTION",
+        "title": "",
+        "promotionCategoryExposureType": "LIST",
+        "promotionListExposureProp": {
+          "newLabelExposure": false,
+          "pageNameExposure": false,
+          "readMoreExposure": false
+        },
+        "periodDisplay": false
+      },
+      "shoppingLiveMenu": {
+        "visible": false,
+        "order": 1,
+        "type": "SHOPPING_LIVE"
+      },
+      "bestMenu": {
+        "visible": false,
+        "order": 2,
+        "type": "BEST",
+        "title": ""
+      },
+      "categoryMenu": {
+        "visible": true,
+        "order": 3,
+        "type": "CATEGORY"
+      },
+      "newProductMenu": {
+        "visible": false,
+        "order": 4,
+        "type": "NEW_PRODUCT",
+        "title": ""
+      },
+      "arrivalGuaranteeMenu": {
+        "visible": false,
+        "order": 5,
+        "type": "ARRIVAL_GUARANTEE"
+      },
+      "forYouMenu": {
+        "visible": false,
+        "order": 6,
+        "type": "FOR_YOU"
+      },
+      "loungeMenu": {
+        "visible": true,
+        "order": 7,
+        "type": "LOUNGE"
+      }
+    },
+    "bottomMenus": {
+      "exhibitionMenu": {
+        "visible": false,
+        "order": 0,
+        "type": "EXHIBITION",
+        "title": ""
+      },
+      "noticeMenu": {
+        "visible": false,
+        "order": 1,
+        "type": "NOTICE"
+      },
+      "shoppingStoryMenu": {
+        "visible": false,
+        "order": 2,
+        "type": "SHOPPING_STORY",
+        "title": ""
+      },
+      "reviewEventMenu": {
+        "visible": false,
+        "order": 3,
+        "type": "REVIEW_EVENT",
+        "title": ""
+      },
+      "qnaMenu": {
+        "visible": false,
+        "order": 4,
+        "type": "QNA",
+        "title": ""
+      },
+      "sellerInfoMenu": {
+        "visible": true,
+        "order": 5,
+        "type": "SELLER_INFO"
+      }
+    }
+  },
+  "my": {
+    "point": "",
+    "coinType": "06",
+    "orderDeliveryCounts": "",
+    "zzimProductCount": ""
+  },
+  "myKeptProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "isLoaded": false
+  },
+  "myListProducts": {
+    "simpleProducts": [],
+    "hasNextPage": true,
+    "page": 1,
+    "pageSize": 20,
+    "isLoaded": false
+  },
+  "newProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "sort": null,
+    "listDisplayType": null,
+    "page": 1,
+    "pageSize": 1,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    }
+  },
+  "notice": {
+    "list": {
+      "contents": [],
+      "page": 1,
+      "totalElements": 0
+    },
+    "detail": {
+      "id": null,
+      "postCategoryType": "ORDINARY",
+      "postTitle": "",
+      "readCount": 0,
+      "regDate": "",
+      "editorType": null,
+      "renderContent": "",
+      "mobileRenderContent": ""
+    }
+  },
+  "optimizeRequest": {
+    "types": []
+  },
+  "product": {
+    "id": null,
+    "channelServiceType": null,
+    "channelProductType": null,
+    "channelProductSupplyType": null,
+    "channelProductStatusType": null,
+    "channelProductDisplayStatusType": null,
+    "category": null,
+    "categoryNavigations": null,
+    "name": null,
+    "productUrl": null,
+    "mobileProductUrl": null,
+    "channel": null,
+    "content": null,
+    "regDate": null,
+    "modDate": null,
+    "manufactureDate": null,
+    "validDate": null,
+    "storeKeepExclusiveProduct": false,
+    "epInfo": {
+      "naverShoppingExposure": false,
+      "enuriRegistration": false,
+      "danawaRegistration": false
+    },
+    "best": false,
+    "displayDate": null,
+    "materialContent": null,
+    "orderRequestUsable": false,
+    "channelProductImages": null,
+    "channelProductAttributes": [],
+    "productNo": null,
+    "salePrice": 0,
+    "stockQuantity": 0,
+    "saleType": null,
+    "excludeAdminDiscount": false,
+    "payExposure": false,
+    "productStatusType": null,
+    "reasonForProhibition": null,
+    "statusType": null,
+    "authenticationType": null,
+    "productImages": null,
+    "naverShoppingSearchInfo": null,
+    "itselfProductionProductYn": null,
+    "afterServiceInfo": null,
+    "originAreaInfo": null,
+    "seoInfo": null,
+    "optionUsable": false,
+    "supplementProductUsable": false,
+    "purchaseReviewInfo": null,
+    "isCustomProduct": false,
+    "taxType": null,
+    "certificationTargetExcludeContent": null,
+    "minorPurchasable": false,
+    "productInfoProvidedNoticeView": null,
+    "productAttributes": null,
+    "productDeliveryInfo": null,
+    "claimDeliveryInfo": null,
+    "benefitsView": null,
+    "benefitsPolicy": null,
+    "mobileBenefitsPolicy": null,
+    "saleAmount": null,
+    "reviewAmount": null,
+    "averageDeliveryLeadTime": null,
+    "preOrder": null,
+    "sellerTags": null,
+    "bbsSeq": 0,
+    "galleryImages": null,
+    "materialImages": null,
+    "tagImages": null,
+    "barcodeImages": null,
+    "soldout": false,
+    "viewAttributes": null,
+    "additionalAttributes": null,
+    "eCouponCategory": false,
+    "cultureCategory": false,
+    "mobileDiscountRatio": 0,
+    "cultureCostIncomeDeductionRate": null,
+    "isRestrictCart": false,
+    "channelProductVideos": [],
+    "productVideos": [],
+    "detailAttributes": null,
+    "commentCount": 0,
+    "interestFreePlans": null,
+    "productVideoAuth": null,
+    "userNickname": null,
+    "relatedProductsIds": [],
+    "isPayRestrictCategory": false,
+    "isOrderRestrictCategory": false,
+    "isPointPlusMember": false,
+    "hopeDelivery": null,
+    "discountedSalePrice": 0,
+    "reviewEvent": null,
+    "rmidByUser": null,
+    "orderDeliveryAttributeType": null,
+    "orderScheduledChannelType": null
+  },
+  "productListSetting": {
+    "channelNo": 0,
+    "imageShapeType": "SQUARE",
+    "imageDisplayType": "REPRESENTATIVE",
+    "productUnitAddInfo": {
+      "reviewRatingVisible": true,
+      "reviewCountVisible": true,
+      "colorChipVisible": false,
+      "detailForPcVisible": true,
+      "cartVisible": false,
+      "bestOrNewTagVisible": true,
+      "productAttributeTagVisible": true
+    },
+    "productSortOption": {
+      "detailFilterVisible": true,
+      "sortOrderVisible": true,
+      "displayTypeVisible": true
+    }
+  },
+  "productBenefitList": {},
+  "productBestReviews": {
+    "exceptionalStorepickReviewIds": []
+  },
+  "productGift": {
+    "giftParams": {},
+    "giftButton": {
+      "isLoading": true,
+      "type": null,
+      "friendInfo": null
+    }
+  },
+  "productReviewContentSummaryTags": {
+    "PRODUCT": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    },
+    "REVIEW_DIALOG": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "status": "IDLE",
+      "reviewContentSummaryTags": null,
+      "defaultReviewContentSumamryTags": null,
+      "isOnUserBased": false
+    }
+  },
+  "productReviewGalleryAttaches": {
+    "PRODUCT": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    },
+    "REVIEW_DIALOG": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "contentListChunks": {},
+      "contentDetails": {},
+      "totalElements": null,
+      "totalPages": null
+    }
+  },
+  "productReviews": {
+    "PRODUCT": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    },
+    "REVIEW_DIALOG": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    },
+    "PHOTO_VIDEO_LIST_DIALOG": {
+      "contents": [],
+      "page": 0,
+      "size": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "loaded": false,
+      "reviewsByTempFilters": null,
+      "status": "pending"
+    }
+  },
+  "productSizeRecommendation": {
+    "hasValidRecommendation": false,
+    "userRepSize": null,
+    "sizeShowing": [],
+    "sizeRecommendationMap": null
+  },
+  "promotionManagement": {
+    "channelNo": null,
+    "storeHomePromotionManagement": {
+      "storeHomePopupExposure": false,
+      "storeHomePopupExposureConfig": {
+        "promotionPageNo": null,
+        "selectType": "AUTO",
+        "image": {
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "left": 0,
+          "url": "",
+          "originalUrl": "",
+          "property": ""
+        },
+        "periodDisplay": false
+      },
+      "promotionPagePreference": false,
+      "promotionPagePreferenceConfig": {
+        "periodDisplay": false
+      }
+    },
+    "storeEverywherePromotionManagement": {
+      "storeUpperBannerExposure": false,
+      "storeUpperBannerExposureConfig": {
+        "linkType": "PROMOTION_PAGE",
+        "periodDisplay": false
+      },
+      "searchBarBannerExposure": false,
+      "searchBarBannerExposureConfig": {
+        "image": {
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "left": 0,
+          "url": "",
+          "originalUrl": "",
+          "property": ""
+        },
+        "linkType": "PROMOTION_PAGE",
+        "periodDisplay": false
+      }
+    }
+  },
+  "qna": {
+    "contents": [],
+    "page": 0,
+    "size": 0,
+    "totalElements": 0,
+    "totalPages": 0
+  },
+  "recentOtherProduct": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "isLoaded": false
+  },
+  "recentlyViewedProducts": {
+    "simpleProducts": [],
+    "totalCount": 0,
+    "listDisplayType": null,
+    "page": 1,
+    "hasMore": false,
+    "filter": {
+      "filters": [],
+      "priceRange": null
+    },
+    "isLoaded": false
+  },
+  "renderSequence": "topBanner",
+  "rental": {
+    "policies": {},
+    "affiliateCards": {},
+    "contractConditionId": null
+  },
+  "reviewDetail": null,
+  "reviewEvent": {
+    "list": {
+      "initialized": false,
+      "contents": []
+    },
+    "detail": null
+  },
+  "reviewLike": {},
+  "reviewsFilter": {
+    "selectedSort": "REVIEW_RANKING",
+    "selectedFeature": "ALL",
+    "selectedScore": "ALL",
+    "selectedTopic": null,
+    "selectedTag": null,
+    "selectedOptions": [],
+    "selectedOptionsTemp": [],
+    "selectedCustomFilterOptions": [],
+    "selectedCustomFilterOptionsTemp": [],
+    "registeredCustomFilter": {
+      "active": false
+    },
+    "registeredCustomFilterTemp": {
+      "active": false
+    }
+  },
+  "scrollKept": {
+    "isScrollKept": false,
+    "keptScrollHeight": null
+  },
+  "seViewerContent": {
+    "isLoadedCompleted": {
+      "content": false,
+      "notice": false
+    },
+    "content": null,
+    "notices": {
+      "channelNoticeContent": null,
+      "productNoticeContent": null
+    }
+  },
+  "searchFilter": {
+    "completed": {
+      "filters": [],
+      "priceRange": null
+    },
+    "draft": {
+      "filters": [],
+      "priceRange": null,
+      "inputPriceRange": null,
+      "count": 0,
+      "countStatus": "idle"
+    },
+    "defaultPriceRange": {
+      "min": 0,
+      "max": 0
+    },
+    "exposure": {
+      "TODAY_DELIVERY": true,
+      "HOPE_DELIVERY": true,
+      "ARRIVAL_GUARANTEE": true,
+      "FREE_RETURN_INSURANCE": true,
+      "PC_DISCOUNT": true,
+      "MOBILE_DISCOUNT": true,
+      "ORDER_AVAILABLE": true,
+      "FREE_DELIVERY": true,
+      "PRE_ORDER": true,
+      "REGULAR_SUBSCRIPTION": true
+    },
+    "appliedFilter": null
+  },
+  "searchFormLayer": {
+    "keywordSuggestions": [],
+    "storePopular": null
+  },
+  "selectedOptions": {
+    "product": {},
+    "coordi": {},
+    "delivery": {},
+    "textOptions": null,
+    "simpleOptions": null,
+    "combinationOptions": null,
+    "standardOptions": null,
+    "supplementProducts": null,
+    "colorOptions": null,
+    "sizeOptions": null,
+    "hopeDeliveryOptions": {},
+    "purchaseMethodTypes": {},
+    "subscriptionDeliveryOptions": {}
+  },
+  "selectiveLive": {
+    "channel": null,
+    "productMap": {},
+    "productDiscountBroadcastMap": {}
+  },
+  "serverLocationPath": "/vtcosmetics/products/8339736573",
+  "serverReferer": {
+    "referNaver": false,
+    "referer": null,
+    "shoppingAppReferer": null
+  },
+  "serverRenderStatus": {
+    "isError": false
+  },
+  "serverRendered": true,
+  "shoppingStory": {
+    "list": {
+      "contents": [],
+      "page": 1,
+      "totalElements": 0
+    },
+    "detail": {
+      "id": null,
+      "postTitle": "",
+      "readCount": 0,
+      "regDate": "",
+      "mobileRenderContent": "",
+      "editorType": null
+    }
+  },
+  "simpleProductForDetailPage": {
+    "id": 8339736573,
+    "channelServiceType": "STOREFARM",
+    "channelProductDisplayStatusType": "ON",
+    "category": {
+      "wholeCategoryId": "50000002>50000190>50000439",
+      "wholeCategoryName": "화장품/미용>스킨케어>에센스/세럼/앰플",
+      "categoryId": "50000439",
+      "categoryName": "에센스/세럼/앰플"
+    },
+    "name": "VT 리들샷 300 앰플 50ml",
+    "dispName": "VT 리들샷 300 앰플 50ml",
+    "channel": {
+      "channelNo": 500166437,
+      "accountNo": 500166437,
+      "channelUid": "2sWDvsalXjgzZ59L2IetC",
+      "accountId": "vant365xvt",
+      "channelName": "브이티코스메틱"
+    },
+    "storeKeepExclusiveProduct": false,
+    "productNo": 8299957076,
+    "salePrice": 43000,
+    "saleType": "NEW",
+    "productStatusType": "SALE",
+    "authenticationType": "NORMAL",
+    "seoInfo": {
+      "sellerTags": [
+        {
+          "text": "각질케어"
+        },
+        {
+          "text": "매끈한피부"
+        },
+        {
+          "text": "모공케어"
+        },
+        {
+          "text": "광채피부"
+        },
+        {
+          "text": "피부결개선"
+        },
+        {
+          "text": "인생템"
+        },
+        {
+          "text": "가벼운사용감"
+        },
+        {
+          "text": "니들패치"
+        },
+        {
+          "text": "마이크로니들패치"
+        },
+        {
+          "text": "모공축소"
+        }
+      ]
+    },
+    "optionUsable": false,
+    "supplementProductUsable": false,
+    "naverShoppingSearchInfo": {
+      "brandId": 224863,
+      "manufacturerName": "㈜이앤씨",
+      "brandName": "브이티코스메틱",
+      "modelName": "VT 리들샷 300 50ml"
+    },
+    "purchaseReviewInfo": {
+      "purchaseReviewExposure": true
+    },
+    "minorPurchasable": true,
+    "isRestrictCart": false,
+    "benefitsView": {
+      "discountedSalePrice": 28900,
+      "mobileDiscountedSalePrice": 28900,
+      "sellerImmediateDiscountAmount": 14100,
+      "mobileSellerImmediateDiscountAmount": 14100,
+      "managerImmediateDiscountAmount": 0,
+      "mobileManagerImmediateDiscountAmount": 0,
+      "discountedRatio": 32,
+      "mobileDiscountedRatio": 32,
+      "sellerPurchasePoint": 0,
+      "mobileSellerPurchasePoint": 0,
+      "sellerCustomerManagementPoint": 0,
+      "mobileSellerCustomerManagementPoint": 0,
+      "managerPurchasePoint": 289,
+      "mobileManagerPurchasePoint": 289,
+      "managerPurchaseExtraPoint": 0,
+      "mobileManagerPurchaseExtraPoint": 0,
+      "generalPurchaseReviewPoint": 150,
+      "premiumPurchaseReviewPoint": 300,
+      "storeMemberReviewPoint": 0,
+      "managerGeneralPurchaseReviewPoint": 50,
+      "managerPremiumPurchaseReviewPoint": 150,
+      "givePresent": true,
+      "textReviewPoint": 150,
+      "photoVideoReviewPoint": 300,
+      "afterUseTextReviewPoint": 200,
+      "afterUsePhotoVideoReviewPoint": 400,
+      "managerTextReviewPoint": 50,
+      "managerPhotoVideoReviewPoint": 150,
+      "managerAfterUseTextReviewPoint": 50,
+      "managerAfterUsePhotoVideoReviewPoint": 150,
+      "dispDiscountedSalePrice": 28900,
+      "dispDiscountedRatio": 32
+    },
+    "reviewAmount": {
+      "totalReviewCount": 1323,
+      "premiumReviewCount": 0,
+      "averageReviewScore": 4.85,
+      "productSatisfactionPercent": 0
+    },
+    "displayable": true,
+    "usableDelivery": true,
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20260827_133/1787824537263JlmvU_JPEG/4220610410155472_1521947163.jpg",
+    "representativeImageWidth": 1000,
+    "representativeImageHeight": 1000,
+    "optionalImageUrls": [
+      "https://shop-phinf.pstatic.net/20230619_233/1687155913616Ud2jz_JPEG/1051807583440620_1950601212.jpg",
+      "https://shop-phinf.pstatic.net/20230403_188/1680496846540MOsUw_JPEG/cqXbR_104186_7.jpg",
+      "https://shop-phinf.pstatic.net/20230403_134/16804968467426G3xu_JPEG/LFtDb_104186_8.jpg"
+    ],
+    "representativeVideoId": "78F40B2CA7C2F3CE44E180777166B3C2774C",
+    "productDeliveryInfo": {
+      "deliveryFeeType": "FREE",
+      "baseFee": 0,
+      "deliveryAttributeType": "ARRIVAL_GUARANTEE",
+      "installationFee": false,
+      "deliveryMethodTypes": [
+        "DELIVERY"
+      ],
+      "deliveryCompany": {
+        "id": "CJGLS",
+        "name": "CJ대한통운"
+      }
+    },
+    "detailContents": {
+      "detailContentText": "본 제품은 브이티코스메틱 공식스토어 상품으로 믿고 구매하실 수 있습니다.",
+      "editorType": "SEONE"
+    },
+    "enableCart": true,
+    "freeDelivery": true,
+    "todayDelivery": false,
+    "regularSubscription": false,
+    "arrivalGuarantee": true,
+    "subscriptionBenefitContent": [],
+    "productLogistics": {
+      "logisticsCompanyNo": 100000004,
+      "logisticsCompanyId": "CJ",
+      "logisticsCompanyName": "CJ대한통운(더풀필)",
+      "useExternalStock": true
+    },
+    "productLogisticsStocks": [
+      {
+        "centerNo": 300000098,
+        "stockQuantity": 23
+      }
+    ],
+    "rmids": [
+      "Hp",
+      "Hq",
+      "Hr",
+      "Hs",
+      "Ht",
+      "Hu",
+      "Hv",
+      "Hw",
+      "Hx"
+    ],
+    "rentalOneTimeFee": false,
+    "stockQuantity": 23,
+    "benefitsPolicy": {
+      "sellerImmediateDiscountPolicyNo": "SE_8299957076",
+      "sellerImmediateDiscountValueUnit": "WON",
+      "sellerImmediateDiscountValue": 14100
+    },
+    "mobileBenefitsPolicy": {
+      "sellerImmediateDiscountPolicyNo": "SE_8299957076",
+      "sellerImmediateDiscountValueUnit": "WON",
+      "sellerImmediateDiscountValue": 14100
+    },
+    "purchaseQuantityInfo": {
+      "maxPurchaseQuantityPerId": 5,
+      "maxPurchaseQuantityPerOrder": 3
+    },
+    "dispSalePrice": 43000,
+    "claimDeliveryInfo": {
+      "freeReturnInsurance": false
+    },
+    "epInfo": {
+      "syncNvMid": 85884236896,
+      "naverShoppingRegistration": true,
+      "naverShoppingExposure": true
+    },
+    "affiliateYn": true,
+    "adultAuthorizationType": "NOT_LOGIN",
+    "authorizationDisplay": "NORMAL",
+    "orderDeliveryAttributeType": "ARRIVAL_GUARANTEE",
+    "orderScheduledChannelType": null
+  },
+  "productDetailBroadcast": {
+    "storeBroadcastChannelAuth": {
+      "id": null,
+      "serviceId": "",
+      "serviceName": "",
+      "broadcasterId": "",
+      "channelUid": "",
+      "broadcastAuthority": false,
+      "shortclipAuthority": false,
+      "grade": ""
+    },
+    "broadcastOnAir": {
+      "isFetched": false,
+      "data": null
+    },
+    "broadcastStandBy": {
+      "isFetched": false,
+      "data": null
+    }
+  },
+  "storePromotionPage": {
+    "channelNo": null,
+    "id": null,
+    "name": null,
+    "allListDisplay": true,
+    "periodDisplay": false,
+    "periodDisplayEndDate": null,
+    "periodDisplayStartDate": null,
+    "template": "BASIC",
+    "skinType": "GRAY",
+    "basic": null,
+    "custom": null,
+    "lookbook": null,
+    "product": null,
+    "story": null,
+    "display": true,
+    "createdDate": null,
+    "storePromotionPageStatus": "ON"
+  },
+  "storePromotionPageOnStatus": {
+    "storePromotionPageStatus": "SUSPENSION",
+    "exposeReturnToPromotionOnCategory": false,
+    "exposeReturnToPromotionOnDetail": false,
+    "expandedStorePromotionAccordion": null
+  },
+  "talktalk": {
+    "marketingMessage": null
+  },
+  "talktalkSearch": {
+    "isError": false,
+    "keyword": null,
+    "categoryKey": null,
+    "simpleProducts": [],
+    "totalCount": 0,
+    "page": 1,
+    "selectedProductNos": [],
+    "hasMore": false
+  },
+  "toast": {
+    "isVisible": false,
+    "type": null,
+    "data": null,
+    "dialogToastRootId": null,
+    "sequence": 0
+  },
+  "userCollectItems": [],
+  "widgetContents": {
+    "advancedPromotionWidget": {
+      "benefitConfig": {},
+      "lookbookConfig": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": [],
+          "simpleCatalogs": []
+        }
+      },
+      "preOrderConfig": {},
+      "reviewEventConfig": {
+        "eventDetails": {},
+        "simpleProducts": {}
+      },
+      "videoConfig": {}
+    },
+    "bestProductWidget": {
+      "ssr": false,
+      "data": {
+        "bestProducts": {
+          "REALTIME": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "DAILY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "WEEKLY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          },
+          "MONTHLY": {
+            "simpleProducts": [],
+            "simpleCatalogs": []
+          }
+        },
+        "allCategoryProducts": {
+          "simpleProducts": [],
+          "simpleCatalogs": []
+        },
+        "hasBestProducts": false
+      }
+    },
+    "bestReviewWidget": {
+      "ssr": false,
+      "data": {
+        "reviewProducts": [],
+        "reviewCatalogs": []
+      }
+    },
+    "categoryProductWidget": {
+      "ssr": false,
+      "data": {}
+    },
+    "couponPointProductWidget": {
+      "couponPointProductWidget": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget1": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget2": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget3": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      },
+      "couponPointProductWidget4": {
+        "ssr": false,
+        "data": {
+          "simpleProducts": []
+        }
+      }
+    },
+    "customBannerWidget": {},
+    "customProductWidget": {},
+    "exhibitionBannerWidget": {
+      "exhibitions": []
+    },
+    "marketingLayerProductWidget": {},
+    "newProductWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    },
+    "promotionManageWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    },
+    "relationProductWidget": {
+      "ssr": false,
+      "data": {
+        "manual": [],
+        "auto": [],
+        "mappingProducts": {}
+      }
+    },
+    "shoppingStoryWidget": {
+      "ssr": false,
+      "data": {
+        "shoppingStories": []
+      }
+    },
+    "storePromotionPageWidget": {
+      "basicImageWidget": {
+        "products": {}
+      },
+      "customBannerWidget": {
+        "products": {}
+      },
+      "gridImageWidget": {
+        "products": {}
+      },
+      "mainProductWidget": {},
+      "newProductListWidget": {
+        "sortedProductNoMap": {},
+        "products": {},
+        "firstRule": {}
+      }
+    },
+    "timeSaleProductWidget": {},
+    "wholeProductWidget": {
+      "ssr": false,
+      "data": {
+        "simpleProducts": [],
+        "simpleCatalogs": []
+      }
+    }
+  },
+  "view": {
+    "type": "pc"
+  }
+}
