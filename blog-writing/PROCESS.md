@@ -129,3 +129,23 @@ keyword_analysis.md에서 도출한 구매 페르소나 3명이 **실제 검색 
 3. **구체성 부족** — 실제 어떤 제품을 샀는지, 아기 반응이 어땠는지 없음
 4. **구매 연결 누락** — 감성 마무리 후 "그래서 어디서 사요?"에 대한 답 없음
 5. **광고 패턴 문장** — "강추", "사용은 진짜 간단해요" + 바로 가격 나열
+
+---
+
+## PHASE 4: 블로그 업로드 (BSK)
+
+### 목적
+작성 완료된 최종 마크다운을 네이버 스마트에디터 ONE에 입력하고 임시저장(또는 발행)합니다. Playwright 방식 대신 안정적인 `bsk` (Browser Skill CLI)를 사용합니다.
+
+### 실행 방법
+```bash
+python blog-writing/upload_with_bsk.py blog-writing/final/<파일명>_final.md
+```
+
+- **작동 원리**:
+  1. `bsk evaluate`로 브라우저 조작 팝업 닫기
+  2. `bsk fill`로 제목 입력
+  3. 마크다운을 HTML로 변환한 후, `bsk evaluate`로 ClipboardEvent(paste)를 발생시켜 본문 서식(볼드, 줄바꿈, 소제목)과 태그를 완벽하게 붙여넣기
+  4. 자동으로 '임시저장' 버튼 클릭
+
+> ⚠️ 이전에 혼재되었던 `os_paste.js`, `publish_final.ps1` 등 실험적 bsk/Playwright 업로드 스크립트들은 모두 제거되었으며, `upload_with_bsk.py` 하나로 통합 관리합니다.
